@@ -1,0 +1,20 @@
+CLINICAL HISTORY:  The patient is a 76-year-old woman with past history of stroke and cerebral mass with vasogenic edema in the left frontoparietal and temporal region, and a small area with hemorrhage in the right temporal region.  The patient was admitted with aphasia.
+MEDICATIONS:  Ativan, Keppra, and others.
+INTRODUCTION:  24-hour continuous video EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel EKG.  Seizure and spike detection software was utilized.  The patient required Ativan in the early part of the EEG, was initially uncooperative and removed the electrodes once.  She was intermittently somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a dynamic pattern.  The initial hours of the record include rhythmic delta from the left hemisphere.  With intermittent arousals, the delta disappears and there are sections of the record where an alpha rhythm can be demonstrated in both hemispheres. Particularly in the early hours of the record, in wakefulness, there is eye blink artifact, and there is rhythmic delta from the left hemisphere particularly T501-01, but none of these bursts evolved in the matter of an electrographic seizure. FIRDA was noted.
+The sleep record is markedly slow.  There is occasional faster frequency activity noted in the left frontal central region and sleep.  This may represent a slower spindle like activity.
+Epileptiform Detections/ Epileptiform discharges:
+Intermittent bursts of rhythmic delta from the left posterior quadrant.
+In sleep, there are occasional lower voltage bifrontal sharp waves.
+Electrographic Seizures:  No sustained or definitive electrographic seizures, but bursts of rhythmic delta from the left hemisphere.
+Heart rate: 100 BPM.
+IMPRESSION:
+CLINICAL CORRELATION:  This first day of continuous video EEG monitoring was remarkable for:
+Bursts of rhythmic delta from the left hemisphere, and not sustained and not as prominent as in the baseline which demonstrated more clearly defined electrographic seizures.
+An asymmetry with more significant slowing from the left hemisphere than the right.
+FIRDA.
+Occasional discrete bifrontal sharp waves.
+
+
+
+

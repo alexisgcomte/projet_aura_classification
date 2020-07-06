@@ -1,0 +1,28 @@
+CLINICAL HISTORY: 33 year old woman with recurrent tonic-clonic seizures in the context of an ear infection.
+
+MEDICATIONS: Tegretol, Advair, Albuterol
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz alpha rhythm. Hyperventilation is demarcated in the EEG and looking at the video it is difficult to see that the patient is hyperventilating, but she has an electrographic seizure during the EEG. Surprisingly, the video does not suggest any evidence that the patient is hyperventilating or any clinical features associated with this seizure during hyperventilation. The technologist describes the patient as poorly cooperative.
+
+Reviewing both the data for the seizure and the hyperventilation, the first ictal changes are noted at 14:52 with an increase in fast activity. The patient puts her hand to her face at 14:52:21. The electrographic seizure begins at 14:54:11. There is the abrupt increase in fast activity. This can be seen bilaterally, but it is most intense in the right hemisphere particularly in the right central parietal with spread to the posterior temporal region. Approximately 3 seconds later, the can be seen bilaterally picked up in the left posterior regions, but it is exquisitely prominent in the right central parietal region and right posterior temporal region. The activity includes alpha and beta frequency activity. As the activity continues, no testing of the patient is performed. Activity shows frequency evolution at 14:54:46 and is gradually slowing.
+
+It demonstrates clear frequency evolution and slowing at the T1-T2 electrode but continuing on in the central parietal region at 14:56:26. The technologist does not appear to be aware of the seizure and changes montages at 14:55:53 as the seizure continues to evolve. This is in the closing seconds of the seizure. The activity shows slowing in the right central parietal region with ongoing fast activity on the left then a more clear spike and wave activity is observed at 14:56:08. The seizure ends abruptly at 14:56:17. Total seizure duration 2 minutes and 7 seconds.
+
+Following this, the patient transitions to stage II sleep with bursts of vertex waves and spindles. She is tachycardic in the sleep record that follows with the heart rate increasing from 68 to 120 bpm.
+
+A second burst of ictal activity occurs during photic stimulation but is not sustained.
+
+A third seizure occurs at 14:04 of similar duration and Is identical in pattern to the first seizure described in the initial section of the record.
+
+HR: 60-120 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Electrographic seizure.
+2. Two complex partial seizures.
+
+CLINICAL CORRELATION: There was no testing performed during the two seizures. It is not clear that the tech was aware that the patient was seizing. In any case, looking at the video, it was impossible to determine if there was any clinical correlate. These findings should be compared with previous EEGs. In any case, ongoing monitoring may critical for this patient if these seizures seem to be going unrecognized.
+
+
+

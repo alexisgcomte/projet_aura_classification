@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 29-year-old male with a 30-minute seizure after overdosing on cocaine, cannabis, and tricyclics; multiple medical problems.
+MEDICATIONS: Phenobarbital, Ativan, and Fentanyl.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG is continuous and includes generous, diffuse beta activity.  There is intermittent rhythmic low voltage theta or delta.  Spontaneous arousals are noted with eye movement and an increase in alpha and theta frequency activity.
+HR:  90 BPM.
+IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a primarily beta and small amount of theta patterns.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The spontaneous reactivity and variability, as well as the alerting suggest a relatively light level of sedation.  Overall, this pattern is compatible with pharmacologic sedation.  In this individual with status epilepticus, an additional recording may be necessary if epilepsy is an important concern.
+
+
+
+

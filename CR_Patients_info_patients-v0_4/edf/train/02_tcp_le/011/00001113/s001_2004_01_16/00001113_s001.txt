@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 20-year-old woman with epilepsy since age four, history of a frontal injury, last seizure today.  She has multiple seizures per week described as five minutes, loss of consciousness, but then the patient feels fine.
+MEDICATIONS: Depakote.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  The patient had multiple EEG discharges during the recording.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz, 60 V posterior dominant rhythm and age appropriate quantities of background, low voltage, frontocentral beta and theta activity.  In hyperventilation, there are bursts of frontally predominant, high amplitude, 3 to 4 Hz spike and slow wave activity, which are synchronous.  The bursts are typically of five to seven seconds in duration, although there are shorter bursts.  The patient may stop hyperventilating during the bursts and lick her lips, but immediately upon cessation of the discharge, her mental status returns to baseline.  Photic stimulation elicits brief bilateral driving.  Features of drowsiness include an increase in the background slowing.  Deeper stages of sleep are not achieved.
+HR:  66 BPM.
+IMPRESSION: Abnormal EEG due to:
+Bursts of 3 to 4 Hz spike and slow wave activity with clinical correlates of very briefly altered mental function.
+CLINICAL CORRELATION: This tracing supports a generalized mechanism for epilepsy and the seizures recorded should be considered absence seizures.
+
+
+
+

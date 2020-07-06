@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 74 year old right handed male with recurrent status epilepticus, altered mental status.
+MEDICATIONS: Trileptal, Depakote, Oxcarbazepine, Plavix, Cipro, Ofloxacin, Valproate, Lisinopril, Donepezil
+INTRODUCTION: Continuous digital video EEG was performed at bedside using 10-20 system of electrode placement with 1 channel of EKG. During this section of the record, the patient is confused. Unfortunately he also eventually removes his EEG electrodes.
+DESCRIPTION OF THE RECORD: The activity from the left hemisphere includes primarily a theta frequency pattern. From the right hemisphere until the patient removes the electrodes there is a focus of periodic delta in the right mid to posterior temporal region. Clinical seizures are not identified and it is not clear that the patient removed his EEG electrodes with the seizure or with something else. EEG monitoring resumes after a gap on 3/9/2011. In that juncture, the patient's primary seizure medications are Depakote. By the morning of 3/9/2011, there is some slow periodic delta in the right posterior quadrant but there is additional faster frequency activity. The patient is confused. Practice push buttons are performed during the patient's confusion. The slow delta is noted but there are no definitive epileptiform features noted.
+Although the clinical team notes that the patient is frequently confused, neither the clinical team nor the computer identify epileptiform seizures.
+HR: 72 bpm
+IMPRESSION: This EEG monitoring sessions is remarkable for:
+1. The by and large resolution of the right posterior quadrant periodic delta.
+2. Generalized background slowing.
+3. Focal slowing in the right posterior region.
+CLINICAL CORRELATION: In this individual who was admitted with repetitive seizures and experienced at least a single seizures on 3/8/2011, long term monitoring demonstrated overall resolution of the seizures and improvement of the overall background. Of note, as posterior periodic delta resolved, occasional right mid to anterior temporal sharp waves were noted.
+
+
+

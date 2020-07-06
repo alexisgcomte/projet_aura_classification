@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 2-year-old male with tonic-clonic static epilepticus.  History of three previous seizures.  Born at 32 weeks gestation.
+MEDICATIONS: ???
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The child is either agitated or asleep.
+DESCRIPTION OF THE RECORD: As the tracing opens, the child is drifting off to sleep with hypersynchronous, rhythmic high amplitude, primarily theta frequency activity.  There is some shifting asymmetry seen in the background as the child drifts off to sleep.  In conjunction with the appearance of vertex waves, there are rare right centrotemporal sharp waves.  There is also shifting arrhythmic delta activity, again a bit more prominent from the right centrotemporal region.  Stimulation of the patient produces some hypersynchronous rhythmic slowing.  There is a transition between stage II and stage III sleep with an increase in delta identified.
+HR:  132 BPM.
+IMPRESSION: Abnormal EEG for a child of this age due to:
+Shifting asymmetries with suboptimal organization for a child of this age.
+Rare, right central sharp waves.
+CLINICAL CORRELATION: If status epilepticus and/or its therapies are an acute process for this child, it might explain the background slowing and disorganization.  No previous EEGs were available for comparison.  If further evaluation is needed, a repeat study as this patient returns to his baseline function may be valuable.
+
+
+
+

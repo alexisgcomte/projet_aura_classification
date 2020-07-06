@@ -1,0 +1,17 @@
+CLINICAL HISTORY: This is an 8-year-old girl observed by her mother to have staring spells lasting about 15 to 20 seconds or minutes.  She is completely unresponsive with no shaking.
+
+MEDICATIONS: Antibiotics.
+
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and well organized.  There is a 9.5 Hz, 75 to 100 uV posterior dominant rhythm with posterior slow waves of youth.  The alpha wave and wanes with a small amount of low voltage, frontocentral beta activity in drowsiness.  There are bursts of 3 to 5 Hz spike and wave activity lasting for one to three seconds, most often predominantly seen in the occipital region, but spreading to the frontal region by the end of the burst .  Hyperventilation and photic stimulation increased the frequency of the spike/wave activity. Drowsiness is characterized by slow rolling eye movements and a mixed frequency of brain wave activity.
+
+HR:  84 BPM.
+
+IMPRESSION: Abnormal EEG due to:
+1.	Bursts of 3 to 5 Hz spike and wave activity predominantly in the posterior region.
+
+CLINICAL CORRELATION: This tracing is suggestive of generalized epilepsy.  The differential diagnosis may also include a generalized seizure originating from the occipital region.  This is an unusual pattern.  Follow-up EEG is recommended.
+
+
+

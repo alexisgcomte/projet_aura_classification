@@ -1,0 +1,16 @@
+CLINICAL HISTORY: This is a 23-year-old HIV positive female with anemia and possible seizures, history of right MCA aneurysm that was clipped.
+MEDICATIONS: Morphine, Lidocaine, others.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a posterior dominant rhythm of 8 Hz and 30 V.  There are portions of the record with intermittent focal slowing from the right hemisphere characterized by disruption of faster frequency activity.  There are occasional sharp waves identified from the right anterior temporal region, as well as some sharply contoured transience picked up in the frontal regions bilaterally.
+At 16:25:20, there is some rhythmic delta activity identified from the right frontotemporal region.  This gradually evolves with repetitive rhythmic 3 to 4 Hz activity.  There is underlying sharp wave activity.  Base activity is seen in the final sections of the record as the study ends.  There are no clinical comments regarding this behavior, but there appears to be no clinical correlate.
+HR:  108 BPM.
+IMPRESSION: Abnormal EEG due to:
+Subclinical seizure identified from the right anterior temporal region of unclear duration, but still present at the close of the EEG.
+Focal slowing from the right hemisphere maximum in the temporal region.
+Right anterior temporal sharp waves.
+Bilateral, sharply contoured frontal transients
+CLINICAL CORRELATION: This patient is diagnostic of a partial mechanism for seizures.  Additional EEG recording could be helpful.
+
+
+
+

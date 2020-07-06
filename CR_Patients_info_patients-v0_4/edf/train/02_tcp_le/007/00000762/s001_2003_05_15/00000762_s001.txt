@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 41-year-old woman diagnosed with an aneurysm two years ago, potentially having seizures characterized by dizziness with mild headache, Hx migraines and DM.
+MEDICATIONS: Inderal, Percocet, Glucophage.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record. There is no mention of a craniotomy scar.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 9.5 Hz, 30 V posterior dominant rhythm. When the tech performs testing and has the patient open and close the eyes, the EEG is best organized, but when she is resting comfortably, there is a small degree of background slowing identified in the occipital regions, bilaterally with the suggestion of a subtle focus of delta identified in the right posterior temporal region.  The activity is slightly higher on the right compared to the left, but not outside of the range of normal in drowsiness.
+Hyperventilation is performed with good effort and seems to accentuate some of the occipitally predominant, very subtle delta.  In brief sleep, there is an isolated spindle but not sustained stage II sleep. At the very end of the record, the patient falls asleep and in sleep there are POSTS, and intermittent  focal slowing from the right posterior temporal region and the breach are more prominent.   In the transition to sleep there is sharply contoured wicket at P4>C4.
+Photic stimulation does not significantly activate the record.
+HR:  78 BPM.
+IMPRESSION: Mildly abnormal EEG due to:
+Subtle posterior temporal theta, right slightly greater than the left.
+Likely breach rhythm on the right.
+CLINICAL CORRELATION: Evaluation of this patient’s cranium would be helpful to make sure that there is truly breach activity on the right.  No definite epileptiform features were identified in this record. If seizures are an important consideration, a follow-up study capturing deeper stages of sleep may be of use.
+
+
+
+

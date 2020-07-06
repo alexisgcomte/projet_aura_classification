@@ -1,0 +1,16 @@
+CLINICAL HISTORY: This is a 29-year-old male with epilepsy.  The patient is a poor historian, non-compliant but with a past history of headaches prior to seizures.
+MEDICATIONS: Carbamazepine.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there are portions of the record which are well organized with symmetric, reactive 9.3 Hz posterior dominant rhythm, which reaches amplitudes up to 70 V. There are additional portions of the awake record with intermittent focal slowing identified from the left hemisphere maximum in the temporal regions but identified throughout that hemisphere.  There are also portions in the awake record where there is background slowing and disorganization.  In relaxed wakefulness as well as following hyperventilation, there are high amplitude spike and slow wave complexes identified from the left hemisphere.  The majority of these are maximum in the left mid-temporal region but with generous spread throughout the left hemisphere.  They may occur as couplets with a lower amplitude spike and slow wave discharge at FP1/F7 followed by a discharge at T3/F7.  These are associated with focal slowing from the left hemisphere particularly in the frontotemporal and frontocentral regions.
+Drowsiness is characterized by attenuation of the alpha rhythm, as well as an accentuation of the focal slowing from the left hemisphere and the sharp waves described above.  The sharp waves are typically high amplitude greater than 100 V and sometimes greater than 150 V.  On the whole, the epileptiform activity seems to be maximum at F7.  As the patient reaches light sleep, the epileptiform activity has a poly spike and slow wave morphology, again maximum in the left anterior temporal region.  Deeper stages of sleep are not sustained.
+Photic stimulation elicits brief driving bilaterally.
+HR:  78 BPM.
+IMPRESSION: Abnormal EEG due to:
+Intermittent focal slowing from the left hemisphere.
+Anterior temporal spike and slow wave activity from the left sometimes with variable maximum but with high amplitude discharges with a generous field of spread.
+Intermittent background disorganization identified from both hemispheres.
+CLINICAL CORRELATION: 	Compatible with partial mechanism for epilepsy and a structural abnormality on the left as well as a diffuse disorder of cerebral function.
+
+
+
+

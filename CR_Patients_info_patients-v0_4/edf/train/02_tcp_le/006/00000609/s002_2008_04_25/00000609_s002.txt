@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 	64 year-old male with epilepsy since age 26. Described as foaming at the mouth followed by generalized stiffness, unresponsiveness, lasting 3-4 minutes. Post ictal of confusion. Last seizure was April 21, 2008. Typically 3-4 per month.
+MEDICATIONS:  Phenytoin, Primidone, Simvastatin, Aspirin, Temazepam, Levothyroxine
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontal and central beta activity. There is a subtle right central temporal sharp wave that is observed in wakefulness. In addition, temporal wickets observed but it is somewhat slower otherwise on the left. Additionally, T1 sharp and slow wave complexes are observed as hyperventilation is initiated. Following hyperventilation, the patient becomes drowsy. Sleep is not sustained. Photic stimulation does not activate the record.
+HR: 	60 bpm.
+IMPRESSION:   Abnormal EEG due to:
+1.   Rare epileptiform activity including a single right central temporal sharp wave
+2.   Left anterior temporal sharp activity just prior to and during hyperventilation.
+CLINICAL CORRELATION:	This EEG supports a localization related epilepsy.
+
+
+
+

@@ -1,0 +1,16 @@
+ADDITIONAL REFERRING DOCTOR:  Trauma service.
+CLINICAL HISTORY:  This is a 60-year-old male status post suicide attempt by hanging earlier in the day, complicated by a cardiac arrest x2.  Patient comatosed with involuntary jerking at 3 p.m.  EEG recorded at 6:40 p.m.
+MEDICATIONS:  __________, Versed, and Ativan earlier in the day.
+INTRODUCTION:  A 32-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was comatosed, intubated with intermittent involuntary movements.  This was a technically challenging EEG with the patient who had large, intermittent body jerks, and impedances and technical conditions were difficult.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a suppressed pattern with muscle artifact.  Brief bursts of high amplitude rhythmic theta were noted with underlying jerking.  The brief bursts of jerking were axial jerks.
+There were intermittent more sustained, more clearly ictal discharges with some frequency evolution, varying from 2.5 hertz to 1.2 hertz over the course of the brief discharges.  Discharges were approximately 30 seconds in duration.  The motor activity associated with these discharges included activity that appeared thrashing and almost circular.  The briefer discharges, lasting less than 3 seconds were just simply whole body jerks.
+Heart rate 120 bpm.
+IMPRESSION:  This is a complex at a postanoxic pattern, but is remarkable for:
+A brief myoclonic bursts without a definitive ictal signature.
+More prolonged bursts, which demonstrate frequency evolution as would be seen in a seizure.
+A very prominent burst suppression pattern with a suppressed pattern when the patient is not demonstrating the activities described above.
+Absence of reactivity or variability.
+CLINICAL CORRELATION:  These findings are worrisome in the acute, postanoxic scenario.  This patient will go on to long-term EEG monitoring with a pharmacologic management.
+
+
+

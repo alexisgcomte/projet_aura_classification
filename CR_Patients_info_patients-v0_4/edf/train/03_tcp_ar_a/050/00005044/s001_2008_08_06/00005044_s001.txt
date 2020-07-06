@@ -1,0 +1,16 @@
+CLINICAL HISTORY:   84 year-old gentleman with acute agitation, disorientation, possible complex partial seizure.  CVA, TIA, hypertension, epilepsy, atrial fibrillation, hyperlipidemia, pacemaker, basal cell carcinoma.
+MEDICATIONS:   Seroquel, Metoprolol,  Simvastatin.
+INTRODUCTION:   Digital video EEG was performed at beside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had a clinical event during the procedure.  This is a 42-minute EEG.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is somnolent. The background EEG is low voltage flow with a mixture of theta and beta frequency activity.  There are intermittent sharp waves identified in the record.  These include high amplitude, 75 to 80 microvolt left anterior temporal sharp waves of 190 milliseconds' duration.  Some of them are slightly irregular with significant irregular followed by slow waves.  Tiny, discrete, right temporal, sharp waves are also observed.
+A cluster of three seizures spanning 2 minutes is observed at 9:38:20.  The onset of the ictal activity is subtle.   It is rhythmic beta activity that emanates from the left hemisphere maximum in the left temporal region.  It waxes and wanes over the 2 minutes, stopping and starting.  There is definitive frequency evolution and a sharp wave and rhythmic delta at the end of it.
+Behavioral features of this complex partial seizure include inability to respond to tactile stimulation, an appearance of obtundation but bilateral withdrawal of the lower extremities to noxious stimuli.  Immediately after the seizure ends, physician enters the examines the patient.  He is unable to speak but he nods "Uh-huh" to most questions.
+In the immediate period after the seizures ends with the physician at the bedside, the patient is more alert with eye opening and eye closure but immediately  afterwards he nods and drifts off to sleep.
+HR: 	78 bpm, irregular
+IMPRESSION:   Abnormal, 43-minute, video EEG due to:
+1. 	A cluster of 3 left temporal complex partial seizures.
+2. 	Left temporal sharp waves.
+3. 	Tiny, right temporal spikes.
+CLINICAL CORRELATION:  This EEG is diagnostic of a complex partial epilepsy. These findings were addressed with the team today.
+
+
+

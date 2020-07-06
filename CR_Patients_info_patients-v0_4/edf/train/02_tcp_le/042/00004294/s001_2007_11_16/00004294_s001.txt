@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   44-year-old woman with epilepsy for many years, increasing seizures with abusive boyfriend. The patient described seizures today and tonic-clonic with tongue biting, incontinence, followed by confusion. Past comprehensive evaluation currently unavailable.
+MEDICATIONS:  Klonopin, Topamax, Keppra
+INTRODUCTION:   Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are completed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG is well organized with low voltage, 10 Hz alpha rhythm and a small amount of voltage, frontocentral beta activity. There is a very subtle low voltage theta observed from the left temporal region which is rhythmic in nature and present prior to hyperventilation. Hyperventilation does not otherwise activate the record. As the patient becomes drowsy intermittent rhythmic theta is identified in the left temporal region and transitions from anterotemporal to posterotemporal. Photic stimulation elicits a low voltage, harmonic and superharmonic driving response.
+HR: 	72 bpm.
+IMPRESSION:   Very subtly abnormal EEG due to:
+1.  Low voltage rhythmic left temporal theta.
+CLINICAL CORRELATION:  No epileptiform features are observed but in temporal lobe epilepsy, similar rhythmic features have been reported. To characterize epileptiform activity, additional more prolonged recording may be essential. Appropriate temporal montages may be necessary.
+
+
+
+

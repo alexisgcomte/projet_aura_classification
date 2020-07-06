@@ -1,0 +1,33 @@
+CLINICAL HISTORY: 	53 year old with status epilepticus.
+
+MEDICATIONS: Depakote, Midazolam
+INTRODUCTION:  Continuous video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+
+DESCRIPTION  OF THE RECORD:  In the initial portions of the record the patient has an ongoing ictal pattern with seizure lasting 6 to 90 seconds which is tonic-clonic in nature followed by a suppressed pattern for another 60-90 seconds. When he is not seizing his body is turned slightly to the left. He seems to be overbreathing  or gasping with the ventilator. In addition, there appears to be something which may represent an artifact in the left occipital greater than right region observed in between the seizures, but it is also picked up in some of the extracranial region. It may represent some movements for him.
+
+Over the initial hours of the recording, midazolam drip is titrated up, and pressor medications are necessary. In addition, the patient developed a temperature of 105.
+
+By 22:59 the background EEG shows an abating ictal pattern. The background includes delta and theta. The patient is now motionless.  Again, there is a triangular occipital shape wave form which seems to be more remarkable on the left than the right observed in the interictal pattern.
+
+At 23:39 the decision was made to terminate the midazolam because of the suppressed pattern and the patient's hypotension,  and phenytoin is recommended. The phenytoin is provided approximately  10 hours later.
+
+
+
+In the intervening time the EEG is remarkable for 2 features:
+1. 	Decline in some of the caliber of some of the electrodes.
+2. 	An overall suppressed pattern.
+
+The technologist returns at 8 a.m. and replaces the electrodes. As she does this, the EEG demonstrates a low voltage, relatively featureless pattern and triangular shaped waves in this low voltage pattern at this time are seen intermittently, but some of them seem to be EKG artifact.
+
+
+
+At the close of the record tactile stimulation does not produce a change in the background of low voltage mixed theta and delta.
+
+HR:     150-96 bpm
+
+IMPRESSION:   Abnormal EEG due to:
+1.    Status epilepticus, transitioning to relatively low voltage suppressed pattern.
+2.    Question occipital sharp activity versus artifact.
+
+CLINICAL CORRELATION:  This EEG supports a severe encephalopathy.  Additional evaluation is important given the high probability of severe brain injury associated with the anoxic event.
+

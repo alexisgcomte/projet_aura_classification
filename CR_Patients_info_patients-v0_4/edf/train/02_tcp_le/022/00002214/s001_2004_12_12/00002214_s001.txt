@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 6-week-old preemie, one of a pair of twins born at 34 weeks gestation admitted with acute ischemic bowel, multiple bowel resections, now critically ill with difficulty maintaining oxygenation and hemodynamic stability.
+MEDICATIONS: Vecuronium, Epinephrine, Versed, Fentanyl, Ativan,
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is clinically immobilized, and the clinical team is working throughout the EEG to stabilize the patient.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal, relatively low voltage, and suppressed with intermittent bursts of sharply contoured activity or spikes or sharps identified from either hemisphere independently in the right centrotemporal or the left centrotemporal regions.  A probable subclinical seizure is identified at approximately 13:16.  At that time, there is a burst of epileptiform activity lasting three seconds from the right hemisphere, then approximately two seconds from the left with gradual build up of sharply contoured activity, which seems to be most intense close to the vertex.  This activity demonstrates frequency evolution and wanes over the course of 40 seconds.  Stimulation of the patient occurs throughout the record and does not appear to activate the record.  Following the seizure, the background EEG is suppressed for approximately one minute before the bursts of sharply contoured activity are seen, a bit more sustained from the left than the right.
+HR:  180 BPM.
+IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with at times an essentially discontinuous pattern for an infant of this age.
+Bursts of independent spike and slow wave activity seen from the left or right hemisphere, sometimes more sustained particularly at the close of the record.  This activity may be unilateral in one hemisphere or occasionally bilaterally.
+One clear subclinical seizure in the course of a one-hour record.
+CLINICAL CORRELATION: This tracing supports a severe disturbance of cerebral function with clear epileptogenicity.  These results were discussed with the ICU attending.  Management of the subclinical seizure in the context of the severity of this child’s illness was discussed.
+
+
+
+

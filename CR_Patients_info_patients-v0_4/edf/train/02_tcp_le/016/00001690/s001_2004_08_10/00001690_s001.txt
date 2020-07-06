@@ -1,0 +1,20 @@
+CLINICAL HISTORY: This is a 7-week-old, former 32-week-preemie presented to the hospital for irritability four days after immunization.  In the hospital, the patient had episodes of apnea and bradycardia and mental status change requiring intubation and sedation.  History of methadone exposure intra-utero and PDA.
+
+MEDICATIONS: Antibiotics
+
+INTRODUCTION: Digital EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The neonatal montage is used.
+
+DESCRIPTION OF THE RECORD: The infant is drowsy during some portions of the record, but during much of the record, she is moving with movement picked up both with the eye leads and on the video.  She often sits with the left arm flexed and the right arm extended.  She is in a noisy environment and there are some portions where she flexes the legs and on four occasions she seems to stiffen and extend the legs into the air with flexion of the upper extremities.
+
+The background EEG is abnormal.  The record is not a burst suppression pattern, but it is more discontinuous than one would expect in this state for an infant of this age and is lower voltage.  In addition, there are occasional sharp waves, some of which are high amplitude and others more discrete.  The sharp waves are maximum on the right at T4, on one occasion O2 as well as C4.  The child has repetitive events where she stiffens her legs, Concurrent with the stiffening the EEG briefly attenuates and then a high amplitude burst is seen.  The higher amplitude burst of mixed theta and delta is approximately four seconds and then there is a brief flattening.  The activity occurs several times, but there is not a clear EEG signature for the extension of the feet in this discontinuous record.  .  There does appear to be a suggestion of an electrodecremental response.  On one occasion, this is followed by a high amplitude C3 sharp wave.  There are also episodes where the left arm is extended upwards, an unusual behavior for an infant of this age.
+
+HR:  180 BPM.
+
+IMPRESSION: Abnormal EEG for an infant of this gestational age due to:
+1. Excessive discontinuity.
+2. Excessive sharp waves, particularly right central, right mid-to-posterior temporal region, and rare left central.
+3. ? Flattening of the EEG with extension of the legs
+
+CLINICAL CORRELATION: The hyperextension of the legs, which is seen on a handful of occasions in this EEG with flattening, raises the concern that this may be an early manifestation of an electrodecremental, ictal seizure pattern.  A follow-up EEG within the next week is recommended.
+
+

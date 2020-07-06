@@ -1,0 +1,12 @@
+CLINICAL HISTORY 66-year-old woman with alcohol abuse, Ml, and epilepsy.  MEDICATIONS: Topiramate, VPA , Ativan
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient has odd behavior at the start of the record, holding her hands over her head and with eye deviation to the right.
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG includes fast activity and then theta in the background. The theta observed bilaterally, particularly in the temporal regions. This transitions as the patient's arm comes down to a periodic complex, high amplitude, seen bilaterally with an extraordinary field of spread, and even asynchrony, seeming to occur in the right hemisphere in the right posterior temporal region before the left. The activity ends at 11:25:17, suggesting that when the recording began at 11:24:25 the patient was experiencing a seizure. As the recording ends, there is background suppression, then the EEG returns to a pattern rich in alpha frequency activity with a superimposed asymmetry on the superimposed accentuation of amplitude on the right and what seems to be another, poorly defined seizure coming out of the right hemisphere, but also involving the left occipital region.
+Towards the end of the seizure at 11:27:05 the patient again has her arm elevated. This seizure waxes and wanes. A second seizures occurs in the background. Third seizure occurs at 11:35 with the patient raising her arms again and then this unusual pattern of delta in the posterior regions. They overall EEG shows a continuing cycle of complex partial status epilepticus with recurrent seizures, some of which are difficult to localize. As the recording continues, the EKG lead is disrupted. During the EEG the team tries to get the patient to take medicine, but recurrent complex partial seizures occur.
+HR:	70 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Complex partial status epilepticus with seizures which are challenging to localize, but demonstrate from the right.
+CLINICAL CORRELATION:  Complex partial status epilepticus
+
+
+
+

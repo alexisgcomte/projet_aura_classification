@@ -1,0 +1,13 @@
+CLINICAL HISTORY: An 81-year-old gentleman with advanced dementia and episode where he got confused and could not go down the stairs.
+MEDICATIONS: Risperdal, Trileptal. Others.
+INTRODUCTION: Continuous video EEG is performed in the monitoring unit using standard 10-20 system of electrode placement and 1 channel EKG. Seizure and spike detection are employed. No clinical events are observed that are thought to be seizures. The patient is unaccompanied throughout most of his hospitalization.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow
+background with primarily a 6-7 Hz posterior dominant rhythm and excess theta. There are high amplitude right anterotemporal spike and slow wave complexes identified in wakefulness and sleep. Right anterotemporal sharp waves are also noted. There are also some sharp waves observed from the left. However, these are more subtle. Those on the left seem to be more likely to occur in sleep and are lower voltage. Patient is examined during the long-term monitor. He is oriented to himself, pleasant but not particularly aware of his surroundings. Heart rate 72 BPM.
+IMPRESSION: Abnormal long-term EEG monitor due to:
+1. Background slowing.
+2. Right anterotemporal spike and slow wave complexes.
+3. Rare sharp waves on the left.
+CLINICAL CORRELATION: These findings are similar to previous studies. The background slowing is an anticipated finding in the context of advanced dementia. This EEG supports a localization-related mechanism for epilepsy, but his mental status is not a form of subclinical status epilepticus.
+
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 15-year-old male with mental retardation and seizure disorder. Seizures occur several times per day.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is agitated during the recording and sitting on his mother. Mother needed to restrain the child.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow and disorganized with theta and delta activity. Because of the patient’s agitation, a great deal of muscle movement artifact is superimposed on the background.  As the recording continues, synchronous bursts of theta activity is seen.  Occasional sharp activity or spike and wave complexes are seen at F3, C3, and P4.  Occasional bursts of fast activity in the alpha range of high amplitude is seen in the left frontal region.  When the patient becomes drowsy, the beta activity dramatically increases in the background. Deeper stages of sleep were not achieved.
+HR:  138 BPM.
+IMPRESSION: Abnormal EEG due to:
+Diffusely slow and disorganized background.
+Synchronous bursts of theta activity.
+Sharp activity and spike and wave complexes in the left central hemisphere greater than the right central hemisphere.
+Bursts of fast activity in the left frontal area.
+CLINICAL CORRELATION: This tracing is suggestive of a severe cerebral dysfunction.  It is consistent with an underlying pathological process involving both gray and white matter.  The sharp activity as well as the spike and wave complexes and burst activity supports a partial mechanism for epilepsy in this patient.  This abnormal EEG pattern is usually seen in patients with refractory epilepsy and with mental retardation.
+
+
+
+

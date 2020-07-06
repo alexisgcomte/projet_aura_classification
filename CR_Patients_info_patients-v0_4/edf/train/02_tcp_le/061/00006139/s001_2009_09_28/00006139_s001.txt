@@ -1,0 +1,19 @@
+CLINICAL HISTORY:    51 year old woman with non Hodgkin lymphoma, seizure, acute hydrocephalus. Patient required frontal Ommaya catheter and is receiving chemotherapy.
+
+MEDICATIONS: Codeine, Keppra, Synthroid, Pantoprazole, Chlorhexidine, Gentamicin, Oxacillin, Insulin
+
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Patient is intubated. A seizure occurs during the EEG.
+
+DESCRIPTION OF THE RECORD:  The EEG demonstrates  a disorganized mixed frequency pattern with arrhythmic delta, particularly occurring in bursts and beta, theta, and alpha frequency activity. Most notable is the high amplitude spike and wave or sharp and slow wave complex in the left hemisphere with a generous field of spread, maximum at T1 but really with a field throughout the left hemisphere. These epileptiform complexes are seen several times in every 10-second epoch and are associated with aftergoing slow waves. They start to build into bursts of activity by 10:51:21 which is 11 minutes into the EEG. They evolve into a seizure at
+10:51:41 with a train of repetitive left temporal mixed frequency activity, alpha and theta
+frequency activity, and underlying delta. This demonstrates frequency evolution. The seizure appears to be over at 10:53:31. Clinical correlates of the seizure include staring and an increase in heart rate. The epileptiform  activity shows brief bursts but no sustained discharges  after the event.
+
+HR:	100 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. 	An electrographic  seizure localizing to the left anterior temporal region.
+2. 	High amplitude left temporal spikes.
+3. 	Background slowing.
+
+CLINICAL CORRELATION: This EEG demonstrates a focal mechanism for this patient's seizures. Additional monitoring may be important.
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 30-year-old woman with three years complex partial epilepsy with seizures described with a flushed look, confusion, and urinary urgency.  Seizures last one to two minutes, with gagging at the onset of the seizures
+MEDICATIONS: Topamax and Keppra.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8 Hz posterior dominant rhythm with a small amount of background theta identified in wakefulness.  There is intermittent rhythmic slowing identified from the left hemisphere, which is primarily 5 to 7 Hz in frequency.  There is also some sharply contoured delta and occasional sharp waves.  Hyperventilation is performed with good effort and appears to accentuate the focal slowing and sharp waves from the left.  During hyperventilation, the patient complains of a dry mouth, but she is not observed to have any gagging.  At 10:08:22, there is a burst of rhythmic, high amplitude 3 to 4 Hz activity identified.  With the use of multiple different montages, this activity is maximum in the temporal regions bilaterally.  There is a left temporal spike identified at 10:08:31.  The rhythmic theta activity ends abruptly at 10:08:35.  The minute the activity ends, the patient’s eyes open and she interacts with the tech.  It appears that she held her breath during the discharge.  After this, as the patient drifts off into drowsiness, there are sharp waves identified including the right anterior temporal region and the right frontal regions (F4).  Photic stimulation elicits brief bilateral driving.
+HR:  56 BPM.
+IMPRESSION: Abnormal EEG due to:
+Probable subclinical seizure characterized by bitemporal theta without a clear localization at the onset and with a clinical correlate of motion arrest.
+2.	Left anterior temporal sharp waves seen primarily in the section of the record prior to the seizure.
+3. Sharp waves from the right frontal and anterior temporal regions identified after the event.
+CLINICAL CORRELATION: This tracing is diagnostic of a partial mechanism for this patient’s epilepsy, however, even the seizure that occurred did not provide adequate scalp localization.  Addition recording with sphenoidal electrodes would be helpful to provide localization.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 54-year-old male with epilepsy, seizures characterized by inability to move for one minute with inability to speak, respiratory changes, and incontinence one minute in duration.
+MEDICATIONS: Alcohol?, Demerol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record in an individual who is relatively drowsy.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a posterior dominant rhythm of 9 Hz, 70 uV, with a small amount of low voltage, frontocentral beta activity.  In the transition to drowsiness, there is a bit of irregular temporal mixed theta and delta in the posterior temporal regions bilaterally.  In this sharply contoured EEG, there are a handful of sharply contoured transience identified in the left mid-temporal region as well as the left frontocentral region.  Features of hyperventilation include an increase in rhythmic frontal delta.  Photic stimulation elicits brief bilateral driving.
+HR:  70 BPM, occasionally irregular.
+IMPRESSION: Abnormal EEG due to:
+A mild degree of background disorganization for age.
+A handful of suspicious sharp waves seen left frontal or left mid-posterior temporal.
+CLINICAL CORRELATION: This tracing supports an underlying disturbance of cerebral function, which is non-specific and may impact both hemispheres.  In addition, a partial mechanism for epilepsy is a consideration.  No previous EEGs were available for comparison.
+
+
+
+

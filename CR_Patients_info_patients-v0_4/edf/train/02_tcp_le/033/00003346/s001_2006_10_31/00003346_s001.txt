@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 65-year-old, right-handed woman with an unclear history of possible seizures characterized by “mini seizures” without loss of consciousness - last event occurred a week ago.
+MEDICATIONS: Gabapentin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well-organized with a 10.5 Hz, 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  In wakefulness, there are bursts of irregular sharply contoured slowing with spikes from the left temporal region.  These are clearly accentuated by hyperventilation.  There is clear focal slowing and an increase in the amplitude, as well as spike and slow wave and sharp and slow wave complexes.  Drowsiness is characterized by an increase in background slowing.  Vertex waves are identified in stage I sleep.  Photic stimulation produces bilateral driving.
+HR:  75 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.	Irregular left temporal epileptiform focal slowing and sharp and slow wave activity.
+CLINICAL CORRELATION: In this individual with a craniotomy on the right, these findings are not congruent and confirmation of all of this patient’s information is essential.
+
+
+
+

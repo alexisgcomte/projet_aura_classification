@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 	89-year-old, found to be confused, and subsequently determined to have a left subdural hematoma. Patient subsequently had a single seizure with prolonged confusion.
+MEDICATIONS:	Phenytoin, Pepcid, Colace, Acetaminophen, Zofran
+INTRODUCTION: 	Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: 	In wakefulness background EEG includes a posterior dominant rhythm of 7-8 Hertz. There is a small amount of background theta. Intermittent arousals are associated with a more organized pattern but even with maximal wakefulness, there is a small degree of disorganization. As the patient becomes drowsy there is intermittent focal slowing from the left, particularly the temporal region with a mixture of rhythmic and arrhythmic 3-5 Hertz activity. Vertex waves are observed in sleep. Coughing elicits an arousal response with actually a 10 Hertz alpha rhythm and a marked improvement in the background.
+HR: 90 bpm
+IMPRESSION: 	Abnormal EEG due to
+1. Intermittent generalized background slowing.
+2. 		Intermittent semi-arrhythmic focal slowing from the left temporal region.
+CLINICAL CORRELATION: 	The focal features are in the region of the patient's subdural hematoma and may be irritative in nature. The intermittent background slowing is nonspecific and it may be due to this patient's acute medical or neurologic processes as well as her age.
+
+
+
+

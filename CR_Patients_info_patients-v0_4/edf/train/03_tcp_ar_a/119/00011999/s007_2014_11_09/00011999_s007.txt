@@ -1,0 +1,48 @@
+History:	40 year old man with a history of AIDS, CNS lymphoma, now presents with
+meningitis and seizures.
+Medications:	Depakote, phenobarbital
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 11/10/2014 till 11/11/2014.  Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.  The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  Early in the recording the background consists of a mixture of
+diffuse low amplitude delta activity admixed with periodic frontally predominant diffuse stereotyped
+theta activity.  This activity likely represents ventilator artifact.  Once EEG leads are fixed at ~ 9 am,
+the background changes to very low amplitude diffuse polymorphic delta activity with underriding
+fast activity.  Fast activity tends to occur in 3-4 second bursts with 3-4 seconds of interburst interval.
+There are frequent 30-50 second focal seizures that are seen starting at ~ 9 am.  Their frequency
+gradually decreases with last electrographic seizure captured at ~12:22 PM.  Seizures are
+characterized by rhythmic 3 Hz activity observed over right frontal  region (maximal over F4
+electrode).  This activity increases in frequency to ~ 4-5 Hz and stops abruptly.  There is no clear
+spatial evolution and no clinical correlate.  No normal sleep architecture is present.
+There is no clear reactivity to visual, auditory, tactile, or noxious stimuli.  A single EKG lead
+demonstrates heart rate of ~ 110 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, severe
+Attenuation, moderate
+Status epilepticus, right frontal, over F4, 30-50 sec sz
+Secondary bilateral synchrony, right frontal, last seizure at ~ 12:22 pm
+No reactivity
+Interpretation:
+This is a very ABNORMAL 24-hour continuous video EEG due to (1) severe diffuse slowing; (2) lack
+of clear background reactivity and (3) focal right frontal status epilepticus seen early in the
+recording. Diffuse slowing and lack of reactivity are etiologically nonspecific indicators of severe
+diffuse cerebral dysfunction.  There is epileptogenic focus over the right frontal region, likely
+structural in etiology.  Last electrographic seizure occurs at ~ 12:22 PM.  When compared to the
+prior 24 hour recording, overall seizure burden is much less.  These findings were conveyed to the
+
+
+
+
+
+

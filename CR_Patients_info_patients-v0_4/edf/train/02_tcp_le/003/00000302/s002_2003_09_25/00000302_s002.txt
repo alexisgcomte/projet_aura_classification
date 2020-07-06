@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 64-year-old woman with multiple medical problems, now with status epilepticus.  History of HIV/AIDS, right upper lung mass, and sepsis.
+MEDICATIONS: Phenobarbital, antibiotics, and others
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose and unresponsive during the record.
+DESCRIPTION OF THE RECORD: The background EEG is disorganized and extremely suppressed.  Slow, periodic delta activity was seen repeatedly at Q 5 to 7 seconds, followed by generalized electrographic seizures of 7 minutes duration. The epileptiform activity was high amplitude, generalized and demonstrated frequency evolution.  No motor or behavioral changes were observed in this comatose patient.  This non-convulsive or electrical seizure activity was repeated Q 30 to 45 minutes.  After each seizures, the background EEG returned to its extremely suppressed pattern.
+HR: 144 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Disorganized and extremely suppressed background.
+Intermittent generalized seizures lasting about 7 minutes Q 30 to 45 minutes.
+CLINICAL CORRELATION: This EEG pattern suggests a severe disturbance of cerebral function involving both cortical gray and white matter.  The generalized electrical epileptiform discharges is consistent with non-convulsive status epilepticus.  The ICU team was informed of these findings.
+
+
+
+

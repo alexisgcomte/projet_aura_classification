@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 62-year-old woman with asthma, hypertension, and anoxic injury 5/4/04.
+MEDICATIONS: Depakote and others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The baseline was requested because the patient was comatose.  The team noted that she had reactive pupils and occasional involuntary movements or myoclonus in the left hand only.
+DESCRIPTION OF THE RECORD: The tracing begins at 10:20 AM.  The patient is unresponsive and intubated.  In the video provided, there is no motor activity seen.  Ongoing epileptiform activity is seen with clear frequency evolution.  The activity includes generalized sharp and slow wave or spike and slow wave activity, which varies from 5 Hz to 1.5 Hz.  There may be bursts of generalized high amplitude spike and slow wave activity particularly from the frontal regions with a poly spike and slow distribution in that region, right greater than left, followed by slowing.
+The clinical team evaluates the patient at 10:43, confirms the EEG findings, and initiates therapy with Versed, infusing a total of 6 mg of Versed.  This produces a gradual slowing in the epileptiform activity and at the close of the record at 11:01, the periodicity has slowed down to approximately 0.75 to 1.5 Hz, but has not been completely eliminated. The overall pattern after the 6 mg of Versed seen underlying the periodic epileptiform activity is low voltage delta.  In the initial portions of the record the epileptiform activity seems to be maximum in the right frontal regions and this is more subtle but still apparent at the close.
+HR:  90, irregular BPM.
+IMPRESSION/CLINICAL CORRELATION: Non-convulsive status epilepticus.
+
+
+
+

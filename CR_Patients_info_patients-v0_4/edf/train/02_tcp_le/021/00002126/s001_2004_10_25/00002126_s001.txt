@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 3-month-old infant born at seven months with a birth weight of 1 lb., 14 oz., now with seizures characterized by tremulousness of the body and eyes with funny sounds lasting two to five seconds occurring twice this week.  Pre-term 28-weeker.
+MEDICATIONS: Phenobarbital.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: As the tracing opens, the child is sucking.  The background EEG is somewhat lower voltage than anticipated for an infant of this age.  There is some head rocking artifact and there is some sucking artifact.  There are occasional voltage asymmetries with higher voltage from the left compared to the right.  There is an occasional T6 sharp wave identified in the record, as well as one in the right frontal region.  There is clear variability and when the child is motorically active, the EEG is richer in theta frequency activity.  Some sections of the record show a more synchronous pattern with a more equal distribution of rhythmic theta and delta.  Other sections seem to suggest an attenuation from the right hemisphere, particularly the frontotemporal region.  There is no indication that the child had any neurosurgical procedures.
+HR:  168 BPM.
+IMPRESSION: This EEG must be considered abnormal for an infant of this age due to:
+Intermittent asymmetry with relative attenuation of the activity from the right compared to the left.
+Occasional sharp waves identified from the right hemisphere, particularly in the frontal and posterior temporal regions.
+CLINICAL CORRELATION: The overall background is lower amplitude than one might anticipate for an infant of this age, but this EEG raises concerns regarding a structural or functional abnormality and potentially a partial mechanism for seizures.
+
+
+
+

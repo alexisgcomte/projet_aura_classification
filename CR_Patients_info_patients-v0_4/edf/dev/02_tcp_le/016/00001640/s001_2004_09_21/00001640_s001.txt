@@ -1,0 +1,18 @@
+CLINICAL HISTORY: This is a 35-year-old woman with refractory epilepsy with only fifteen seizures last month, learning impairment, and severe chronic static encephalopathy.  Recent seizures described as tonic-clonic
+
+MEDICATIONS: Trileptal, Topiramate, and others.
+
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is unable to cooperate with hyperventilation or photic stimulation.
+
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow, poorly organized.  There is epileptiform activity identified from both hemispheres with various patterns and various fields of spread.  There is focal epileptiform activity picked up in the frontal regions independently in either hemisphere, in the occipital regions, O2 perhaps more than O1, and in the frontocentral regions.  There are some bursts of slow, frontally predominant generalized spike and slow wave activity of approximately 3 to 4 Hz, and on rare occasions this is followed by an electrodecremental response.  Fast activity is seen at C4, P4/O2, with occasional sharp waves at T6.  There are bursts of higher amplitude, more rhythmic 2 to 4 Hz activity, as well as other portions of the record, which are lower voltage with a bit more rhythmic, faster theta activity.
+
+HR:  90 BPM.
+
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a mixture of more rhythmic theta, as well as higher amplitude, more frontally predominant 2 to 4 Hz activity.
+2. Multifocal epileptiform activity seen from either hemisphere.
+3. Generalized, frontally predominant spike and slow wave activity.
+
+CLINICAL CORRELATION: Previous EEGs were not available for comparison.  The multifocal epileptiform activity, as well as generalized spike and slow wave activity can be seen in the setting of a Lennox-Gastaut pattern, or other secondarily generalized seizure types.
+
+

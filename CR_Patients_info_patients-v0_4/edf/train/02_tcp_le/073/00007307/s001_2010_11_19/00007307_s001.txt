@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 56 year old male with a small lacunar infarct, but serum ammonia level reported at greater than 400, intubated, sedated, and paralyzed for medical management. History of epilepsy, tracheal stenosis, asthma, aspiration pneumonia, hypercalcemia, COPD, DVT, hepatic mass. He presented to the emergency room unconscious with Gl bleed.
+MEDICATIONS: Ativan, Dilaudid, Lactulose, Risperdal, Depakote, Neurontin, ASA, Clonidine, Hydralazine, Prednisone
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is intubated and does not appear to be moving, although there is a bit of titivation of the head. The technologist notes that she stimulates the patient and she feels that the patient is awake, but looking at the video, the patient appears to be comatose. The background EEG is markedly abnormal and demonstrates a prominent asymmetry. The left hemisphere demonstrates a pattern of more rhythmic delta with theta, approximately 3-5 Hz activity. The right hemisphere demonstrates a periodic triphasic-like complex, which is seen throughout the right hemisphere. Like a triphasic wave it has an anterior to posterior lag and it has 3 phases, but most of the time it is posteriorly predominant. In addition, there is accentuation of fast activity seen particularly in the right posterior temporal and central region. Stimulation of the patient does not alter the record. There does appear to be a bit of frequency of evolution with this discharge as well. In addition, at 10:47 there is a clear accentuation of faster frequency and a little bit of evolution of the activity. This follows the administration of 4 mg of Ativan at 10:47:46.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing, more prominent in the left hemisphere as the recording continues.
+2. A continuous, periodic complex with a pled's plus-like morphology and 3 phases as might be seen in a triphasic wave, but the localization in the right posterior quadrant.
+CLINICAL CORRELATION: This EEG is more supportive of a status epilepticus pattern than a metabolic pattern. These results were conveyed to the clinical team on November 19, 2010.
+
+
+

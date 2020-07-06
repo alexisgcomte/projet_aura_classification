@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 	43-year-old right-handed woman. No chart and no patient information. Epilepsy since January 2006. Admitted following a seizure.
+MEDICATIONS: Hydrochlorothiazide.
+INTRODUCTION:  Digital video EEG is performed in lab using standard 10.20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness  the background EEG is somewhat disorganized  and slow with a bit more slowing from the right hemisphere  in comparison to the left. Intermittent  spontaneous  arousals are observed. Later portions of the record are characterized  by a left temporal spike which appears almost artifactual followed by rhythmic theta. The left temporal spike is followed by rhythmic theta which is actually more prominent on the right and then bilateral temporal theta. After this the patient was observed to have some eye blinking. Testing is not performed, but there is a right temporal high amplitude  irregular periodic spike in psoas complex which follows. The first spike is a 11:32:56, and there is the rhythmic from the right with this bilateral alpha frequency activity at 11:33:34  and periodic activity which seems almost artifactual but is associated with the patient blinking and taking some deep breaths. The periodic sharp waves gradually slow at 11:33:56. The seizure is over at 11:34:02. The patient arouses briefly and drifts off to sleep. At 11:36:42 she starts to move around, and the EEG demonstrates a more awake pattern. Photic stimulation  was with bilateral driving.
+HR:	66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. 		Complex partial seizure during the EEG with subtle behavioral features, but eye blinking and impaired responsiveness seem to be clinical features. The seizure started with a spike on the left by theta more so on the right than the left and then a bilateral burst and then right periodic activity.
+2. 	Background  slowing.
+CLINICAL CORRELATION:  This EEG is diagnostic of a localization-related mechanism for epilepsy.
+
+
+
+

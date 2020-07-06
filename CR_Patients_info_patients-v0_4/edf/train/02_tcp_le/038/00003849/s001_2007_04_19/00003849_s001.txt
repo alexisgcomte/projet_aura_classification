@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 	A 40-year-old woman with a 6-month history of headache and intermittent seizures characterized by a metallic taste and/or left sensory or motor phenomenon. Large infiltrating abnormality in the right temporal and central regions.
+MEDICATIONS: 	Acyclovir, Ceftriaxone, Phenytoin.
+INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: 	Background EEG is remarkable for an intra­ hemispheric asymmetry. The activities from the left hemisphere is relatively normal with 9.5 Hz posterior dominant rhythm and a small amount of low-voltage frontocentral beta activity. There is a small amount of intermittent theta discerned from the left. The right hemisphere demonstrates intermittent rhythmic mixed theta and delta activity and some sharply contoured activity in the mid, anterior, or posterior temporal regions. Hyperventilation appears to accentuate the focal slowing. Photic stimulation was with bilateral driving. Features of drowsiness include slow rolling eye movements.
+IMPRESSION:
+1. Abnormal EEG due to intermittent right temporal mixed rhythmic theta and delta.
+2. A handful of sharp waves in this same region.
+CLINICAL CORRELATION:	This EEG is supportive of a structural abnormality on the right, as well as localization-related mechanism for epilepsy.
+
+
+
+

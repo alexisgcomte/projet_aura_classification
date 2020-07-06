@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  43-year-old right handed male with epilepsy for the last 9 years. The last seizure 60 days ago, described as a funny feeling with loss of awareness. Seizures occur 6-10 times per year. Past history of open heart surgery in 1999, TIA and stroke.
+MEDICATIONS:  Trileptal, Aspirin
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz 50 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by rhythmic background theta followed by rare vertexes. Photic stimulation does not activate the record.
+HR: 60 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal nor epileptiform features are observed in this record. If appropriate, a repeat tracing capturing deeper stages of sleep may be performed to look for
+epileptiform activity.
+
+
+
+

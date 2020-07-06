@@ -1,0 +1,16 @@
+CLINICAL HISTORY: This is a 59-year-old woman with recurrent CNS metastasis from non-small cell lung carcinoma, now experiencing recurrent seizures characterized by motor activity of the left thorax and abdominal muscles with impaired left grasp.  Multiple events per day.
+MEDICATIONS: Trileptal, Keppra, Ativan, and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: When the patient is maximally awake, the background EEG demonstrates a 9 Hz posterior dominant rhythm, present bilaterally, right greater than left.  There is intermittent arrhythmic delta activity in the background with some posterior slowing seen from either hemisphere.
+The most prominent area of epileptogenicity in this EEG is in the right parietal region with sharp and slow wave or spike and slow complexes, primarily maximum at P4 but occasionally at T6 and/or O2.  There are also a handful of sharp waves at C3.  The right parietal spike and slow wave, sharp and slow wave, and associated focal slowing is seen as frequently as six times within ten seconds, but does not have the typical rhythmicity or periodicity of a PLED.
+Photic stimulation is performed while the patient is awake, and is remarkable for photoelectric artifact.   No driving response is identified when the photoelectric artifact is eliminated.
+HR:  100 BPM.
+IMPRESSION: Abnormal EEG due to:
+A prominent right parietal epileptiform focus.
+Occasional intermittent irregular slowing from either hemisphere.
+Rare left central sharp waves.
+CLINICAL CORRELATION: The epileptiform activity is contralateral to the jerking of the abdomen and supports an underlying epileptogenic nature of the abdominal jerking.
+
+
+
+

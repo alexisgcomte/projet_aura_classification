@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 39-year-old, right-handed male with closed head injury, several seizures per year, restrictive pulmonary disease, and sleep disturbance.
+MEDICATIONS: Depakote, Elavil, Seroquel, asthma medications.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with symmetric, reactive 10 Hz, 30 to 50 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity. In both hyperventilation and in drowsiness, there is an increase in shifting, right or left temporal theta, as well as some sharply contoured theta frequency activity which reaches higher amplitudes up to 70 V from the right mid-to-anterior temporal region.   Stage II sleep is characterized by symmetric vertex waves, K complexes, and spindles.
+Photic stimulation elicits symmetric driving, as well as LAMBDA waves.
+HR:  78 BPM.
+IMPRESSION: Mildly abnormal EEG due to:
+1.	The appearance of shifting, right greater than left temporal theta in drowsiness and hyperventilation with higher amplitude, more sharply contoured theta activity from the right identified on one occasion from the temporal regions and on one occasion from the parietal regions.
+CLINICAL CORRELATION: The features described above are non-specific.  They support a process involving the temporal regions and the right hemisphere more strongly than the left.  While there are no definite epileptiform discharges, the sharply contoured higher amplitude theta from the right hemisphere is suggestive of such a process.  Correlation with imaging and previous EEGs may be of use.
+
+
+
+
+

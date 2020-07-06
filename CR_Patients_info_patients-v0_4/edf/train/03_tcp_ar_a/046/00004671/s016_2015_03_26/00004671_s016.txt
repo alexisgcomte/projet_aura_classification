@@ -1,0 +1,42 @@
+History:	29 yo p/w myoclonic status epilepticus and hx of mitochondrial disorder; pneumonia
+aspiration; resp failure; hypoxia; high blood pressure. pmhx: Dementia, HTN, SZ
+pshx: stab wound to abdomen, vagal nerve stim.
+Medications:	Vimpat, Ativan (8mg) , Versed, Ceftriaxone, Clindamycin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 14 hours from 03/25/2015 to 03/26/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse delta
+and theta activity with absence of the expected anterior to posterior gradient of frequencies.  There
+is intermixed beta while awake. With sleep the background appears to become more intermittently
+suppressed and with a more predominant diffuse delta slowing.  No normal sleep architecture was
+No focal slowing is present.  Frequent bifrontal and central maximal polyspikes that have a large
+field. These at times lasr for about a second and are followed by a more prominent diffuse slowing.
+There is also about 20 seizures per hour during the majority of the record. With the exception of
+about 4 hours where the patient is awakened and the background improves slightly in frequency.
+Seizure on EEG: Sudden diffuse beta followed by attenuation and then muscle artifact with sudden
+stop. This is followed by frontal predominant rhythmic delta for about 3 seconds. This last from 5 to
+15 seconds.  Clinically the patient flexes his neck and lift both arms in a bicycle handle position
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 108
+Summary of Findings:
+Status epilepticus
+Polyspikes
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL EEG because of  status epilepticus with very generalized seizures. In
+addition there is severe  diffuse background slowing and slow alpha rhythm.  These findings are
+etiologically nonspecific indicators of severe diffuse cerebral dysfunction.
+present.and in a tonic fashion.
+
+
+
+
+

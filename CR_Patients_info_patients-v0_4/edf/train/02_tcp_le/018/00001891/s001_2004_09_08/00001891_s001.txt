@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 22-year-old, right-handed woman with depression and asthma, who had a single seizure on 7/21/04.  This was associated with Wellbutrin ingestion.
+MEDICATIONS: Lamictal and asthma medications.
+INTRODUCTION: One-hour digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz, 70 uV posterior dominant rhythm, which is symmetric and reactive.  There are occasional posterior slow waves of youth. Drowsiness is characterized by attenuation of the alpha rhythm.  In drowsiness, there is occasional rhythmic temporal theta identified in both temporal regions. Stage II sleep is characterized by vertex wave, K complexes, spindles, and POSTS.
+In this record, there were three sharp waves identified.  At least one occurred in later stage II sleep.  The sharp waves are maximum in the right and involve T2, C6, and spread to C4.
+The patient has occasional sleep myoclonus, which produces an arousal from stage I sleep to stage II sleep, but there is no associated epileptiform activity.  Hyperventilation produces slowing of the record with bursts of rhythmic, high amplitude frontal delta.  Photic stimulation does not activate the record.
+HR:  66 BPM.
+IMPRESSION: Abnormal EEG due to:
+Rare, right temporal sharp waves with an unusual field of spread including the central and posterior temporal regions.
+CLINICAL CORRELATION: The rhythmic theta frequency activity identified in the temporal regions in drowsiness is a normal variant. However, the three sharp waves described in the right centrotemporal region did not have a field of spread that was consistent with a normal variant and one was seen in stage II sleep.
+
+
+
+

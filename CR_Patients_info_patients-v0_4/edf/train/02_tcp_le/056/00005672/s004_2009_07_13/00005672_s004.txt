@@ -1,0 +1,5 @@
+FC focal slowing
+ SPSP
+ not 20 minutes
+
+

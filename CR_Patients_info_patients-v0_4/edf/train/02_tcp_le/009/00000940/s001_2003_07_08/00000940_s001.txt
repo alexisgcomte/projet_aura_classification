@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 43-year-old male with HIV and two seizures characterized by left facial twitching.
+MEDICATIONS: None listed.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic.
+DESCRIPTION OF THE RECORD: In the initial portions of the record, the patient is poorly responsive.  The background EEG is low voltage and featureless with low voltage delta.  There is beta and theta activity identified in the central regions.  There is an asymmetry with attenuation of the activity in the right temporal region compared to the left.  Stimulation of the patient produces an arousal.  Unfortunately, with each stimulation, the EEG is obscured by muscle artifact.  There does appear to be some alpha frequency activity from the left central region when the patient is awake and some theta from the right central region. As the recording continues, there is additional artifact identified with double phase reversal at T2-T4.
+HR:  108 BPM.
+IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Interhemispheric asymmetry with relative suppression from the right identified in sleep.
+Low voltage pattern.
+CLINICAL CORRELATION: Given the artifact identified in this record, a repeat study when the patient is a bit more cooperative and the artifacts in the ICU are eliminated, is recommended.
+
+
+
+

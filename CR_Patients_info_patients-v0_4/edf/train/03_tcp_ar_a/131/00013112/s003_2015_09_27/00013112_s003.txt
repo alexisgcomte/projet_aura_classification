@@ -1,0 +1,85 @@
+AGE: 37 y.o.
+SEX: male
+START DATE OF STUDY: 09/27/2015 at 15:00 END DATE OF STUDY: 9/30/2015 at 13:49
+RECORDING ENVIRONMENT: ICU EEG TYPE : LTM
+EEG #: 15-265
+HISTORY:
+37 y.o. male with a history of a pilocytic astrocytoma s/p multiple resections, admitted with worsening weakness and numbness, s/p aspiration, requiring trach, PEG; .also with bilateral strokes, presenting with altered mental status and· right gaze deviation.
+MEDICATIONS: dexamethasone, lispro, albuterol SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and
+included a single channel of EKG.
+DAY 1 (9/27/2015, 15:00 - 9/28/2015, 08:00) BACKGROUND:
+Prior to administration of Ativan 3 mg at 17:45:
+The waking background is continuous, symmetric, and poorly-organized. The background consists of mostly theta frequencies.
+There is no posterior dominant rhythm. The background is reactive and variable.
+There is abundant polymorphic left hemispheric delta slowing.
+Following the administration of Ativan, the background consists of a disorganized mixture of delta, theta, and faster frequencies.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) : None . EPILEPTIFORM ACTIVITY:
+1. Frequent runs of sharply contoured 4-5 Hz activity, most
+concentrated over the left occiput (01)
+These 5-Hz runs become rare and <5 seconds long after administration of ativan.
+EVENTS:
+Clinical: There is no obvious clinical change on video. The
+·patient' s head, upper trunk, and left arm are well visualized on camera. His eyes remain closed throughout the runs of EEG activity described below.
+EEG: There are very frequent runs of left occipital (01 max) activity that evolve in frequency, often from sharply contoured theta activity to sharply contoured delta activity, or from sharply contoured delta activity to sharply contoured theta activity to sharply contoured delta activity. These runs resolve after administration of Ativan 3 mg at 17:45.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal video long term monitoring study due to:
+Background disorganization
+Moderate to severe diffuse slowing
+Abundant polymorphic left hemisphere delta slowing
+Runs of theta/delta (01 maximal) as described above, without obvious clinical change, but that resolve after administration of Ativan
+These findings are concerning for focal electrographic status epilepticus over the left occipital (01 max) region.
+**Note: The electroencephalographer was informed on 9/29/2015 08:00 by the technician that the 01 and F7 leads were plugged into each other's jacks, and that the 02 and F8 leads were plugged into each other's jacks.
+When the montage is readjusted (reading a double banana with 01 in F7's place, F7 in 01's place, F8 in 02's place, and 02 in F8's place) , the above runs of sharply contoured occipital theta/delta that were interpreted as seizures are now clearly seen as nystagmus artifact, more prominent in the left eye. These runs resolve with the administration of Ativan. The left hemispheric slowing is not seen with this adjustment.
+Thus, the interpretation with this correction is as follows:
+Background disorganization
+Mild to moderate diffuse slowing
+Prominent nystagmus artifact, especially in the left eye, resolved with Ativan
+DAY 2 (9/28/2015, 08:00 - 9/29/2015, 08:00) BACKGROUND: none
+GENERALIZED SLOWING: no change
+FOCAL SLOWING: no change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) : none
+SPORADIC EPILEPTIFORM ACTIVITY: occasional runs of sharply contoured 4-5 Hz activity, most concentrated over left occiput, for <5 seconds. As the day progresses these last up to 10 seconds and include sporadic sharply contoured delta activity EVENTS: none
+HR: Patient is mildly tachycardic (low 100s) at times on this day DAY 2 IMPRESSION & CLINICAL CORRELATION
+There are no seizures. The occasional runs of sharply contoured 4-5 Hz activity over the left occiput may represent an epileptogenic focus.
+**Note: Once the montage is re-adjusted as described under "Day 1," the runs of 4-5 Hz activity clearly represent nystagmus artifact, more prominent in the left eye.
+Fragments of a posterior dominant rhythm of about 10 Hz are seen only on the left.
+Sleep is characterized by further background slowing and
+attenuation of the posterior dominant rhythm. Sleep transients are not seen.
+With this correction, the interpretation is as follows:
+Background disorganization, worse on the right
+Mild diffuse slowing
+Occasional nystagmus artifact, less seen than on previous day, more pronounced in left eye
+Periods of mild tachycardia (low 100s)
+DAY 3 (9/29/15, 08:00 - 9/30/2015, 08:00)
+**On this day, the leads have been corrected
+BACKGROUND: same GENERALIZED SLOWING: mild
+FOCAL SLOWING: disorganization over right hemisphere PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none
+SPORADIC EPILEPTIFORM ACTIVITY: none
+EVENTS: No clinical or electrographic events reported or detected HR: Periods of mild tachycardia (low 100s) on this day
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+Mild diffuse slowing
+Suboptimal organization, worse over right hemisphere Periods of mild tachycardia
+DAY 4 (9/30/2015, 08:00 - 9/30/2015, 13:49)
+BACKGROUND: no change
+Note that most of the leads are obscured by diffuse muscle and lead artifact for much of the recording on this day
+GENERALIZED SLOWING: no change
+FOCAL SLOWING: no change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) : no change SPORADIC EPILEPTIFORM ACTIVITY:
+EVENTS: No clinical or electrographic events reported or detected
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+No change
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+Left hemisphere fair organization
+Right hemisphere poor organization
+Generalized slowing, improving over the course of the study from "mild to moderate" to "mild"
+Nystagmus artifact, more prominently seen on the left eye
+Periods of mild tachycardia (low 100s)
+FINAL CLINICAL CORRELATION:
+These findings are consistent with diffuse cerebral dysfunction, improving over the course of the study from "mild to moderate " to "mild. " There is additional evidence of right hemispheric dysfunction. There are periods of nystagmus artifact, more prominently seen in the left eye, that are seen less frequently
+as the study progresses. Finally, there are periods of mild tachycardia (HR to the low 100s).
+
+
+

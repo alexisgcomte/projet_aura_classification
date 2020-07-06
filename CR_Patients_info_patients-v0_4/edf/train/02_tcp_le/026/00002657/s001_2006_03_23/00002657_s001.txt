@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 5-year-old male with a six-month history of staring into space.  Child status-post MVA one year ago with loss of consciousness, in a coma for three to four days.
+MEDICATIONS:
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In the sleep recording, there are occasional seizures with the spikes starting on the left. Occasional right parietal sharp waves are seen in the background.  Vertex waves were seen in stage I sleep.  In deeper stages of sleep, higher amplitude spike and slow wave activity was seen.
+The tech awakens the patient for photic stimulation.  Again, occipitally predominant delta is identified. Hyperventilation produced a more prolonged seizure, which was generalized at the onset, perhaps slightly more so on the left, followed by high amplitude delta that was more prominent on the left. Photic stimulation is associated with bursts of 3 to 5 Hz spike and slow wave discharges.
+HR:  104 BPM.
+IMPRESSION: Abnormal EEG due to:
+Multiple absence seizures, typically 15 seconds in duration, accentuated by hyperventilation and photic stimulation.
+CLINICAL CORRELATION: There are a handful of focal features in this record.  This raises the possibility of a localization-related mechanism for epilepsy, however, the child is experiencing absence seizures, which are accentuated by hyperventilation and photic stimulation.  The focal features described above might be attributed to his previous head trauma.
+
+
+
+

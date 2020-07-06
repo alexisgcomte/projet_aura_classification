@@ -1,0 +1,44 @@
+History:	Unknown female was found confused and noted to have two T-C seizures on 5/3/14
+lasting 1-2 min. now is unresponsive.
+Medications:	Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 37 hours from 05/05/2014 to 05/07/14.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+See above.
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+The left hemisphere is almost completely attenuated with some delta slowing seen continuously.
+The right hemisphere exhibits a continuous theta frequency background.  Left anterior temporal
+sharp waves can be seen intermittently.  Multiple seizures are seen. During the first 9 hours there are
+3-5 per hour. The next 10 hours she had about 1-2 seizure per hour. During the last 18 hours of
+EEG she only had 3 seizures and was seizure free for 7 hours.  EEG: Sudden rhythmic left
+midtemporal delta intermixed with beta which increases in frequency and amplitude. The seizure
+remains over the left hemisphere.  Clinical: Patient opens her eyes and looks towards the right
+followed by the head and then may exhibit lip smacking and mouth movements.
+Hyperventilation and photic stimulation are not performed.  HR was 84, and due to the pacemaker
+there is a marked continuous artifact through the entire record.  Around 12AM on 05/07/2014 the
+patient took off her leads.
+Summary of Findings:
+Seizure
+Sharp waves, intermittent, left temporal, anterior
+Focal slowing, polymorphic, continuous, marked, left generalized
+Diffuse slowing, polymorphic, continuous, marked diffuse
+Interpretation:
+This is an ABNORMAL EEG because of multiple left temporal electrographic focal seizures that
+improve with time. In addition there is continuous focal slowing and frequent epileptiform
+
+discharges in the left anterior temporal region.  These findings are indicative of a irritable focal
+structural lesion in the region. Lastly there is  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+

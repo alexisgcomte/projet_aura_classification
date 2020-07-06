@@ -1,0 +1,46 @@
+History:	52 year old man with a history of left frontoparietal GBM status post resection
+several months ago, now presents with worsening right sided weakness and
+ambulatory dysfunction.  Patient found to be in focal status epilepticus on a spot
+Medications:	Dilantin, Depakote, Phenobarbital
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 11/14/2014 till 11/15/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  There is no
+clear PDR or AP gradient.  The background consists of a mixture of polymorphic theta and delta
+activity that are more pronounced over the left, with highest amount of delta activity present over
+left posterior quadrant.  Additionally, there is underriding fast activity over the left posterior
+quadrant (breach rhythm).  Diffuse excess beta activity is present.  Waveforms similar to K-
+Several electrographic seizures are noted.  Last seizure is noted at ~5:27 PM.  There is no clear
+clinical correlate.  Seizures start with rhythmic moderate amplitude ~5-5.5 Hz spikes with aftergoing
+slow waves emanating from T5 and O1 electrodes.  There is a gradual increase in frequency and
+spread to the P3, C3 and Pz electrodes.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, moderate, left hemispheric, especially over the posterior quadrant
+Seizure, occasional, left posterior, last seizure is captured at ~5:27 PM
+Interpretation:
+This is a very abnormal 24-hour continuous video EEG monitoring due to moderate diffuse slowing,
+more so over the left hemisphere and, especially, over the left posterior quadrant and occasional
+focal left posterior quadrant electrographic seizures without clear clinical correlate.  Diffuse slowing
+is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Increase
+in the degree of slowing as the recording progresses is related to  increase in the doses/ addition of
+CNS-active medications.There is focal structural epileptogenic lesion over the left - known left
+frontoparietal tumor status post several resections.  When compared to the prior 24 hour recording complexes are present.epoch, in the last 24 hour the degree of diffuse slowing increased and seizure frequency decreased
+EEG on 11/12/2014.
+significantly.  These findings were conveyed to the primary team and therapy was adjusted.
+
+
+
+
+
+
+

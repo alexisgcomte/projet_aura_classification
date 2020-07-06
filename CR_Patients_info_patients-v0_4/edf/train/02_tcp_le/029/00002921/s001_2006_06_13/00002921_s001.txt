@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 56-year-old woman with epilepsy for 22 years.  Last seizure described as a black out in 2001.  Seizures occur every four to five years.
+MEDICATIONS: Tegretol, Depakote. Propranolol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates an 8 Hz posterior dominant rhythm of 40 to 50 uV.  There is a MU rhythm, but testing is not performed to confirm this.  The background demonstrates a small amount of theta.  Head-rocking artifact is identified.
+Hyperventilation is performed with good effort, producing some rhythmic background slowing.   Photic stimulation elicits scant driving.
+Features of drowsiness include rhythmic background slowing and vertex waves in stage I sleep.
+HR:  78 BPM.
+IMPRESSION: Abnormal EEG due to:
+Slowing of the posterior dominant rhythm greater than would be expected for age.
+Excess background theta.
+CLINICAL CORRELATION: In comparison to a previous study done on 9/29/05, this EEG demonstrates a bit more in terms of background slowing.  Medications may play a role in this pattern.
+
+
+
+

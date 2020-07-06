@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 9-year-old girl with seizures characterized by staring spells since age 7.
+MEDICATIONS: Depakote.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates an appropriately organized pattern for a child of this age.  There is a posterior dominant rhythm of 7.5 Hz, 50 to 70 uV with occasional posterior slow waves of youth.  Hyperventilation is performed early on in the record producing rhythmic slowing, particularly in the posterior regions.  Following this, the child becomes drowsy with a decrease in the amplitude, occasional POSTS, and occasional vertex waves. As the child becomes drowsy, there is a left anterior temporal sharp wave of approximately 75 uV in amplitude.  Features of stage II sleep include vertex waves and spindles.  In the transition to and from sleep, there is an additional, suspicious sharp wave. There are brief portions of the record with hypersynchronous rhythmic slowing identified in stage II sleep.  In the transition from sleep, however, as the child is awakened, there is a burst of frontally predominant 3 Hz spike and wave activity.  This is identified bilaterally, but this two-second burst appears to be maximum from the left frontal region.  Photic stimulation is performed while the child is relatively drowsy and there are LAMBDA waves, but no clear driving.
+HR:  111 BPM.
+IMPRESSION: Abnormal EEG due to:
+Two-second bursts of frontally predominant, left greater than right, 3 Hz spike and slow wave activity.
+Two left temporal sharp waves.
+Alpha rhythm is slower than anticipated for a child of this age.
+CLINICAL CORRELATION: Consideration for a localization-related mechanism for epilepsy in this child is appropriate.  Although hyperventilation did not elicit a spell, there was a generalized spell, clearly maximum on the left, in drowsiness. Correlation with imaging is appropriate.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 6-year-old female with absence seizures - onset two years ago.  Medicine was started in April of this year.  The child has recurrent staring episodes of two to four per day.
+MEDICATIONS: None.
+INTRODUCTION: Portable digital video EEG is performed at the bedside using standard pediatric 10-20 system of electrode placement with one channel of EKG and two channels of muscle monitoring. Hyperventilation and photic stimulation were performed.  This is an awake record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric, continuous, and fairly well organized for age.  There is an 8 Hz, 75 V posterior dominant alpha rhythm, which is attenuated with eyes opened. Hyperventilation is performed with good effort, producing a 3 Hz spike and wave activity lasting for one to six seconds with eye blinking and without generalized shaking.  Sleep was not achieved in this tracing.  Photic stimulation also produced 3 Hz spike and wave discharges, as well as a driving response.
+The above 3 Hz spike and wave discharges were noted to start and stop abruptly throughout the recording without disturbing the background.
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+Frequent 3 Hz spike and wave activity with eyes blinking, starting and stopping abruptly.
+CLINICAL CORRELATION: The above EEG finding provides the electrodiagnostic evidence of primary epilepsy such as absence seizures.
+
+
+
+

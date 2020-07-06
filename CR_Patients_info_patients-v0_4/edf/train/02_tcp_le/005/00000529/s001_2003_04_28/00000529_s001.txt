@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 67-year-old woman with complicated migraines, hypertension, hyperlipidemia.
+MEDICATIONS: Lipitor, Guaifenesin, Diovan, codeine.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and briefly drowsy record.
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake.  There is a posterior dominant rhythm of approximately 10 Hz, 30 to 50 V. The major abnormality in this tracing is a sharp wave identified at T3, which is apparent throughout the record in multiple alternative montages and which has a field throughout the left hemisphere. The patient is comfortable throughout the record, awake and alert, and not complaining of her migraine-like symptoms. Drowsiness is characterized by slow rolling eye movements.  The activity does not significantly change during drowsiness.  Photic stimulation is performed and elicits driving bilaterally despite the presence of the sharp waves from the left hemisphere, maximum in the temporal region.
+HR:  90 BPM.
+IMPRESSION: Abnormal EEG due to:
+Periodic left temporal sharp wave identified with a periodicity of approximately 1 to 3 seconds throughout the record.
+CLINICAL CORRELATION: This tracing suggests a partial mechanism for this patient’s symptoms. Alternatively, this may be a post migraine-like variant for an individual with recurrent spells. A follow-up EEG is recommended to make sure that these symptoms resolve.
+
+
+
+

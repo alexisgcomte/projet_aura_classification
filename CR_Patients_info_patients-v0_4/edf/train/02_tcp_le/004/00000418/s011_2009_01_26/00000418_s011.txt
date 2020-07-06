@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 28 year old male with severe chronic static encephalopathy, recurrent status epilepticus, intubated and paralyzed In the emergency room, now obtunded after 2 mg of Ativan and 10 mg of Valium.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital video EEG was performed at bedside using standard 1 0-20 system of electrode placement with 1 channel of EKG. Patient is intubated and comatose. Multiple cranial defects and deformities are observed.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage, unremarkably featureless pattern. There is some rhythmic theta activity observed in the frontal portions of the record at the close of this study. In addition, there is amplitude asymmetry in terms of the EKG artifact in the region of the patient's craniotomy at T2. Stimulation of the patient does not significantly alter the record.
+HR: 125 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Paucity of cerebral activity.
+CLINICAL CORRELATION: This pattern, a low voltage suppressed background, is identical to that seen in this patient's many prior studies. Because of the nature of this individual's recurrent life-threatening status epilepticus, consideration of an outpatient routine study may be helpful to further characterize this epilepsy.
+
+
+

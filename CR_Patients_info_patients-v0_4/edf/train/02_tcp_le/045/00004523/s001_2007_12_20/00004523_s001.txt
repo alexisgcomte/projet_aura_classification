@@ -1,0 +1,24 @@
+CLINICAL HISTORY:   45-year-old gentleman who had a right cerebral abscess in
+2006. The patient subsequently had visual scintillations, seeing the entire spectrum before his eyes. He was admitted to an outside hospital with focal motor jerking of the left side of the body, preceded by those visual obscuration. Since that time, he was treated briefly with Depakote and no additional visual phenomenon  occurred. At baseline, he has the visual scintillations twice per week.
+MEDICATIONS:  Nitroglycerin, Depakote.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record. Only part of the data could be reviewed before the system crashed.
+DESCRIPTION OF THE RECORD:  The activity from the left hemisphere is well­ organized with 9 Hz posterior dominant rhythm and a small amount of background theta. The right hemisphere demonstrates arrhythmic delta activity, particularly in the temporal regions with sharply contoured slowing in the right posterior temporal region. This occurs typically in bursts. Throughout the record, there is disruption of faster frequency activity on the right with rare alpha observed from the right. Breach rhythm is
+noted as is a bumpy cranial surface. This produces some artifact, but there is somewhat
+rhythmic slowing in the right central temporal and posterior temporal regions.
+Hyperventilation is performed early in the record which clearly accentuates the focal slowing from the right hemisphere and elicits a T4 sharp wave.
+A clinical seizure is observed characterized by a burst of alpha frequency activity emerging from the right hemisphere while the patient is resting comfortably. The seizure begins at 9:33:42 with this burst of repetitive alpha frequency activity. The tech calls the patient within 8 seconds of the onset of the seizure. The minute she calls him, the alpha frequency activity abates at 9:33:56. This is a 14 second seizure. Immediately
+afterward, however, the patient is unable to tell the technologist  where he is. He is able to give her his date of birth at 9:34. After this brief burst of alpha frequency activity, there is an increase in delta in the right temporal region.
+Drowsiness is characterized by accentuation of the focal slowing from the right and slow rolling eye movements. Photic stimulation produces a scant driving response, left
+greater than right.
+HR:	60 bpm
+IMPRESSION:  Abnormal EEG due to:
+1. 	Seizure emanating from the right hemisphere with alpha frequency activity in the right central temporal region.
+2. 	Focal slowing on the right with disruption of faster frequency activity and rhythmic
+and arrhythmic delta.
+3.	Right central temporal or posterior temporal sharp waves.
+CLINICAL CORRELATION:   This EEG is diagnostic of a partial mechanism for epilepsy.
+
+
+
+
+

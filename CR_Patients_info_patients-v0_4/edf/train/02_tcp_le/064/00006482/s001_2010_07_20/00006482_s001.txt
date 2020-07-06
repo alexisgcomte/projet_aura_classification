@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 30 year old male, C5 paraplegia. Status post surgery for tracheoesophageal fistula. Evaluate for seizures characterized by numbness of the extremities and inability to move the limbs postoperatively.
+MEDICATIONS: Clindamycin, Dilaudid
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient has a hard collar and a trach but is responsive.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with primarily a 6-7 Hertz rhythmic theta background. There are bursts of rhythmic frontal delta which are asymmetric and more prominent on the right compared to the left. The patient demonstrates some alpha frequency activity with stimulation. Features of drowsiness including increase in delta.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Primarily a pattern of rhythmic generalized background slowing.
+2. Shifting slowing a bit more so on the right.
+
+CLINICAL CORRELATION: This EEG supports the diffuse disturbance of cerebral function. Contributing factors may include this patient's medications as well as CNS pathology. There were no epileptiform features identified.
+
+
+

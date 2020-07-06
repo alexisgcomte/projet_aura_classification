@@ -1,0 +1,24 @@
+CLINICAL HISTORY: 49 year old with epilepsy, depression, alcohol abuse, and medication nonadherence.
+
+MEDICATIONS: Depakote, Seroquel, Ativan.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is very confused during the test. As the tracing begins, the patient is at the bedside. He is staring off into space. He uses his right hand, but never moves his left. The patient is somewhat responsive.
+
+DESCRIPTION OF THE RECORD: The background EEG starts out somewhat poorly organized with generous beta. In addition, the overall background includes theta and alpha frequency activity. There are some frontal temporal sharp waves noted at F4 C4 initially.
+
+There is arrhythmic noncontinuous delta beginning to emerge at 12:15. This becomes increasingly rhythmic at 12:16. This wanes on its own, but when it recurs during the EEG the patient lifts up his right hand and seems to have difficulty putting down the right hand. The technologist moves the patient around a bit and at 12:26 the activity seems to be fading. In addition to some artifact there is a question of T6 sharp waves.
+
+The second seizure is observed in the EEG at 12:21, but there is little in the way of a clinical correlate aside from a confused patient. The technologist notes that the patient is not able to follow commands such as keeping his eyes closed, but there is clearly a rhythmic ictal discharge lasting approximately 2 seconds with postictal slowing and then spikes which can be T2, T4, C4. The second seizure as it fades seems to generate into a third seizure at 12:26. Again, the rhythmic theta frequency activity waxes and wanes. With the second seizure it does not seem to be ending. It is ongoing at 12:30:20. Spikes start to appear more frequently in the seizures in comparison to the first sections of the record in which it was primarily a pattern of rhythmic 3-5 Hz activity. In addition to the right frontal central spikes there are also central temporal and anterior temporal spikes.
+
+The recording ends at 12:35 with initially 3 discreet seizures and then a pattern of a more continuous ictal activity.
+
+HR: 84 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Complex partial status epilepticus pattern out of the right hemisphere maximum in the temporal regions.
+2. Sharp waves in the right including F4, T4, C4, and T2.
+
+CLINICAL CORRELATION: This EEG is diagnostic of a focal mechanism for epilepsy.
+
+
+

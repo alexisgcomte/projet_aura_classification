@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 23-year-old woman with vagus nerve stimulator, previous left frontotemporal craniotomy, head injury at age five, right hemiparesis with recent increasing seizures with impairment of awareness and frequent simple partial seizures with shaking of the right hand.
+MEDICATIONS: Tegretol, Depakote, and Klonopin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  The patient reports experiencing nausea and feeling generally unwell during the EEG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a symmetric, reactive 9 Hz posterior dominant rhythm with a large amount of diffuse background beta.  There is some underlying delta seen in the central regions including both C3 and C4.  This is most prominent as the patient becomes drowsy. Features of sleep include an increase in background beta and occasional vertex waves.  The patient appears to be sleepy, falling asleep just at the start of photic stimulation, but in this context, there are both vertex waves as well as some PZ/P3 sharp waves.  Photic stimulation elicits brief bilateral driving. Around this time, the patient’s underlying focal slowing from the left central parietal region is most prominent.
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+Arrhythmic delta seen from the central regions bilaterally, primarily left central parietal.
+Rare left parietal sharp waves in sleep.
+CLINICAL CORRELATION: This tracing supports a partial or localization-related mechanism for this patient’s epilepsy.  The excess background beta may be related to her medications.  Compared to previous EEGs, the overall field of the slowing is essentially unchanged.
+
+
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 27-year-old male with a history of severe MR, multiple medical problems with multiple brief seizures per month.  Seizures characterized by generalized shaking lasting 20 seconds.
+MEDICATIONS: Lamictal, Tegretol, Tranxene, and many others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is drowsy or somnolent. Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and is primarily a mixture of rhythmic 3 Hz activity with smaller amounts of 2 Hz activity and some 4 to 5 Hz theta.  There are multifocal spike and slow wave complexes identified in the record including bifrontal, high amplitude spike and slow wave complexes with an approximately 2 Hz after going slow wave.  Focal epileptiform activity is also seen in the occipital regions, sometimes maximum at O2 and at other times with a poly spike wave component at O1-O2.  The epileptiform activity may be seen independently in the right or left hemisphere including T5, FP1, F7, and C3. The patient is noted to snore occasionally, but there isn’t a significant difference in terms of awake or asleep pattern, although there may be more frontally predominant delta in drowsiness.  There are occasional high amplitude, bifrontal poly spike and slow wave complexes.
+Photic stimulation does not activate the record. There are some shifting asymmetries in terms of the amount of theta or delta seen in the background.
+HR:  78 BPM.
+IMPRESSION: Abnormal EEG due to:
+Generalized slowing.
+Slow spike and wave activity.
+Multifocal spikes.
+CLINICAL CORRELATION: For this individual who had a childhood history of infantile spasms, the pattern described is compatible with a Lennox-Gastaut-type syndrome and/or a diffuse disorder of cerebral function.
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 4-year-old male with new onset seizures characterized by lethargy, unresponsiveness, and a gray color lasting three to five minutes followed by postictal drowsiness.  These occur at school.  No antecedent past medical history.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: As the tracing opens, the child is awake.  There is an 8 to 9 Hz posterior dominant rhythm reaching amplitudes up to 70 uV.  Brief drowsiness is characterized by hypersynchronous rhythmic slowing including some occipitally predominant slowing.   Drowsiness is characterized by rhythmic background slowing followed by the appearance of vertex waves.  Beta spindles are noted in stage II sleep.  There are three transience in stage II sleep, which phase reverse to the left of the midline.  Photic stimulation elicits brief bilateral driving.
+HR:  118 BPM.
+IMPRESSION: Very slightly abnormal EEG due to:
+Three bursts of sharply contoured delta/sharp waves phase reversing to the left of the midline in the left centrotemporal region in stage II sleep.
+CLINICAL CORRELATION: These findings were subtle and were only seen in one sleep state.  They may be correlated with imaging and history.
+
+
+
+

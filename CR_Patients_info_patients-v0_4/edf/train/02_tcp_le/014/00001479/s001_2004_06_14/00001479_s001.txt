@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 67-year-old male with carotid stenosis, episodes of impaired responsiveness with seizures, not otherwise described.  The location of the subdural intrahemispheric is right hemiparesis.
+MEDICATIONS: Morphine, Phenytoin, Serax, Zantac.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is observed to have a significant amount of sweat artifact.
+DESCRIPTION OF THE RECORD: The background EEG includes a diffuse theta pattern.  There is sweat artifact picked up, particularly from the electrodes on the right. Stimulation of the patient produces muscle.  There are occasional bursts of slowing from the right central region.
+At 13:44, the patient has an episode, not well captured on video.  He has rhythmic jerking of the right leg.  The EEG correlates for this are technically somewhat challenging because of the background artifact.  There is rhythmic 3 Hz artifact picked up.  By 13:45, the tech is able to get the EEG and the video on the leg.  Despite the technical artifacts, there are portions of the record where the background movement artifact is less prominent and the rhythmic 3 Hz delta activity can be localized to the left hemisphere.  The patient is able to use the left side during this event.  With the video in place, he looks to the right and then looks to the left.  He appears uncomfortable with an involuntary 3 Hz jerking, right leg greater than left.  By 13:46, this is moving to approximately 2 Hz.  The activity gradually slows and the seizure is over by 13:47:13 without much in the way of background slowing.  The patient is immediately awake, talking.  The EEG concludes at 13:49:27.
+HR:  72 BPM.
+IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+A single clinical seizure, with poor EEG characterization, perhaps due to the rocking artifact elicited by the seizure.  The onset of the seizure is at 13:44:10 and the tech notes that the patient isn’t following commands very well at the onset of it.  The scalp localization is again poor and only occasionally localizable to the left hemisphere, particularly at 13:45, but with characteristic frequency evolution of the motor activity.
+CLINICAL CORRELATION: This tracing is diagnostic of a seizure disorder.  Localization is compatible with his neurologic picture.  Of note, it is difficult to identify a breach rhythm, focal slowing, or interictal epileptiform activity for this individual, however, this may be due to the technical challenges described above.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 27-year-old woman now more than one-month status-post cardiac arrest with recurrent myoclonus.
+MEDICATIONS: Phenobarbital, Depakote, and Ciprofloxacin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and moving about, but has active ongoing myoclonus.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an awake pattern.  It is reasonably well organized with an alpha rhythm at times reaching 7 Hz, sometimes slower.  There is background theta, but the overall organization is pretty good.  There are intermittent high amplitude bursts of myoclonus, some of which produced just artifact but which are clearly followed by an after going slow wave.  They appear to be generalized although they are high enough amplitude that localization is quite challenging. On one or two occasions, they may appear to the right of the midline. Most, however, seem to be at the midline.  The after going slow wave is 4 to 5 Hz.  To attempt to localize requires a sensitivity of 20 to 30 uV resulting in an overall suppression of the background.  Features of drowsiness include an increase in the background slowing.  At times, there is almost a poly spike and wave component to the discharges.  Features of drowsiness include an increase in background beta, and the myoclonic activity increases.
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+High amplitude generalized spike and wave activity, which primarily produces a muscle artifact for the spike but with a clear after going slow wave.
+Mild background slowing and disorganization.
+CLINICAL CORRELATION: This patient’s overall background continues to improve compared to previous sections of the record.  The epileptiform activity is not localizing, but the nature of the activity suggests that it would be very difficult to localize by the technique employed.  No sustained seizures occurred.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 45-year-old  male with brain abnormality, question arteriovenous malformation in the right parietal region and left side weakness, slurred speech and facial droop. Patient has a single seizure and is off medications. Left sided weakness resolved.
+MEDICATIONS:   Synthroid.
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel as EKG. Hyperventilation and photic stimulation are preformed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:   In wakefulness, background EEG includes a 10.5 hertz, 50 microvolts posterior dominant rhythm with a small amount of low voltage, frontal central beta activity. Features of drowsiness includes slow rolling eye movements with vertex K complexes, spindles identified in stage 2 sleep. Hyperventilation does not activate the record. Photic stimulation elicits bilateral driving.
+The EEG is reviewed and specific montages to extenuate any parietal abnormality. This
+produces some form of an 8.3 alternating with 11 hertz artifact which can be picked in the EKG lead (see examples which are printed out). There are no biological symmetry, just an artifact which sometimes appears on the left.
+HR: 	66 bpm
+IMPRESSION:   Normal EEG.
+CLINICAL CORRELATION:  This is the 2nd normal EEG for this individual. If epilepsy is an important consideration, additional testing may be of use.
+
+
+
+

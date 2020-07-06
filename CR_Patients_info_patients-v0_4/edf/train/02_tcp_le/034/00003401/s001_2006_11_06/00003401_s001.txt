@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 78-year-old woman admitted on 9/30/06.  Patient was found to have an intraventricular/subdural hematoma requiring ventriculostomy.  The patient had a right posterior AVM, first-ever status epilepticus this morning, and CNS fungal infection.
+MEDICATIONS: Ativan, Keppra, Phenytoin, and antifungals.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is treated with Fosphenytoin and Ativan during the EEG.  Clinically, she is blinking as the record opens, but is comatose.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a markedly abnormal pattern with a marked intrahemispheric asymmetry.  The activity from the right hemisphere is low voltage and suppressed.  The activity from the left hemisphere demonstrates higher amplitude delta with an occipital/posteriotemporal high amplitude periodic discharge with a generous field of spread including C3 and P3.  There is also some underlying beta in the frontal regions.  Stimulation of the patient does not seem to alter the periodic complex from the left hemisphere, which has a periodicity of approximately 2 Hz, but does seem to affect the other associated faster frequency activity on the left.  The right hemisphere remains suppressed.  As the recording continues, the periodicity of the epileptiform activity starts to slow to 1 per second.  This is noted after the first 2 mg of Ativan.  With the use of Fosphenytoin and Ativan, the activity on the right becomes lower voltage and slower, and the activity on the left continues to slow, sometimes slowing to a periodicity of less than 1.  The epileptiform activity drops out abruptly at 8:46:51, and the overall background becomes markedly suppressed.  The EEG can be reviewed at a low sensitivity, and the intrahemispheric asymmetry isn’t as prominent, although it is still possible to see this intermittent periodic complex in the left occipital region accompanied by what is otherwise a burst suppression pattern.
+At the end of the record, a clear burst suppression pattern is seen with brief bursts of faster frequency cerebral activity, some of which shifts in terms of maximum in either hemisphere in a relatively suppressed background.
+HR:  80 to 100 BPM.
+IMPRESSION: Abnormal EEG due to:
+The electrographic appearance of status epilepticus emanating from the left hemisphere.
+After the status, the EEG pattern demonstrates a burst suppression.
+CLINICAL CORRELATION: This EEG is diagnostic of a localization-related mechanism for epilepsy.  Additional EEG recording was requested to make certain that the seizures did not recur.
+
+
+
+

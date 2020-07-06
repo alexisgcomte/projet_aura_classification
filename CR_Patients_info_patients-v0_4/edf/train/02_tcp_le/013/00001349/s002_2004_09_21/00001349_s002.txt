@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 48-year-old, right-handed woman with epilepsy and various different types of seizures characterized by headache and a “liquid feeling” running down her spine.  The patient experienced seizures today in the office with staring and sliding to the floor, but preserved responsiveness to verbal activity and self-protected movements.
+MEDICATIONS: Trileptal.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient experienced one of her spells during the EEG. Photic stimulation was performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz, 80 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  There are rare bursts of delta from the temporal regions, particularly the left.
+Photic stimulation is performed at the close of the record.  There is minimal driving.  The patient experiences an event at 12:35:07.  The first change noted is subtle head rocking.  This occurs during the 9 Hz stimuli and gradually increases.  The patient has a bit of photic driving.  At 12:36:32, she has additional head rocking, first to the right and then to the left.  She stiffens a bit.  Her facial expression seems to be one of sadness or discomfort. Head rocking from side to side and almost in a circular movement is seen at 12:35:55.  She shakes her head from side to side but at 12:36:10, she is told to keep her head still and she stops moving her head.  Immediately, when she stops moving her head, a 10 Hz posterior dominant rhythm is identified.  In the minutes that follow, photic stimulation is completed.  The patient remains motionless, staring off to the right, and not interacting with the tech.  Except for during the spell, the patient is unable to follow the tech’s commands in English.
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+Occasional left greater than right temporal delta.
+Behavioral event at 12:35:12 with a somewhat unclear ending of the event, but without an EEG change.
+CLINICAL CORRELATION: The behavior described, as well as the absence of an EEG change, suggests a non-epileptiform nature to this pathology.  Additional EEG monitoring may be helpful to determine if there are true seizures.
+
+
+
+

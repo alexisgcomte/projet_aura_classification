@@ -1,0 +1,35 @@
+HISTORY:
+A 47-year-old woman found in a drug house with seizure-like activity. Abnormal MRI suggesting encephalitis but no cells in
+CSF
+ROOM NUMBER:
+Emergency room.
+MEDICATIONS:
+Ativan 8 mg.
+INTRODUCTION:
+Digital video EEG is performed at the bedside in the emergency room using standard 10/20 system of electrode placement
+with one channel of EKG. The patient is examined during the EEG.
+DESCRIPTION OF RECORD:
+The background EEG begins With a marked asymmetry between the two hemispheres. It is very low-voltage suppressed
+with a paucity of beta activity on the left. In contrast, the right includes generous beta, diffusely. In this relatively
+low-voltage pattern on the left, there are subtle, periodic sharp waves or sharply contoured delta at C3-P3. As the
+recording continues, the patient is starting to move about, there is additional beta activity noted from both hemispheres.
+The periodic complexes are still apparent underneath the muscle and movement artifact. Stimulation of the patient
+produces an increase in muscle artifact. As the recording continues, the epileptiform activity transitions to a bit more of a
+frontotemporal broadly contoured discharge with a broad field of spread.
+Heart rate 104 BPM.
+
+IMPRESSION:
+Markedly abnormal EEG due to:
+1.
+Initially, a markedly slow and suppressed pattern on the left.
+2.
+An asymmetry that persists throughout the record with a much slower pattern on the left.
+3.
+A periodic complex seen intermittently from the left. The patient was a bit more agitated by the end of the record, but
+on the video, no jerking can be discerned during the video to correlate with the periodic complexes.
+CLINICAL CORRELATION:
+In this individual with recent seizures characterized by right-sided jerking, the periodic complexes and focal slowing should
+be correlated with imaging to exclude a structural pathology. No prolonged seizures were recorded.
+
+
+

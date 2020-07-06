@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 34-year-old female, previously admitted to Friend’s Hospital, inn the ICU with significant burns and a seizure today.
+MEDICATIONS: Antibiotics, Ativan, Carafate, and others.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and sedated.
+DESCRIPTION OF THE RECORD: The background EEG is low voltage and diffusely slow with primarily a mixed frequency pattern with slow delta, smaller amounts of theta and some alpha frequency activity.  There is a suggestion of a posterior dominant rhythm, although never well defined.  Stimulation of the patient clearly produces an alerting response with an increase in alpha and theta frequency activity, as well as eye opening.
+HR:  116 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.	Replacement of normal background with a slow, low voltage pattern.
+CLINICAL CORRELATION: The reactivity as well as the presence of alpha frequency activity are positive prognostic features. There were no epileptiform features identified.
+
+
+
+

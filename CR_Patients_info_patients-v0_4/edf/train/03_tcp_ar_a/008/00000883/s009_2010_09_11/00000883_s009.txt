@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 72 year old right handed woman with recurrent seizures since Wednesday admitted for complex partial seizures exacerbation.
+MEDICATIONS: Tegretol, Phenobarbital.
+INTRODUCTION: Digital EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is coherent and conversant during the EEG.
+DESCRIPTION OF THE RECORD: The EEG demonstrates recurrent complex partial seizures from the right temporal region characterized by bursts of arrhythmic, initially alpha, then theta frequency activity lasting 1-2 minutes. The patient can follow commands during the events, but for some of them she has clinical features, including head turning to the left.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Complex partial status epilepticus characterized by repetitive seizures.
+CLINICAL CORRELATION: Long term monitoring was initiated to assess the seizures and response to therapy.
+
+
+

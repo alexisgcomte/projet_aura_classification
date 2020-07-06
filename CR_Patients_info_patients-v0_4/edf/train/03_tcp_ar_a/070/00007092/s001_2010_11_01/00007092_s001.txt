@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 78 year old male with subdural hematoma, right craniotomy, now with facial twitching.
+MEDICATIONS: Keppra, Labetalol, Oxacillin, Famotidine
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient experiences a seizure during the EEG.
+DESCRIPTION OF THE RECORD: As the recording begins, the EEG is markedly abnormal with muscle activity, it is a high amplitude record, but there is periodic sharp activity with a generous field of spread, but most prominent in the right central region. As the recording continues, muscle twitch artifact is noted at 9:10:37. The technologist changes the electrodes. The seizure is best defined at 9:11:11 with oral movements and movements of the head back and forth. Unfortunately, the characteristics of the seizure really obscure much of the EEG, but the activity does have frequency evolution, ends abruptly at 9:11:35 and then at that point the EEG demonstrates a slow pattern and a pattern that was significantly different than the baseline. By 9:14:07 some sharply contoured activity is reappearing. This remains a very challenging EEG with a significant amount of movement and other artifacts, but the overall background remains slow. There is sharply contoured activity picked up, including right central temporal region and the left occipital region.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Seizure.
+2. Epileptiform activity from the left occipital, right central temporal, and with a bilateral representation.
+CLINICAL CORRELATION: This EEG is diagnostic of a focal mechanism for seizures. A bihemispheric process should be considered.
+
+
+

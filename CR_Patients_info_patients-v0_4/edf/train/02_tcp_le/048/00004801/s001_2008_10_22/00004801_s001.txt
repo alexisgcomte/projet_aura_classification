@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   65 yea -old right handed male with 40-year history of epilepsy. Seizures occur every 5 months, but last seizure was 2 months ago. Tonic-clonic seizures occur in sleep.
+MEDICATIONS:  Vicodin, Coreg, Digoxin, Keppra, Prednisone
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation was not performed, but photo stimulation was concluded. This is an awake through stage 2 sleep record.
+DESCRIPTION  OF THE RECORD:  In wakefulness, background EEG includes a well organized, low voltage pattern with a 10 hertz posterior dominant rhythm, 30-40 UV/mm posterior dominant rhythm. There are some normal variants observed in this record including rhythmic central theta of drowsiness and some temporal theta, but there is
+also some subtle, left temporal theta which, on 1 or 2 occasions is somewhat irregular and somewhat sharply contoured. Photic stimulation is performed when the patient is drifting in and out of sleep, but does activate the record.
+HR:	66 bpm
+IMPRESSION:  Abnormal EEG due to:
+1.  Subtle left temporal focal slowing with left temporal slightly irregular theta.
+CLINICAL CORR  ELATION:   In an adult of this age, this can be seen in underlying ischemic cerebrovascular disease, but it is also seen in localization related epilepsy. No definitive sharp waves are observed today.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 9-year-old girl with a seizure 03/03 and another one 7/4/03 described as nocturnal seizures with eyes rolling up and drooling.  Seizure duration five minutes.  Family history negative.
+MEDICATIONS: Flonase inhaler.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz, 50 uV posterior dominant rhythm.  The single, epileptiform abnormality in this record is a right centrotemporal sharp wave, which can be identified in wakefulness.   It ranges from 50 to 75 uV and in wakefulness is not accompanied by background slowing.  As the child becomes drowsy, there is an increase in background rhythmic theta activity, and there is a more well-defined after going slow wave associated with a sharp wave.
+Hyperventilation is performed with good effort, eliciting an increase in background theta.  This sharp wave is a discrete sharp and slow wave complex in hyperventilation.  Photic stimulation elicits bilateral driving.  LAMBDA activity is seen before and after photic.
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.	Right centrotemporal sharp waves.
+CLINICAL CORRELATION: This tracing is supportive of a localization-related epilepsy.  The morphology of the discharge is typical of that seen in benign Rolandic epilepsy.
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   60-year-old woman with possible new onset seizures characterized by loss of awareness for 3-5 minutes with tongue biting, and generalized shaking.
+MEDICATIONS:   Fish oil and B vitamins.
+INTRODUCTION:  Digital video EEG is performed in the laboratory using the standard
+10-20 system of electrode placement with 1 channel of EKG. This is an awake and a sleep record with hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG is low voltage, but well organized. There is an alpha rhythm 9.5 Hertz discernible bilaterally. Hyperventilation  is performed early on in the record increasing the amplitude of the background. At that time,  the  9.5 Hertz alpha rhythm is more easily discerned. Following hyperventilation, the patient becomes drowsy with an increase in background slowing. Brief epochs of stage 2 sleep are characterized by vertex waves and spindles, followed by arousal and snoring. POSTS are observed in stage 2 sleep. Photic stimulation elicits bilateral driving.
+HR:	60 bpm
+IMPRESSION:  Normal EEG
+CLINICAL CORRELATION:   No focal nor epileptiform features are observed. Normal EEG does not exclude a diagnosis of epilepsy. This patient's events were not captured in this EEG.
+
+
+
+

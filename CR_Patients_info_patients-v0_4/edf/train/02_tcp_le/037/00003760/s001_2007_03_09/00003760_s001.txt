@@ -1,0 +1,17 @@
+CLINICAL  HISTORY: This  is a 54-year-old  male of unknown  handedness with epilepsy, alcohol abuse, and AED non-compliance, admitted on the i" with a fever and seizures.
+MEDICATIONS: Keppra, Ativan.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement  with one channel of EKG. Photic stimulation  was performed.   This is an awake and drowsy record. The patient is intermittently agitated and confused.
+DESCRIPTION OF THE RECORD:  The background EEG is low-to-medium amplitude with a
+10 Hz alpha rhythm, generous beta activity and occasional bursts of frontal delta. Features of
+drowsiness include slow rolling eye movements.    A seizure emanating from the left anterior temporal   region is identified at 9:35:56 lasting 44 seconds.   The patient is noted to shift with eye blinking.  There are some automatisms and blinking associated with this.   The seizure ends abruptly with little in the way of postictal change other than more of a low voltage beta pattern.  The activity from the left temporal region is primarily theta frequency.  After the seizure ends, the patient starts to reach purposefully with his right.
+The postictal recording is remarkable for occasional shifting arrhythmic delta, a bit more remarkable from the left frontal region than the right.
+Photic stimulation does not activate the record. HR:  120BPM.
+IMPRESSION: Abnormal EEG due to:
+1 .     A left anterior temporal focal seizure.
+2.   Intermittent left temporal focal slowing.
+3.   Excess beta.
+CLINICAL CORRELATION: Testing was not performed during the seizure, but it did appear to be clinically significant with some automatisms, which may have been difficult to distinguish in this confused adult.
+
+
+
+

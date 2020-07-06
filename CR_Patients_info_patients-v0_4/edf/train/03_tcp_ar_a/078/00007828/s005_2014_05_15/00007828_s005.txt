@@ -1,0 +1,38 @@
+History:	60 YO MALE ATTEMPTED HANGING.
+Medications:	Depakote, Versed and Vecuronium x1.
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 10 hours from 05/15/2014 to 05/16/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+See above.
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+attenuation with absence of the expected anterior to posterior gradient of frequencies.  No normal
+sleep architecture was present.
+No focal slowing is present.  Intermittent brief bursts 1-3 of generalized frontally-maximal spike-and-
+wave discharges and polyspike-and-slow-wave discharges occur.  Seizures occur frequently about 10
+per hour until about 11:30PM after which GPEDs are seen at 1hz which then stop around 3AM.
+EEG: seizures reveals sudden high amplitude frontal predominant generalized spike and wave and
+polyspike and wave discharges that begin about 10Hz then evolve by slowing down in frequency up
+to 1Hz while becoming less pronounced then suddenly ending.  Vecuronium was given which
+facilitated the review of the waveforms. Clinically the patient will have irregular body shaking.
+Hyperventilation and photic stimulation were not performed.  HR was 66
+Summary of Findings:
+Status epilepticus
+PEDs (periodic epileptiform discharges)
+Attenuation
+Interpretation:
+This is an ABNORMAL EEG because of status epilepticus with multiple generalized seizures which
+stop overtime. In addition there were GPEDs presents along with diffuse background attenuation.
+This findings are all indicative of severe diffuse cerebral dysfunction and irritability, which is
+consistent with the history of anoxic brain injury and forebode a poor prognosis.
+
+
+

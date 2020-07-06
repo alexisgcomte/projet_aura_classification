@@ -1,0 +1,16 @@
+EEG REPORT
+CLINICAL HISTORY: 66 year old woman, status epilepticus.
+MEDICATIONS: Depakote, Ativan, Propofol, Morphine, Haldol, Nitrobid, Labetalol, Plavix, lipitor.
+INTRODUCTION: Continuous digital video EEG monitoring was at bedside
+using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: As the recording begins, the patient is in status epilepticus. The patient starts to have respiratory difficulty. He receives 2 mg of Ativan which markedly reduces the sharp waves noted from the left. The left sharp waves with some variability, including C3, F3, or P3. There is a positivity that follows the sharp waves. The epileptiform activity attenuates substantial with the Ativan. Propofol 150 mg is utilized in the afternoon of May 23, 2011, approximately 2:00 p.m. which again produces a marked attenuation of the activity. Over time, as the propofol wears off, subtle sharp waves are again noted with some intermittent sharp waves or subtle sharp waves noted in the background. Depakote is infused. Subsequent sections of the record include stage 2 sleep with spindles and POSTS. There are even brief sections of the record with arousal with a posterior dominant discernible bilaterally. Unfortunately, later sections of the record are remarkable for EKG artifact.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing and even bursts suppression following the use of propofol.
+2. A relatively slow background, improving substantially, as time progresses.
+CLINICAL CORRELATION: Status epilepticus with unusual, but persistent,
+epileptiform activity emanating from the left.
+
+
+
+

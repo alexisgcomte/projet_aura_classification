@@ -1,0 +1,19 @@
+
+CLINICAL HISTORY:  Mixed edema, coma, now a new EEG pattern and seizures.
+
+MEDICATIONS:  Hydrocortisone, Clotrimazole, synthroid, Pantoprazole, Insulin, Heparin, Moxifloxacin
+
+INTRODUCTION:  Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. No clinical information is provided.  The technologist had difficulty with the patient's electrode placement due to matted hair.
+
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a markedly abnormal pattern, intermittently discontinuance.  There is no mention that medications have been changed prior to the baseline, but in contrast to the initial recording, which demonstrated a prominent sharp wave at the vertex, these are not quite as prominent and do seem to have an usual spread starting a little bit at the right and moving towards the left.  There are portions of the record, however, where the activity seems to build up and when it does there is a right frontal discharge.  The discharge in the right frontal region does not correlate exactly with the discharge of Cz, suggesting a complex ictal pattern.  This brief ictal discharge is seen at 18:08:32 and is not associated with a clinical change in the patient's behavior.  There are no additional notes in the record, but intermittently, this activity is seen right frontal and CZ/C4, but it is more fragmented, although clearly some sharp waves can be observed in association with this.  Over the course of the recording the overall background is somewhat slower.
+
+No additional notes or maneuvers are demonstrated in this digital video EEG.  There is some brief bursts of fast activity observed at 4:00a.m.
+
+HR:  60 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. 	A complex electrographic seizure from the right hemisphere with 2 different frequencies of epileptiform activity.
+2. 	Right frontal and CZ/C4 epileptiform activity.
+
+CLINICAL CORRELATION:  This 24-hour video EEG monitoring session identified 1 seizure.  Careful clinical assessment is essential to put this in the appropriate clinical context as the patient may have received medications that altered this pattern.
+

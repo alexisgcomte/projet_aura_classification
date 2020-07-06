@@ -1,0 +1,19 @@
+CLINICAL HISTORY:   21 year old with epilepsy since age 7 following head trauma. She has had increasing seizures in the last 3 days which are tonic clonic, right leg weakness and numbness, which is new.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This an awake and sleep record.
+DESCRIPTION OF THE RECORD:  The initial portions of the record are somewhat disorganized for an adult of this age.  There is an 11 Hz posterior dominant rhythm with generous beta.  There are clearly defined sharp waves observed in the temporal regions.  These include independent, left or right well defined temporal sharp waves which are associated with 5 Hz theta and an after going slow wave.  In addition, brief bursts of generalized spike and wave activity of less than 3 seconds in duration are identified in hyperventilation and in drowsiness. There is a subtle asymmetry with some focality in terms of an asymmetry and arrhythmic theta in the transition to stage I sleep. Photic stimulation is performed while the patient is drifting in and out of stage II sleep producing a driving response in any case.
+HR: 	60 bpm and quite irregular
+IMPRESSION:  Abnormal EEG due to:
+1. 	Background disorganization.
+2. 	Focal spike and slow wave activity, which is generalized in nature and occurs in hyperventilation.
+3. 	Focal sharp waves, a bit more so from the left in comparison to the right, but seen
+well defined, although infrequently.
+4. 	Question asymmetry between the right and left central temporal regions in sleep.
+CLINICAL CORRELATION:
+1. 	The generalized spike and wave activity may be seen in a primary or secondary generalized epilepsy.  One paroxysmal burst was more irregular than one might anticipate.
+2. 	Focal epileptiform sharp waves.
+3. 	Background slowing and disorganization.
+4. 		Focal sharp waves and spikes are seen in individuals with primary generalized epilepsy.  The presence of frequent seizures at this time may explain some of the features described above.
+
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 67-year-old woman with episodes of visual scintillations and associated light-headedness occurring one to two times per day.
+MEDICATIONS: Depakote, multiple antihypertensives, Diovan.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient reported no clinical symptoms during this EEG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG demonstrates a left temporal triangular shaped wave form, which is periodic and has the morphology of a very simple PLED.  Hyperventilation is performed early on in the record.  Within the first 30 seconds of hyperventilation, the periodic activity accelerates and the periodicity increases from approximately one per second to two per second.  This evolves with triangular shaped theta/delta frequency from the left hemisphere maximum in the temporal regions, but with a phase reversal at T3.  This clearly evolves with again increasing frequency in the theta range.  The duration of the activity is approximately 60 seconds and it gradually fades. As it fades, there is a periodic sharply contoured activity and the phase reversal seems to be in the last two PLEDs, more anterior temporal.  This is followed 1.5 seconds later by rhythmic 5.5 Hz activity, which is identified in the occipital regions, left greater than right.  At 8:53:39, the alpha rhythm is returning on the left, but it is still slower on the right.  The technologist confirms with the patient that the patient feels well and there are no clinical signs associated with this one-minute discharge. By 8:54:20, at the end of hyperventilation, the EEG at this time shows a normal pattern.  By 8:54:52, however, the periodic activity starts to evolve from the left and then the 5 Hz activity is identified from the occipital regions, left greater than right, resolving by 8:55:17.  As it resolves, the left periodic triangular shaped discharge persists and does demonstrate a generous field of spread into the posterior temporal and central regions, although remains maximum in the mid-temporal region.  This activity persists into drowsiness.  Deeper stages of sleep are not achieved and on one or two occasions in the transition to drowsiness, the 5 Hz occipital activity is identified.
+Photic stimulation elicits bilateral driving.  The triangular shaped waves are still apparent in the photic driving response.   Despite this, the driving can be identified from both hemispheres.
+HR:  60 BPM.
+IMPRESSION: Abnormal EEG due to:
+Subclinical seizure from the left temporal region.
+Left temporal periodic sharp waves.
+A postictal 5.5 Hz rhythmic discharge identified from the occipital regions, left greater than right.
+CLINICAL CORRELATION: Given the frequency evolution, the wave forms described above are outside the range for a normal variant and suggest a partial mechanism for this patient’s symptoms.  There is no clinical correlate for the discharges recorded above, which is a surprise given the localization to the dominant hemisphere.
+
+
+
+

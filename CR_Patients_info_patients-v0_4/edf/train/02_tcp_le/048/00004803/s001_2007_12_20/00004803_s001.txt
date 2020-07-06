@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is an 18-year-old left handed male with mild mental retardation, epilepsy with seizures characterized by staring, currently seizure free.
+MEDICATIONS:  None.
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was not performed but photic stimulation was completed.
+DESCRIPTION  OF THE RECORD:  In wakefulness, background EEG is extremely well organized with 10 Hz, 50 - 60 microvolts, alpha rhythm and a small amount of low voltage frontal central beta. Photic stimulation elicits brief bilateral driving.
+HR: 	66 bpm
+IMPRESSION:
+Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:	No focal nor epileptiform features were seen.
+
+
+

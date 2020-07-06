@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 59-year-old male with epilepsy, last seizure 3 weeks ago, with postictal confusion.
+MEDICATIONS:  Tegretol.
+INTRODUCTION: Digital video EEG is performed in the lab using the standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. There is no hyperventilation. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG is appropriately organized for an adult of this age with a low voltage 9 Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized
+by an increase in background theta present bilaterally. Deeper stages of sleep are not sustained. Single channel artifact is picked up at F7. Photic stimulation elicits bilateral driving.
+HR: 	90 bpm
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal nor epileptiform  features were observed in this record. Previous EEGs demonstrates left temporal sharps but none were seen today
+
+
+
+

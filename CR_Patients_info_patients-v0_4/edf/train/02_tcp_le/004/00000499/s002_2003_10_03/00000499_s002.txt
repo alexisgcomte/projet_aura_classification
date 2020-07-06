@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 19-year-old male with anoxic encephalopathy.
+MEDICATIONS: None. Midazolam was stopped at 5:00 PM on 10/2/03.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as deeply comatose and unresponsive.  Stimulation of the patient is performed on multiple occasions throughout the record.
+DESCRIPTION OF THE RECORD: With conventional montages, there is no definite cerebral activity.  Stimulation of the patient produces some artifact, but no reactivity.  The technologist performs auditory and noxious stimulation.  She checks the integrity of the electrodes.  The ventilator rate is 12 bpm.  During some portions of the record, ventilator and ICU artifacts are identified in the frontal regions.
+A portion of this record is recorded with the ECS montage.  This section of the record picks up an ICU artifact.  The ECS section was reviewed at a sensitivity of 2.  There is no definite cerebral activity seen using this technique, although the artifacts are much more prominent in this section of the record.
+HR:  __ BPM.
+IMPRESSION: Abnormal EEG due to:
+Suppressed background with what appears to be an ECS record, although with the formal ECS montage, artifact was picked up, which was substantially greater than that seen in other montages.
+Absence of reactivity or variability.
+CLINICAL CORRELATION: In the appropriate clinical context, in the absence of sedative hypnotic medications or hypothermia, this tracing is compatible with a severe cerebral dysfunction such as that seen in brain death.
+
+
+
+

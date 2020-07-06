@@ -1,0 +1,16 @@
+CLINICAL HISTORY: This is a man with unknown medical history brought into the ER seizing, given Ativan, _check tech sheet__________ for intubation.  Positive tox screen and possible stroke. CT showed a question of an old left PCA infarct versus atrophy.
+MEDICATIONS: Ativan drip, Vecuronium, Succinylcholine, Etomidate, and Lidocaine.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standing 10-20 system of electrode placement with one channel of EKG.  The patient is described as sedated.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with theta.  A periodic complex is identified in the background.  These show shifting asymmetries and may be seen in the right anterior temporal region or left posterior temporal region.  They are superimposed upon a background of essentially theta and delta.  There is a phase reversal, clearly left posterior temporal and right anterior temporal. There is variability in the record with some portions of the record demonstrating more in the way of periodic complexes and some portions of the record demonstrating periodic facial grimacing, which appears almost as an eye movement.  However, looking at the video there is an eye movement, but there is a high amplitude, periodic discharge with associated eye movement and facial twitch and a periodicity of one per second to one per three seconds.  This is identified at 12:44 in the background.  The patient has ongoing activity in the later portions of the record with a facial swallow or hiccup and ocular movements, which seems to wax and wane.
+SEIZURE @ 12:49: The patient is intubated and the oral facial movements are as described.  There are subtle triangular shaped waves that emanate from the left posterior temporal region, but are picked up bitemporally as well as in the right central region.  As these wave forms appear, the facial grimacing stops briefly and the event is approximately ten seconds in duration.  After this, the facial grimacing reappears and the triangular shaped waves disappear.
+SEIZURE @ 12:52:44: Again this is a ten second discharge with the identical triangular shaped waves and cessation of the blinking and swallowing activity.
+By the close of the record, the patient has received 2 mg of Ativan.  He continues to have the facial blinking and grimacing.
+HR:  100 BPM.
+IMPRESSION: Abnormal EEG due to:
+Unusual ictal pattern with more than one seizure type.  The facial blinking and grimacing appears to be associated with more of a generalized periodic discharge, but the other electrographic seizures were associated with focal posterior temporal abnormalities.
+Interictal periodic complexes with variable fields and phase reversals.
+CLINICAL CORRELATION: This tracing is compatible with status epilepticus, but with a somewhat unusual ictal pattern.  Consideration for an acute neurologic process, which includes anoxia as well as an encephalitis is appropriate.
+
+
+
+

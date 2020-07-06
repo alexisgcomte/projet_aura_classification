@@ -1,0 +1,18 @@
+
+
+CLINICAL HISTORY:	21-month-old female with new onset febrile seizures. Past medical history is remarkable for 27-week-preemie with tracheostomy. Retardation due to placental insufficiency, delivered via C-section. Birth weight of 656 gm.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10/20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  As the tracing opens the child is awake. There is a low voltage, featureless background.
+At 11:51:48 while the technologist is touching the patient, the patient seems to have a subclinical seizure which persists even after the technologist stops touching the patient. The seizure evolves with rhythmic ictal activity which is approximately  2.5 Hz maximum on the right. By 11:52:01 it is bilateral. It demonstrates frequency evolution  which is similar to the child's heart rate which is 150 but it gradually is slowing by 11:54. The seizure ends at 11:54:45 and is overall flattened.
+The overall background is low voltage and suppressed with some artifact PICC line up in the left frontal region which is alpha frequency activity and matches an extra cerebral artifact. By 12:00 the activity is not quite as suppressed.
+Seizure #2 occurs at 12:02:45 with the appearance of very subtle rhythmic activity
+which in this case is seen a little bit more prominently in the left central electrodes with a double phase reversal, but clear frequency evolution and a negativity at T2. This activity demonstrates frequency evolution. This one again starting C3-T1 with this funny field at T1-T2 and then this seizure clearly evolves out of the left but the pattern is similar to the first seizure with frequency evolution, gradually building faster than the patient's heart rate at 12:03:15. Behaviorally the only manifestation observed is that the child blinks but not at the same rate as the ictal activity. By 12:03:52 the activity is bilateral. This seizure starts to abate at 12:05:11 and is over 10 seconds later. The background  activity is suppressed. A third occurs at 12:10:42. This is characterized by more poorly defined mixed theta delta in the right hemisphere.  No clinical correlates are associated with this.
+HR: 150 bpm
+IMPRESSION: Abnormal electroencephalogram due to:
+1. 	Markedly abnormal background for a child of this age.
+2.	Three electrographic seizures, 2 from the right, 1 from the left with similar ictal patterns.
+CLINICAL CORRELATION:  This EEG supports a severe, underlying encephalopathy. Of note, there were little in the way of clinical features that accompanied these changes.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 57-year-old male with acute alcohol abuse, DTs, and seizures.
+MEDICATIONS: Ativan, Depakote, and Zyprexa.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is somnolent.
+DESCRIPTION OF THE RECORD: The background EEG includes low voltage, diffuse beta.  Stimulation of the patient produces an alerting with theta frequency background. The patient drops off to sleep after this with a mixture of beta and delta in the background  is seen.  By the end of the record, the patient is a bit more alert and the background is a mixture of beta and alpha frequency activity.  There is a single left temporal sharp wave, which is also picked up in the eye lead and thus  may be artifact.
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+Excess beta.
+Low voltage, somewhat slow background.
+CLINICAL CORRELATION: The single left temporal sharp wave must be considered artifact.  Generous beta and the background slowing may be due to the patient’s medications.
+
+
+
+

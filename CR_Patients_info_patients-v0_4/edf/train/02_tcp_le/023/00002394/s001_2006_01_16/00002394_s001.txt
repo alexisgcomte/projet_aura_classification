@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 76-year-old woman with a right parietal MCA infarct in December with a single seizure at that time. MVA either in 1973 or at age three with frontal encephalomalacia.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9 Hz, 30 to 40 uV posterior dominant rhythm, which is symmetric and reactive.  Focal features in this record include intermittent attenuation of faster frequency activity from the right with an increase in theta frequency activity, as well as occasional focal slowing from the left frontal region with some arrhythmic delta.  Features of drowsiness include slow rolling eye movements.  The intermittent focal slowing occurs sometimes in drowsiness, with focal features from the left more prominent and at other times focal features from the right more prominent.
+Photic stimulation elicits brief bilateral driving.
+HR:  80 BPM.
+IMPRESSION: Abnormal EEG due to:
+Occasional focal slowing from the left frontal region or the right mid-temporal region.
+CLINICAL CORRELATION: These areas correlate to this patient’s neuroimaging.  Of note, the activity from the left is a bit more sharply contoured than the right, which may be due to the previous trauma.
+
+
+
+

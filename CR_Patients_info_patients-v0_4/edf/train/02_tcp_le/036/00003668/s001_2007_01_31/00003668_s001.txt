@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is an 83-year-old male with subdural hematoma, intubated and comatose, with acute jaw jerking.
+MEDICATIONS: Dilantin and others. No other information available.
+INTRODUCTION: Digital video EEG is performed at the bedside in the Neurology ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated. Stimulation of the patient is performed.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  The patient is stimulated only a few times during the EEG and each time it seems that the stimulation occurs just when the patient has one of his four seizures.
+The background  includes a pattern  of arrhythmic delta with at times an asymmetry with a bit more arrhythmic  delta on the right than the left.  Intermittently, there are portions of the record with a high amplitude, left frontotemporal or frontocentral spike and slow wave or sharp and slow wave, with at times amplitudes greater than 100 uV with a generous field of spread.  This activity on most occasions is associated  with a jerk of the jaw.   On four occasions, this activity clearly evolves  with  each  seizure  lasting  approximately   one  minute  with  characteristic   frequency evolution  and  a pattern  of  repetitive  jaw  jerking.   The  epileptiform  activity  is  quite  high in amplitude and when it evolves in these more clearly defined clinical seizures, it is maximum on the left, but with some spread  to the right.  There is little in the way of postictal slowing.   The technologist examines the patient after the seizures and no withdrawal is noted.
+HR.: 90 BPM, irregular.
+IMPRESSION: Abnormal EEG due to:
+1.  Four seizures in a single EEG characterized by paroxysmal evolution of high amplitude sharp waves  and spikes from  the left  hemisphere  and a clinical presentation  of facial  twitching, which seems to involve the shoulder and the arm.
+2.   Left frontotemporal or frontocentral spikes with isolated jerks.
+3.   Background slowing.
+CLINICAL CORRELATION: This EEG is consistent with a status epilepticus pattern.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 16-year-old female with epilepsy treated with Depakote. Tonic-clonic seizures characterized by facial twitching with eyes rolling back in the head.  Seizures occurred three years ago.  Most recent seizure 4/14/06.
+MEDICATIONS:
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 50 to 60 uV posterior dominant rhythm and a generous amount of low voltage, frontocentral beta activity.  Occasional posterior slow waves of youth are identified.  Hyperventilation is performed early on in the record, producing brief bursts of frontally predominant 3 to 6 Hz spike and wave activity.  As the recording continues, there is additional spike and slow wave activity at the end of hyperventilation and in the transition to drowsiness, which is again generally symmetric, frontally predominant, but is more in the category of 3 Hz with more after going slow waves.  Other features of drowsiness include attenuation of the alpha, an increase in background beta, and POSTS.  Additional spike wave discharges are seen, typically lasting less than a second as the patient makes the transition to sleep.
+Photic stimulation elicits vigorous bilateral driving.  Spike and slow wave activity is seen during and around the time of photic, but on only two occasions does it actually occur during photic at 15 Hz and 13 Hz.  The discharges occurring in photic stimulation are not prolonged and are less than one second in duration.  Given the prominent presence of brief spike and wave activity, it cannot be clearly assumed that photic stimulation accentuated the spike and wave activity.
+HR:  72 BPM.
+IMPRESSION: Abnormal EEG due to:
+Frontally predominant 3 to 6 Hz spike and wave activity, increasing in HV and drowsiness.
+CLINICAL CORRELATION: This EEG supports a primary generalized mechanism for epilepsy.  Although there is some wicket identified following hyperventilation, there are no definite focal spikes in this record.  Previous EEGs are not available for comparison.
+
+
+
+

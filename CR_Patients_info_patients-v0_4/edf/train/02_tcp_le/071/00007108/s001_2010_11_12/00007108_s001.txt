@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 43 year old male with left frontal subdermal hematoma and multiple other severe injuries. Evaluate for head injury.
+MEDICATIONS: Keppra, Imipenem, Vancomycin, Fentanyl, Midazolam
+INTRODUCTION: Digital video EEG was performed at bedside using the 10-20 system of electrode placement with 1 channel of EKG. The patient is missing a bone flap on the left, the technologist has to adjust the electrodes. In addition, she notes that he has a high fever. The patient is described as unresponsive.
+DESCRIPTION OF THE RECORD: This EEG is markedly abnormal and includes a slow background. There are some portions where there is an asymmetry with a bit more faster frequency activity on the right compared to the left. In this individual with missing skull, there is an area of higher amplitude sharp wave, which can be seen at C3, occasionally T5 or T3. At C3 it has a polyspike component.
+With stimulation the breech rhythm becomes more apparent and there is a bit more faster frequency activity on the left and some delta in the right occipital region. There is a burst of rhythmic 3-4Hz activity out of the left at 13:52:56. No clinical signs or symptoms are associated with this. That burst is again seen at 13:54. Unfortunately there is a bit of artifact at that time.
+Stimulation of the patient does not clearly activate the record. As the recording continues, the record is slower on the left and this comes out after the discharge, which may have been an epileptiform discharge on the left. This is a dynamic pattern and what may be a seizure reappears again at 14:03:11. That activity starts to wane at 14:08.
+
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing.
+2. Intrahemispheric asymmetry.
+3. Sharp waves out of the left, including the left central region.
+4. Two possible seizures characterized by evolution of rhythmic activity out of the left followed by background slowing.
+
+CLINICAL CORRELATION: Additional EEG recording may be important to exclude subclinical seizures.
+
+
+
+

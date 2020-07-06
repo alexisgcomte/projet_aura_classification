@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is an 80-year-old gentleman with episodes of syncope versus seizures characterized by opening of the mouth and eyes, arms extended, holding onto a chair, lasting 30 seconds without change in mental status associated with shortness of breath, blurry vision, and a feeling as if he is floating.  He also has a pacemaker, CABG, MI, and renal insufficiency.
+MEDICATIONS: Lipitor, Flagyl, Coumadin, others.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. There is no hyperventilation or photic stimulation.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 7.5 Hz posterior dominant rhythm reaching amplitudes up to 25 V. This is accompanied by a small amount of low voltage, frontocentral beta activity and occasional left or right temporal theta or delta. Drowsiness is characterized initially by a burst of rhythmic frontal slowing.  In the initial portions of the record, the patient is asleep, and in deeper stages of sleep, the overall pattern is low voltage.  There are vertex waves identified in sleep. There are rare POSTS identified in the sleep record.
+HR:  84 BPM.
+IMPRESSION: Mildly abnormal EEG for age due to:
+Mild slowing of the alpha rhythm to 7.5 Hz.
+Occasional excess left temporal theta and delta in drowsiness.
+
+CLINICAL CORRELATION: These features are non-specific and an underlying toxic or metabolic encephalopathy, as well as a mild, diffuse disorder of cerebral function could produce this pattern.
+
+
+
+

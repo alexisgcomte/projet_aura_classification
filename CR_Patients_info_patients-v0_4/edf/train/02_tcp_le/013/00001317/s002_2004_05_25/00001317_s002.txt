@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 63-year-old woman with a single seizure while on vacation, now seizure-free.
+MEDICATIONS: Premarin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is high amplitude for an individual for this age with a 10 Hz, 70 to 80 uV posterior dominant rhythm and a modest amount of low voltage, frontocentral beta activity. There are occasional bursts of slightly irregular left temporal slowing with rare left temporal sharp waves seen in quiet wakefulness and in the transition to drowsiness, as well as on one occasion in hyperventilation.  There is also a single right anterior temporal sharp and slow wave complex.  There is one lower amplitude, left temporal discrete sharp wave, more compatible with a benign epileptiform transient of sleep.  Deeper stages of sleep are not achieved.
+Hyperventilation produces a small amount of right or left temporal theta/delta.  Photic stimulation elicits brief bilateral driving.
+HR:  __ BPM.
+IMPRESSION: Abnormal EEG for a subject of this age due to:
+1.	Left temporal focal slowing and sharp waves, albeit rare in this record.
+CLINICAL CORRELATION: In a subject of this age, some of the temporal features may be related to underlying age-related changes.  There is a single, well-defined right temporal sharp wave and another, suspicious but not definitive discharge.  Correlation with imaging may be valuable.
+
+
+
+

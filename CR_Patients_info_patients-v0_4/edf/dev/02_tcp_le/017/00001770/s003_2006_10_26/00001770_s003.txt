@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 26-year-old woman with refractory epilepsy status-post left frontal resection now with abrupt cluster of focal seizures characterized by head turning to the right and right arm jerking.
+MEDICATIONS: Trileptal, Valproate, and Klonopin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  The patient is awake and alert, but experiences multiple spells with head jerking and head turning.
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is uncomfortable.  She is awake with a pattern of generous beta activity and a well-formed alpha rhythm.  There are multiple episodes with head turning and the jerking. On some occasions, but not on every occasion, there is a clear onset.  The seizures are difficult to localize.  The end of the seizure is quite clear, but the beginning of the seizure is difficult to really define; in fact, because of the artifact and the generous fast activity, if anything, it seems to start with the appearance of fast activity seen almost symmetrically, gradually building up with clear tonic-clonic artifact and then little in the way of postictal slowing.  Seizure duration is about 10 to 15 seconds. For reasons that are unclear, it is difficult to reformat some of the digital data, but the characteristic pattern is quite helpful despite the fact that it is not possible to reformat this data.  In fact, scalp localization for the seizure is quite poor.  If anything, using a bipolar montage when there is good data available, most of the events seem to be about 15 seconds long.  In the first part of this, they are occurring almost continuously, waxing and waning, and then typically about 15 seconds in duration.
+HR:  126 BPM.
+IMPRESSION: Abnormal EEG due to:
+A focal form of status epilepticus, best defined as epilepsy partialis continua with a clear tonic-clonic artifact component, but with little in the way of scalp EEG.
+CLINICAL CORRELATION: This EEG is diagnostic of a form of a status epilepticus.  The patient was tested extensively throughout the EEG and no impairment of awareness accompanied these events.
+
+
+
+

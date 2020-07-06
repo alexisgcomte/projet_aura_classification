@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is an 83-year-old gentleman admitted several weeks ago for pneumonia and multiple complications resulting in a tracheostomy and PEG tube placement.  The patient has diffuse metastatic squamous cell carcinoma and sepsis.  History of right temporal bone squamous cell carcinoma status-post resection and radiation therapy.
+MEDICATIONS: Antibiotics and others.
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standing 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not performed.  The patient is trached.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with low voltage and superimposed with theta and delta activity.  The background is asymmetric with occasional shifting.  Occasionally, left delta activity with brief paroxysmal bursts of periodic activity maximally at the vertex, but also at T5 and O1 in the left hemisphere are seen.  The brief paroxysmal burst activity is about 3 Hz, with sharp activity that lasts up to 11 to 15 seconds.
+HR:  108 BPM.
+IMPRESSION: Abnormal EEG due to:
+Diffusely slow and disorganized background.
+Left delta activity with brief paroxysmal bursts of periodic activity in the left hemisphere.
+CLINICAL CORRELATION: This EEG tracing demonstrates a severe disturbance of cerebral function involving both gray and white matter.  However, this pattern is non-specific and can be seen in patients with a structural lesion or encephalopathy secondary to metabolic, infectious, or medication effect.  In light of the brief paroxysmal burst of periodic activity, this is an unusual seizure pattern and no correlates of seizure manifestations were found.  This EEG result was also communicated to the Neurology Consult Team.
+
+
+
+

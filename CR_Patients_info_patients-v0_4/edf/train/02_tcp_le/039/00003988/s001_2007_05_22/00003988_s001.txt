@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 	This was a 38-year-old, right handed male with past IVDA, Hodgkin's disease, hypertension, thyroid disease, heart failure, asthma, COPD and massive pontine hemorrhage admitted on May 21, 2007.
+MEDICATIONS: Hydralazine, Nexium.
+INTRODUCTION: 	Digital video EEG was performed at bedside in the ICU using standing 1020 system of electrode placement with 1 channel of EKG. The patient was intubated and poorly responsive.
+DESCRIPTION  OF THE RECORD: 	Background EEG was markedly slow and disorganized with arrhythmic delta activity but there was faster frequency activity in the background including both beta and theta frequency activity. Spontaneous eye movement was observed. There was a spontaneous 40 second burst of rhythmic 4-5 Hz theta frequency
+activity without clear clinical correlate. The event was observed but testing was not performed during the event. The patient did have eye movement at that time. Tactile stimulation later in the record produced an increase in faster frequency activity.
+HR: 120 BPM.
+IMPRESSION: 	Abnormal EEG due to:
+1. Marked background slowing with arrhythmic delta activity from both hemispheres.
+2. Mixed frequency pattern.
+3. A single seizure from the left temporal region without clinical correlate.
+CLINICAL CORRELATION: 	This EEG supported the diffuse disturbance of cerebral function as would be anticipated with a pontine hemorrhage. In addition, the left temporal seizure suggested cortical irritability.
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 20-year-old woman with Goldenhar syndrome, Klippel-Feil abnormality, congenital hydrocephalus, stroke, single seizure, and tremor.
+MEDICATIONS: Depakote, Keppra, and Prozac
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD: This is a very challenging bedside record.  There is a significant artifact throughout the record.  In the interpretable portions of the record, there is a 10 Hz posterior dominant rhythm reaching amplitudes of 75 uV.  There is a generous amount of low voltage, frontocentral beta activity.  In drowsiness, there is intermittent rhythmic left anterior temporal focal slowing.  Other features of drowsiness include attenuation of the alpha rhythm.
+HR:  90 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.	Rhythmic left anterior temporal 3 to 4 Hz activity.
+CLINICAL CORRELATION: This tracing supports a structural abnormality.  There were no epileptiform features. There were only 17 minutes of good recording and therefore this EEG should be repeated in the lab.
+
+
+
+

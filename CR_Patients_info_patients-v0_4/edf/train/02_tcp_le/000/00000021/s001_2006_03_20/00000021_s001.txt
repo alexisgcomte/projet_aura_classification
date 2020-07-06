@@ -1,0 +1,22 @@
+CLINICAL HISTORY: This is a 27-year-old woman with focal sclerosis glomerulonephritis and childhood epilepsy.  Patient seizure-free for five years.  The patient is now experiencing staring spells at work.  Previous history of tonic-clonic seizures.
+
+MEDICATIONS: Norvasc.
+
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 30 to 50 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Brief drowsiness is characterized by anterior spread of the alpha rhythm.  Hyperventilation does not activate the record.  The major abnormalities occur around the time of photic stimulation.  The tech starts to awaken the patient for photic.  A brief burst lasting just under one second is seen with high amplitude, sharply contoured activity without a really well-defined spike and slow wave complex, but with notched frontal activity.  Reviewing the burst with different montages, it seems to phase reverse slightly to the left.
+
+1 seizure occurred in the EEG lab at 13:51.  This follows photic stimulation, but does not occur during photic stimulation.  The patient is resting quietly with her eyes closed.  As the seizure begins at 13:51:57, no clinical signs or symptoms are noted.  The technologist notes the change in behavior.  The patient’s eyes open at 13:52:10.  The technologist asks the patient questions at 13:52:16.  The patient opens her eyes and swallows.  When asked where she is she replies that she is in the neurologist’s office.  She remains somewhat confused in the minutes that follow.  The tech calls the patient at 13:52:39.   At 13:52:46, she sits, staring blankly, and then she starts to rub her eyes in her head.  The tech asks if she is okay.  At this point, when the tech is asking the patient questions, the seizure has ended and the patient is confused.
+
+EEG characteristics of this seizure include the appearance of rhythmic theta frequency activity, which is more remarkable in the posterior regions.  This seizure seems to start with some low voltage fast activity and then some rhythmic theta, more remarkable in the posterior regions and perhaps maximum in the right posterior region.  Reviewing this seizure with a circle montage, seems to confirm a phase reversal in the right occipitotemporal region but also involving the right central region, nearly isoelectric Cz to C4.  The activity shows frequency evolution and seems to occur in two phases with secondary build-up at 13:52:19 with fast activity and more of a generalized appearance.  The activity ends at 13:52:51 as the patient starts to rub her head with postictal slowing.
+
+HR:  96 BPM.
+
+IMPRESSION: Abnormal EEG due to:
+1. Complex partial seizure, which was difficult to localize and which may have had some generalized features at the start, but with some evidence of focality in the same seizure.
+2. An unusual paroxysmal burst frontal in nature.
+
+CLINICAL CORRELATION: This EEG is diagnostic of an underlying seizure disorder.  There may be more than one contributing factor for this patient’s seizures.  This EEG did not provide adequate localization for the seizures that this individual experienced.
+
+
+

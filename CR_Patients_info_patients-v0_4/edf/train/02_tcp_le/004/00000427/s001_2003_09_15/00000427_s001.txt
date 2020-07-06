@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 47-year-old male with episodic shaking: patient fell off to sleep, shaking for five minutes with postictal confusion lasting 10 to 20 minutes.  Seizures occur several times per week.  Hepatitis C, hepatitis D, IV drug abuse, head trauma and skull fracture in the past.
+MEDICATIONS: Haldol, nicotine patch.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat poorly organized.  There is a posterior dominant rhythm, which ranges in frequency from 7.5 to 9 Hz, 30 to 50 V. There appears to be a breach rhythm from the right temporal region, as well as superimposed focal slowing with disruption of faster frequency activity on the right.  In wakefulness, there are right mid-to-anterior temporal sharp and slow wave complexes with some variability in terms of F8 versus T2 maximum.  These are accentuated by hyperventilation.  Hyperventilation also seems to accentuate underlying focal slowing with intermittent rhythmic bursts seen independently from the right or left temporal region.  Following hyperventilation, as the patient becomes drowsy, there are again rhythmic bursts of focal slowing seen independently, right greater than left temporal region. Deeper stages of sleep were not achieved.
+Photic stimulation elicits bilateral driving.
+HR:  56 BPM.
+IMPRESSION: Abnormal EEG due to:
+Right temporal sharp and slow wave complexes with variability in terms of maximal, amplitude and field of spread.
+Independent, rhythmic temporal focal slowing, right or left.
+Generalized background slowing and poor organization.
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy as well as a structural or functional abnormality on the right.  In addition, a diffuse disorder of cerebral function should be considered.  Correlation with imaging may be of use.
+
+
+
+

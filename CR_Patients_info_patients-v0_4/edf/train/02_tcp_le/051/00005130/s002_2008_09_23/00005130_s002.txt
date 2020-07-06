@@ -1,0 +1,22 @@
+CLINICAL HISTORY:  66 year-old male with hepatic insufficiency, recurrent seizures characterized by left sided jerking without impairment of awareness.
+MEDICATIONS: Phenobarbital
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using the standard 10-20 system of electrode placement with 1 channel of EKG. The recording begins in the ED and continues after the patient is transitioned to the neuro ICU.
+DESCRIPTION OF THE RECORD:  This section of the record continues to show intermittent seizures characterized primarily by left sided jerking. The seizures are shorter in duration and the first epoch ends at 8 p.m. The seizures are much less frequent and there are extended periods of time that passes without the seizures. After multiple infusions of Phenobarbital and at that point not yet a gram, there is a lower voltage, slower pattern with sharp waves identified in the right temporal parietal regions with variable maximum including C4 or P4.
+The overnight sleep recording continues to demonstrate a low voltage, featureless pattern with intermittent bursts of sharply contoured slowing, arrhythmic delta activity or sharp waves in the right parietal region with involvement of C4, T6, and P4.
+In the morning, the nurse awakens the patient. Clinical seizures are observed at 8:25:26 after stimulation of the patient with brief jerking on the left and then the time sample is closed out to go to the next epoch so the rest of the seizure is missed.
+HR:	100 bpm
+:  Long Term EEG monitoring September 24 to September 25, 2008
+MEDICATIONS: Phenobarbital.
+DESCRIPTION OF RECORD:  The background EEG demonstrates  a low voltage, slow, featureless pattern. This section of the EEG begins where the September 23 to September 24 seizure ended, and at that point, the patient was having clinical jerking without a clear scalp correlate. Intermittently, throughout this section of the record, there are episodes of primarily left side body jerking. In contrast to the previous sections of
+the EEG, there is less in the way of a clear scalp EEG correlate and simply a pattern of movement artifact. Overall, the few clinical seizures that are observed do not seem to be as intense or as prolonged. No clinical comments accompany this section of the record. There is no mention about changes in medications or clinical seizures.
+This section of the recording ends on the 24th at 15:26. At the close of this epoch, ongoing focal slowing from the right with some sharply contoured delta is observed. There are portions including 15:17 where he continues to jerk, but again there is less in the way of both muscle artifact to trigger the particular pattern and the EEG pattern is not so significantly different than the interictal pattern although there is perhaps less rhythmic delta when the seizures stop.
+HR: 	100 bpm.
+IMPRESSION:   Abnormal EEG due to:
+1. 	Multiple recurrent complex partial seizures characterized  by focal jerking on the left.
+2. 	Slow EEG with at times particularly on the 24th a discontinuous  pattern.
+3. 	Evolution to a more subtle seizure with rhythmic delta, but without as clear epileptiform activity including T4, C4, and P4 spikes.
+4. 	Right hemispheric  epileptiform activity with rhythmic delta and sharp waves or spikes in the posterior temporal parietal region.
+CLINICAL CORRELATION: This EEG over approximately 1.5 days is supportive of a focal form of status epilepticus. The seizures did continue even at the close of the recording suggesting that ongoing intervention is needed.
+
+
+

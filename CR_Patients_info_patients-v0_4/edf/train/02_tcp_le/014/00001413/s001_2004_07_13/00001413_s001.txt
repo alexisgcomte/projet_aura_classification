@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 10-year-old female with congenital hydrocephalus, seizures, a right posterior shunt now with a new type of seizure with generalized shaking lasting five to seven minutes.
+MEDICATIONS: Tegretol and Zyrtec.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG is continuous, medium amplitude, primarily a theta frequency background with a hint of a 6 Hz posterior dominant rhythm.  In quiet wakefulness, there are sharp waves identified primarily from the right central region with variable maximum at C4/T4 or C4/P4.  There is a two-second burst of frontally predominant high amplitude 3 Hz spike and slow wave activity.  This activity is on the order of greater than 300 uV and is not associated with a discernable change in behavior.  In addition, as the child becomes slightly drowsy, additional bursts again less than 3 seconds with a frequency of 3 to 5 Hz are seen without clear clinical change.
+HR:  108 BPM.
+IMPRESSION: Abnormal EEG due to:
+Right centrotemporal, central parietal spike and slow wave activity.
+Intermittent brief bursts of generalized high amplitude spike and slow or poly spike and slow wave activity.
+Generalized background slowing.
+CLINICAL CORRELATION: This tracing supports a diffuse disturbance of cerebral function and raises the possibility of more than one mechanism for seizures.
+
+
+
+

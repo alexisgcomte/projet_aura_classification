@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  8 year-old female with a single seizure 1 month ago while she had a cold. She vomited, eyes rolled back, became limp and body trembled for several minutes. After she was confused. Family history of childhood seizures in an aunt.
+MEDICATIONS:   None
+INTRODUCTION:  Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG is appropriately organized for a child of this age with a 9.5 hertz posterior dominant rhythm. Features of drowsiness include slow rolling eye movements. Photic stimulation elicits vigorous bilateral driving. The hyperventilation produces initially posteriorly predominant  and then frontally predominant delta. In the frontally predominant delta, there is a suspicious, but not definitive 3 hertz sharp and slow wave complex or notch frontal or frontal central delta.
+HR: 	108 bpm
+IMPRESSION:  Suspiciously, this EEG is likely abnormal due to:
+1. 	Frontally predominant sharp and slow wave with notch frontal delta elicited by hyperventilation.
+CLINICAL CORRELATION:	The findings described above are typically seen in inherited epilepsy and can be associated with absence seizures or tonic clonic seizures. These findings are subtle. If clinically appropriate, a more prolonged EEG even with a second attempt at hyperventilation may be important to determine if this child definitively has spike and wave activity. Please do not hesitate to contact the lab with additional questions.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 58-year-old male with multiple seizures, history of refractory epilepsy with a Depakote level of 57.
+MEDICATIONS: Depakote.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9.5 Hz, 40 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  In wakefulness, there is a subtle, left anterior temporal sharp and slow wave complex.  This appears initially as a wicket-like pattern, however, on other occasions it is clearly high amplitude, occurring in couplets and is associated with underlying or followed by focal slowing.  This increases as the patient becomes drowsy.  Other features of drowsiness include attenuation of the alpha rhythm and an increase in background beta.  As the patient reaches stage I sleep, higher amplitude left anterior temporal spike and slow wave complexes are noted in the referential montage.
+Photic stimulation produces brief driving at intermediate flash frequencies.
+HR:  96 BPM.
+IMPRESSION: Abnormal EEG due to:
+Left anterior temporal sharp and slow wave and spike and slow wave complexes.
+Associated left anterior temporal focal slowing.
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy.  No previous records were available for comparison.
+
+
+
+

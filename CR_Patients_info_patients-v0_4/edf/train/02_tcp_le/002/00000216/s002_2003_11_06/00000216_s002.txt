@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a __-year-old male with a past history of closed head injury and then many years later a single seizure.  Patient found to have left MCA aneurysm, seizure-free for one year.
+MEDICATIONS: Naprosyn, Cozaar, Trileptal.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a symmetric, reactive 10 Hz alpha rhythm of approximately 20 V with a generous amount low voltage, frontocentral beta activity.  There is a subtle breach rhythm identified in the left centrotemporal region with accentuation of beta frequency activity in that region.  There is also occasional, extremely subtle focal slowing.
+Hyperventilation is performed early on in the record and the breach rhythm becomes more prominent as the beta activity is accentuated in that region.  In addition, hyperventilation appears to subtly elicit some theta from the left.  Following hyperventilation, the patient becomes drowsy, again with an increase in beta frequency activity and the breach rhythm becomes slightly more prominent.  Brief vertex waves are seen in stage I sleep.
+Photic stimulation elicits brief bilateral driving.
+HR:  78 BPM.
+IMPRESSION: Mildly abnormal EEG due to:
+1.	Subtle focal slowing from the left centrotemporal region.
+CLINICAL CORRELATION: The breach rhythm is an anticipated finding following craniotomy. The sharply contoured nature of the accentuation of beta and theta in hyperventilation is simply a phenomenon of the craniotomy.
+
+
+
+

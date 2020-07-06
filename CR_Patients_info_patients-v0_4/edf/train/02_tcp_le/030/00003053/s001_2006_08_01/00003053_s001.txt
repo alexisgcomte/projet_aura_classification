@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 5-year-old, right-handed female with episodes of loss of balance and staring.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The child is crying and unhappy in the initial portions of the EEG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 7.5 Hz posterior dominant rhythm.  Much of the record is drowsy, but in apparent wakefulness, the background EEG is acceptably well organized.  There is some hypersynchronous, rhythmic slowing.
+The major features in this tracing include a clinical seizure characterized by high amplitude 3 to 5 Hz spike and slow wave activity identified in the beginning of the record.  The activity is generalized, extremely high amplitude, and occurs when the child is spontaneously crying to the point of wailing, producing a burst of frontally predominant 3 to 5 Hz spike and slow wave and poly spike and slow wave activity.  The activity appears to be generalized at the onset.  The discharge begins at 11:53:33 and ends at 11:53:45, although it seems much longer looking at the video, and is characterized by cessation of the child’s crying with a little whimpering and then staring.  There are caregivers at the bedside who do not realize what has occurred and, in fact, assume that the child’s behavior is simply a response to being comforted.  There is some rocking movement identified in the record, as well as hypersynchronous, rhythmic slowing.  Towards the end of the record, as the child is agitated, she seems to be a little drowsy, and there are left central/centrotemporal sharp waves identified.
+HR: Maximum 150 BPM while crying.
+IMPRESSION: Abnormal EEG due to:
+A clinical absence seizure characterized by arrest of the patient’s temper tantrum and staring with 3Hz spike wave activity.
+Focal left central spikes in relaxed wakefulness, occurring without associated background slowing.
+CLINICAL CORRELATION: This EEG suggests more than one mechanism for seizures in this patient.  Individuals with absence epilepsy have a higher predominance of centrotemporal epilepsy, although in this case the epileptiform activity has also a centroparietal component.  Correlation with exam and imaging is appropriate.
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 3-day-old, full-term female with episodes of cyanosis, apnea, and imaging demonstrating left temporal and posterior frontal subdural and subarachnoid hemorrhage.
+MEDICATIONS: Gentamicin, Phenobarbital, and Ampicillin.
+INTRODUCTION: Digital video EEG is performed in the Neonatal Nursing Unit using standard 10-20 system of electrode placement with one channel of EKG. The infant is observed to have the hiccups.
+DESCRIPTION OF THE RECORD: The background EEG is continuous, symmetric.  There is generous beta frequency activity identified from the central regions.  Age appropriate quantities of theta and delta activity are identified.  The child is either awake or with rapid eye movement sleep throughout much of the record. There are rare right temporal sharp waves, as well as a single right central sharp wave.  Occasional frontal transience are identified.  With stage changes and an increase in delta, there are occasional left temporal sharp waves seen in the record.  These are high amplitude and are seen only on the left. These are not associated with ictal changes in the EEG.
+HR:  136 BPM.
+IMPRESSION: Abnormal EEG for an infant of this age due to:
+1.	Left temporal sharp waves.
+CLINICAL CORRELATION: The intermittent bursts of delta are not clearly pathologic.  The left temporal sharp waves support a potentially irritative cortical focus on the left and are ipsilateral to the cerebral hemorrhage.
+
+
+
+

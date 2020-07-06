@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 22-year-old female with frequent CPS post craniospinal XRT. Hx GBM of spine
+MEDICATIONS: Levetiracetam, Keppra, Celebrex and many others.
+INTRODUCTION: Digital video EEG is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. The patient reports multiple spells occurring on the average of twice an hour while awake.  There are some technical problems with the review of the EEG, although all data appears to be present.
+EVENTS:  Push button events with clear correlates include 01:25:38, 9:11 AM, 10:26 and 10:33 all on the morning of the 28th.
+The epileptiform discharges are generally 20 to 40 seconds in duration.  For the spells that the patient describes as mild seizures, there is a subtle increase in the left temporal theta.  For those spells that she describes as more clear seizures including the one at 10:26, the patient has motion arrest, her head drops, and she is not as verbally responsive.  During these seizures, there is repetitive spike and slow wave activity from the left temporal region, maximum at T1 with frequency evolution.  At the close of two of the seizures on the morning of the 28th, there is return of the alpha rhythm from the posterior head regions before the seizure has concluded.  Using an average reference, it looks as if the right hemisphere has return of the alpha before the left, but in other montages, this is not as apparent.
+SEIZURE TIME 23:37:25 on the 27th:  There is the initial subtle appearance of rhythmic 5 Hz theta from the left temporal region followed by high amplitude sharply contoured 4 to 5 Hz activity, almost with a double phase reversal, followed by muscle at 23:47:50, which obscures the end of the seizure.  In the seconds that follow, there is some excess theta from the left temporal region.  The patient is able to push the button at precisely the start of the seizure.  She sits up.  She moves her face off camera, and her head appears to be slightly tremulous.  There is a small degree of head bobbing at 23:37:50.  This occurs as the computer alarm goes off.  The seizure appears to be over at 23:38.
+RANDOM WAKEFULNESS AND SLEEP: The patient does not appear to sleep much throughout the night.  Much of the night demonstrates an awake pattern with an alpha rhythm.  The spike detector identifies some eye artifact or rhythmic alpha in sleep as seizures.  There is a single burst of beta from the right temporal region identified at 04:09:42.  This is also seen at 6:09 in sleep.  The sleep is stage I with POSTS.
+SEE NEXT DAY
+HR:  __ BPM.
+IMPRESSION:
+CLINICAL CORRELATION:
+
+
+
+

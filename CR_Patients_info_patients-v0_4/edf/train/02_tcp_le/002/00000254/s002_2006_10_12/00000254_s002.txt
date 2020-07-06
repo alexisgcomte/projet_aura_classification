@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 60-year-old male with a long history of alcohol withdrawal seizures and traumatic subdural hematoma.
+MEDICATIONS: Codeine, Nifedipine, Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient has had a recent right craniotomy for subdural hematoma removal.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: There are portions of the record where the background EEG is pretty well organized when the patient is maximally awake with an 8 Hz posterior dominant rhythm, bursts of frontal delta, and an intrahemispheric asymmetry characterized by slower delta on the right and attenuation of the faster frequency activity on the right.  Features of drowsiness include slow rolling eye movements and an increase in background slowing.  Agitation is characterized by an increase in faster frequency activity.
+HR:  72 BPM.
+IMPRESSION: Abnormal EEG due to:
+Focal slowing on the right with low voltage delta and disruption of faster frequency activity.
+Mild generalized background slowing.
+FIRDA.
+CLINICAL CORRELATION: The focal slowing is ipsilateral to the recent craniotomy.  FIRDA is a non-specific finding and can be seen in a toxic or metabolic encephalopathy, as well as a disturbance of brain function.  No epileptiform features were seen, and his 2003 EEGs were not available for comparison.
+
+
+
+

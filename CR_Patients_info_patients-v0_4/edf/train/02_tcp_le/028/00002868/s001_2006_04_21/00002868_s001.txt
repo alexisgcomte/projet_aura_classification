@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 64-year-old woman with confusion following upper GI bleed.
+MEDICATIONS: Metoclopramide, Propranolol, and Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is somnolent.
+DESCRIPTION OF THE RECORD: The background EEG is markedly slow with primarily a delta frequency pattern superimposed with smaller amounts of theta.  There is shifting asymmetries in the record.  Prominent frontal triphasic waves are identified, but there is also a right occipitoparietal spike and slow wave focus, as well as a handful of T5 sharp waves.
+HR:  70 BPM.
+IMPRESSION: Abnormal EEG due to:
+Prominent triphasic waves in the frontal regions.
+Occasional focal epileptiform activity seen primarily in the right posterior quadrant, but on rare occasions from the left.
+CLINICAL CORRELATION: This EEG suggests a significant, underlying metabolic disturbance.  However, there are focal epileptiform discharges.  Careful neurologic follow-up is appropriate.
+
+
+
+

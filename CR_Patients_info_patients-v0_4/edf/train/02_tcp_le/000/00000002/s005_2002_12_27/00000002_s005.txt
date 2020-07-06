@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 55-year-old, right-handed woman with CNS vasculitis.
+MEDICATIONS: Phenobarb, Topiramate, Valproate, others.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is obtunded without clear clinical seizures identifiable.
+DESCRIPTION OF THE RECORD FOR 12/27-28/02: During this portion of the record, there are frequent spike and slow wave complexes identified particularly on the date of the 27th.  There is also some periodic delta activity, but there are none of the characteristic frequency evolution seizures or the seizures that were characterized by the buzz of the bursts of fast activity.  In the transition after midnight on the 28th, the EEG is lower voltage and overall much more suppressed.  At the conclusion of the first 24 hours at 7:00 AM on the morning of the 29th, the EEG pattern continues to demonstrate a overall low voltage suppressed pattern without additional seizures.
+DESCRIPTION OF THE RECORD FOR 12/28-29/02: In this section of the record, the background EEG has some occasional issues with quality.  The patient has some evidence of reactivity.  Despite the technical issues with the EEG, the EEG remains continuous with an increasingly rich background with bursts of rhythmic, frontally predominant delta or theta activity.  There is less of the suppression that was seen in earlier portions of the record and there is some chaotic, higher amplitude arrhythmic delta activity, although the pattern remains low to medium amplitude overall.  The epileptiform activity from the right hemisphere is clearly beginning to abate in this section of the record.
+IMPRESSION: Abnormal, continuous bedside EEG monitoring due to:
+Initial status epilepticus with repetitive seizures with a focal or partial pattern followed by intermittent suppression of the seizures and then a pattern of fast activity which was to some extent bilateral.
+CLINICAL CORRELATION: This tracing is diagnostic of a status epilepticus.  While the ictal pattern may change over time, by the close of this recording the epileptiform activity is decreased.
+
+
+
+

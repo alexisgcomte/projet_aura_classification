@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 18 year old female, pregnant with frequent, daily seizures. Some of them are characterized by difficulty seeing, others by involuntary movements of her right arm behind her back. The patient reports that she is awake and interactive during all of the seizures.
+MEDICATIONS: Topamax, Glucosamine, Lorazepam, Prenatal Vit, Folic Acid, Keppra
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a slightly slow pattern, but there is a 9 Hz alpha rhythm. A breech rhythm is identified in the left temporal region and there are a handful of sharp waves. In sleep, sharp waves are observed in T3 and a handful at T2 as well. Head rocking artifact is picked up in sleep, particularly in the temporalis electrodes. There are also some sharp waves identified in sleep in the left frontal central region.
+Events: Time 22:35:45 the patient reports a seizure when she went to the bathroom. She describes the seizure as involuntary movement of her right hand behind her arm, but without impairment of awareness. The patient is off video during the seizure. No discernible epileptiform features are associated with this event.
+Events: Time 10:57 on May 5, 2010. She is with her mother. On viewing the video, it is difficult to identify the features, but she stopped talking and looks to the right. The mother describes the right hand posturing. The nurse enters. For some time, the patient is not interactive with the team, but she is awake and alert during the seizure. The EEG demonstrates during the seizures.
+IMPRESSION: Abnormal EEG due to:
+1. A well defined alpha rhythm.
+2. Left temporal focal slowing most prominent left posterior temporal region.
+3. Left posterior temporal sharp waves.
+CLINICAL CORRELATION: No epileptiform activity can be identified in association with this second seizure.
+
+
+

@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  51 year old man with Parkinson's disease, brain tumor, pinealoma status post radiation therapy many years ago with encephalopathy, MRI demonstrating  right temporal lobe enhancement.   The patient presented to an outside hospital with encephalopathy and white matter changes.  Evaluate for herpes encephalitis or other cause.  There is a history of craniotomy and epilepsy.
+MEDICATIONS:  Depakote, Metoprolol, Mirapex, Lovenox, Zofran
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG demonstrates an intrahemispheric  asymmetry.  There is a discernible 9Hz 50 microvolt alpha rhythm on the right which is disrupted on the left.  In addition, there is a skull defect with head rocking in the right central region and overall disruption of mu activity on the right compared to the left. Features of drowsiness include a drop out of faster frequency activity which occurs on the right much sooner on the left.
+A seizure occurs at 09:53:03. It begins with the subtle development of alpha frequency out of the right temporal scalp electrodes which evolve.  No definitive clinical signs are seen until 09:53:47 when he starts to blink.  He seems to be motionless looking at the camera.  There may be some switching in the neck, but nothing that the video observer can see.  By 09:53:47 he is staring and blinking, looking to the left.  There is clear frequency evolution at 09:54:37.  There is no testing performed in the seizure and postictal slowing is noted with the end of the seizure occurring at 09:55:22 to 09:56.  By
+09:59 the EEG looks postictal.  It has returned to the slowing that was previously noted
+on the right with the return of alpha briefly on the left.
+Notable features during this relatively prolonged, 2 minute complex partial seizure, includes the appearance of alpha frequency activity bilaterally, although there previously had not been alpha frequency on the right.  This activity is clearly pathological and it is not the alpha rhythm which reacts to eye opening.  It is actually faster frequency than it is posterior dominant rhythm and it is associated with repetitive sharp activity at T2.
+The postictal recording includes some sharp waves on the left.
+HR:	60 bpm
+IMPRESSION:   Abnormal EEG due to:
+1. 	A 2.5 minute complex partial seizure.
+2. 	Focal slowing from the right.
+3. 	Sharp waves from the left.
+CLINICAL CORRELATION:  This EEG is diagnostic of a localization related mechanism for epilepsy.  Correlation with imaging is advised.
+
+
+

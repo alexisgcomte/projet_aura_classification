@@ -1,0 +1,35 @@
+History:	80 YR OLD MALE PRESENTS WITH H/O S/P AORTIC VALVE REPLACEMENT, WITH LT LEG JERKING MOVEMENTS AND LT SIDED WEAKNESS.
+Medications:	lorazepam
+
+
+Sedation: EEG Type: Technique:
+
+
+Lorazepam
+Continuous (inpt, video}, 24 hrs, portable
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+
+
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours. Nursing-initiated event buttons were correlated with clinical behavior. Graphical representation of the EEG was available at the bedside and over the hospital network for continuous review by trained nurses and EEG technologists. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns. All automatically detected events were reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+Waking background is characterized by a 25-30uV, 8-9Hz alpha rhythm, which attenuates symmetrically with eye opening. The posterior dominant rhythm is fragmented on the right by intermittent theta activity. There is intermittent mild theta slowing seen over the left hemisphere. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+
+There is focal theta slowing in the right para-sagittal region at C4-P4. No epileptiform discharges are present. Throughout the recording there are numerous clinical episodes of left leg movements. These consist of arrhythmic, jerking movements without clear rhythmicity, involving the entire left leg. Of note, these events were not seen during sleep. The patient's mental status was preserved during these events. There was no ictal change in the background cerebral activity with these events even when view in 5 different recording montages.
+Hyperventilation and photic stimulation are not performed.
+
+Summary of Findings:
+Focal slowing, polymorphic, nearly continuous, right rolandic Diffuse slowing, polymorphic, intermittent diffuse
+
+Interpretation:
+This is an ABNORMAL 24 hour bedside video EEG due to diffuse slowing and focal right center-parietal slowing. There was no ictal correlate to the repetitive left leg movements suggesting that these were non? epileptic movements i.e., myoclonus, or focal motor seizures not detected by scalp EEG. These possibilities were discussed with the primary care team
+
+
+
+

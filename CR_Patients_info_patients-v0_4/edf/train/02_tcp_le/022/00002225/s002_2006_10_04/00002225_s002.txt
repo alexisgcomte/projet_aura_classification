@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 3-year-old male with afebrile seizures characterized by eyes rolling back in the head for five minutes, occurring once or twice per month.  Former 28-week gestation infant born weighing 3 lbs., 10 oz.
+MEDICATIONS:
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake through stage II sleep record. This is the third EEG for this individual.  The two previous EEGs indicated that he had febrile convulsions.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized for a child of this age with an 8.5 Hz posterior dominant rhythm.  In sleep, vertex waves, K complexes, and spindles are identified.
+The major abnormality in this record, is discrete bursts of frontally predominant 3 Hz spike and wave activity seen in the transition to and from stage II sleep.  These are high amplitude discharges, typically occurring in discrete pairs, frontally predominant, symmetric, ranging from 3 to 3.5 Hz.  They can overlap with a spindle, which is a normal morphology of stage II sleep.  On one occasion, a pair of spike and wave complexes may be associated with an arousal.  At the close of the record, the child is stimulated from sleep, and occipitally predominant rhythmic slowing is followed by an awake pattern with LAMBDA when the child is more fully awake.
+HR:  120 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.	The appearance of frontally predominant, high amplitude spike and wave activity.
+CLINICAL CORRELATION: This activity was not seen in the two previous EEGs.  Correlation with this patient’s history may be helpful in that there were two previous EEGs demonstrating febrile convulsions with a child who may have developed afebrile convulsions and an EEG pattern that is most consistent with an inherited epilepsy.
+
+
+
+

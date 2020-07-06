@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 	45-year-old right handed woman with 4 episodes of incontinence and possible seizures. Associated tongue biting.
+MEDICATIONS: 	None.
+INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with l channel of EKG. Photic stimulation is performed. This is an awake and drowsy record.
+DESCRIPTION OF THE  RECORD: 	In wakefulness, background EEG includes a
+9 Hertz posterior dominant rhythm. The waking background is intermittently disrupted by arrhythmic delta activity from either hemisphere, some of which is sharply contoured. There are also a few bursts of frontal delta. In this a somewhat sharply contoured waking background, there are primarily bursts of frontally predominant rhythmic delta, shifting asymmetries and lateral rectus artifact. Hyperventilation does not significantly activate the record. Photic stimulation is associated with photoelectric artifact which makes identification of a driving response more challenging.
+HR: 72-90 bpm
+IMPRESSION: 	Abnormal EEG due to:
+1. Generalized background slowing and disorganization.
+2. 	FIRDA
+3. Shifting arrhythmic delta.
+Clinical correlation: There are no definitive epileptiform features in this sharply contoured record. Additional recording captured deeper stages of sleep, may be important is epilepsy is a significant consideration. Overall, this EEG suggests features
+of a metabolic encephalopathy as well as a process which may involve white matter of both hemispheres.
+
+
+
+

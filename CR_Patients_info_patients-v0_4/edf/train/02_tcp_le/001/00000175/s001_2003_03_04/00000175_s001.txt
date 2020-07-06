@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 22-year-old, right-handed male with childhood epilepsy with previous OIRDA or Lennox-Gastaut-like pattern.
+MEDICATIONS: Carbatrol, Topamax.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is poorly organized. There is prominent, relatively rhythmic 3 to 5 Hz activity from the occipital regions, which demonstrates some shifting asymmetry but without clear lateralization.  Hyperventilation accentuates the occipitally predominant rhythmic delta/theta.  Drowsiness is characterized by an increase in beta frequency activity particularly in the frontocentral regions.  There is again shifting asymmetry in terms of the beta frequency activity.  Relatively symmetric vertex waves are identified in stage I sleep. As the patient becomes drowsy, the occipitally predominant 3.5 to 4.5 Hz activity becomes increasingly rhythmic and this is seen throughout much of the quiet, resting background.
+Photic stimulation does not significantly activate the record.
+HR:  64 BPM.
+IMPRESSION: Abnormal EEG for a subject of this age due to:
+Generalized background slowing.
+Prominent, occipitally predominant rhythmic theta/delta.
+CLINICAL CORRELATION: No definite epileptiform features were identified in this record.  The background is similar to previous reports for this individual.  For this individual with a Lennox-Gastaut-like pattern in the past, it is surprising not to see epileptiform activity, however, this individual appears to be outgrowing his epilepsy.
+
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 39-year-old woman with frontotemporal head trauma with frontotemporal epilepsy. Patient with seizures for the past two years described as tunnel vision with loss of consciousness lasting three to five minutes, followed by confusion.  Seizures occur three to four times per month.
+MEDICATIONS: Topamax, Midodrine, Zoloft, Lovastatin, Maxalt.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. This is a fifty-minute study.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an 11 Hz, 40 to 50 uV posterior dominant rhythm with a generous amount of low voltage, frontocentral beta activity.  When the patient is just even slightly drowsy, there is rhythmic background slowing with more of a 6 to 7 Hz pattern.  Hyperventilation is performed early on in the record and as the patient is alerted for hyperventilation, a left anteriotemporal sharp wave is seen.  Hyperventilation elicits irregular sharply contoured slowing from both hemispheres, some of which are remarkable in the posterior regions.  Following hyperventilation, there is a bit of shifting slowing. Vertex waves, K complexes, and spindles are identified in stage II sleep.  The stage II sleep record is prolonged and includes high amplitude vertex waves, K complexes, and spindles.  At times, the POSTS are somewhat higher amplitude on the left compared to the right.  There is a suggestion of an accentuation of beta on the left.
+Photic stimulation is performed when the patient is awakened from sleep, but does elicit a bilateral driving response.  In the transition to and from sleep, towards the close of the record, there is a bit of focal slowing from the left in comparison to the right.
+HR:  78 BPM.
+IMPRESSION: Mildly abnormal EEG due to:
+An unusual pattern of slowing in hyperventilation with irregular arrhythmic slowing.
+Subtle, rare left temporal slowing.
+CLINICAL CORRELATION: There is only a single sharp wave identified in this record, which therefore must be considered an artifact.  This EEG may be correlated with imaging.  Consideration for more of a diffuse disturbance of cerebral function rather than a specifically localized abnormality is appropriate and may be correlated with this patient’s history of trauma.
+
+
+
+

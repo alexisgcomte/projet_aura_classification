@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is an 88-year-old woman with a single seizure.
+MEDICATIONS: Depakote and aspirin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of
+electrode placement with one channel of EKG. Photic stimulation  was performed.   This is an
+awake and asleep record.
+DESCRIPTION  OF  THE   RECORD: In wakefulness, the  background  EEG  is  slow  and disorganized.  The alpha rhythm is 6 to 7 Hz.  There is occasional delta on the background, right greater than left.  The patient transitions into stage II sleep with vertex waves and persistent eye movements.  Auditory stimulation in sleep produced an attenuation response.  Photic stimulation did not activate the record.
+HR.: 84BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Background slowing and disorganization.
+2.   Occasional focal slowing on the right.
+CLINICAL CORRELATION: In comparison to a study done seven months ago, this EEG demonstrates significant background slowing and disorganization.   In contrast to her EEG one year ago, no epileptiform activity was seen.
+
+
+
+

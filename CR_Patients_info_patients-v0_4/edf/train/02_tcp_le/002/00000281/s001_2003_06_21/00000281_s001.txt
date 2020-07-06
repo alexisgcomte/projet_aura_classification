@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 60-year-old woman with severe COPD with multiple episodes with alteration in mental status, abnormal CSF profile with abrupt episode of stuttering, shivering, or shaking followed by agonal respirations and subsequent intubation.
+MEDICATIONS: Vecuronium, Lidocaine, Phenylephrine, Pentothal, multiple morphine, Celexa, Ceftriaxone, others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, comatose, and not responsive.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  From the left hemisphere, the background EEG is low voltage and slow.  The primary frequencies from the left are lower voltage theta and delta.  From the right hemisphere, there is continuous high amplitude, right mid-to-anterior temporal spike and slow wave activity with a generous field of spread including anterior temporal, parietal, and occipital regions.  In addition, there is some lower voltage frontally predominant theta from the right.  This activity is persistent throughout, waxes and wanes a bit, and on rare occasions it stops briefly with background suppression.  It is accompanied by some faster frequency beta activity.  Stimulation of the patient does not appear to activate the record. In some portions of the record, there is more fast activity in association with a continuous spike and slow wave activity and there are some portions of the record demonstrating overall more beta frequency activity.
+HR:  137 BPM.
+IMPRESSION: Abnormal EEG due to:
+Status epilepticus with continuous epileptiform activity from the right temporal region.
+Generalized slowing from the left.
+CLINICAL CORRELATION: These features support an ongoing epileptiform disorder.  The clinical team was notified and EEG monitoring was initiated.
+
+
+
+

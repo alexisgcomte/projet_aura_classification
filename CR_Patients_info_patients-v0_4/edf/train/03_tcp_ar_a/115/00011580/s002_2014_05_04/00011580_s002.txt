@@ -1,0 +1,38 @@
+History:	An unknown female who was found less responsive/confused.   She was noted with 2 GTC seizures on 5/3/14 lasting 1-2 min. Patient is now unresponsive
+Medications:	Keppra, Phenobarbital Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 20 hours from 05/04/2014 till 05/05/2014.    Nursing? initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+No posterior dominant rhythm was present.  There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The right hemisphere exhibits a continuous polymorphic theta frequency background.  There is significant diffuse pacemaker artifact that limits interpretation.   No normal sleep architecture was present.
+
+The right hemisphere exhibits a continuous theta frequency background. Left anterior temporal sharp waves can be seen intermittently. Multiple focal seizures are captured. They are of variable frequency throughout the recording, maximally up to 12 seizures per hour and -5 seizures per hour by the end of the recording epoch. Seizures last - 1 minute. EEG: Sudden rhythmic left midtemporal delta intermixed with beta which increases in frequency and amplitude. The seizure remains over the left hemisphere.
+Clinical: Patient opens her eyes and looks towards the right followed by the head and then may exhibit lip smacking and mouth movements.
+
+
+Summary of Findings:
+Status epilepticus, left temporal, up to 12 seizures per hour Sharp waves, intermittent, left temporal, anterior
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, left hemispheric, moderate-to-severe
+
+Interpretation:
+This is an ABNORMAL 20 hour continuous video EEG due to frequent focal left temporal seizures (frank status epilepticus) that improve with time. In addition there is continuous focal slowing and frequent epileptiform discharges in the left anterior temporal region.  These findings are indicative of a irritable focal structural lesion in the region. Lastly there is  diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.  These
+
+
+
+P
+
+findings were conveyed to the primary team.  There is significant diffuse pacemaker artifact that limits interpretation.
+
+
+
+
+
+I
+

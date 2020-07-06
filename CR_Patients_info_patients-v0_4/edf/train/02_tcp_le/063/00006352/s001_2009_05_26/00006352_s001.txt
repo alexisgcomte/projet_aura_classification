@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  23 year old woman status post cavernous angioma resection x 2, most recently in 10/08.  The patient has a history of several seizures post surgery.
+MEDICATIONS:  Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement with 1 channel EKG.  A right skull defect noted.  Photic stimulation and hyperventilation were performed.  This is an awake to stage II sleep.
+DESCRIPTION OF THE RECORD:  During wakefulness, well-organized  and just reaching appropriate levels at 8.5 Hz posterior dominant alpha rhythm is seen.  In the right hemisphere, specifically during periods of drowsiness as the record slows, rhythm of focal theta activity is seen.  Stage 2 sleep is seen with vertex waves, spindles, and K-complexes.   During the sleep patterns, the vertex waves are mostly symmetric, but occasionally a little higher amplitudes are seen in the right hemisphere.   During hyperventilation, some more of the right focal theta activity is seen.  During photic stimulation, some driving is seen.
+HR:  72 bpm
+IMPRESSION:  Abnormal EEG due to:
+1. 	Minimal focal slowing seen mostly during drowsiness and hyperventilation.
+2. 	Occasionally slightly asymmetric vertex waves with some higher amplitudes minimally seen in the right hemisphere, but mostly her vertex waves are symmetric.
+CLINICAL CORRELATION: There is no epileptiform activity or seizures recorded in this EEG. The rhythmic focal slowing in the right hemisphere might be secondary to the patient's history of previous surgery and is consist with breech rhythm on that side.  If there is further concern of epilepsy in this patient, we could repeat the EEG. Clinical correlation is recommended.
+
+
+

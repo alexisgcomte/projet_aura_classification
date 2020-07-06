@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is an 80-year-old woman with septic shock, multiple strokes, intubated, with eye deviation to the right and unresponsiveness.
+MEDICATIONS: Insulin, Tegretol, Heparin, and others.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake or drowsy.
+DESCRIPTION OF THE RECORD: The background EEG is low voltage with a mixture of theta and smaller amounts of beta.  During intermittent portions of the record, there are frequent, periodic sharp waves identified, maximum in the right centrotemporal region with involvement essentially of the right hemisphere, but maximum in the centrotemporal region, as well as the frontotemporal region.  These vary from a periodicity of approximately one per second to sections of the record that are relatively free of this periodic complex.  While there is no true frequency evolution, there is a smaller amount of theta associated with the frequent right centrotemporal sharp waves.
+Stimulation of the patient produces a very brief alerting of the periodic complexes.
+HR:  __ BPM.
+IMPRESSION: Abnormal EEG due to:
+Nearly continuous periodic complexes with some variability, but with no frequency evolution.
+Generalized background slowing.
+CLINICAL CORRELATION: this tracing supports an irritative, potentially epileptogenic process in the right hemisphere.  While there is no clear frequency evolution, the patient is not alert or interactive and consideration for this as a subtle form of status epilepticus or a late ictal pattern would be appropriate.
+
+
+
+

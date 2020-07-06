@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 16-month-old female with two febrile seizures characterized by right arm shaking, upper lip trembling, child turning purple and with staring. The child was found to be hyperventilating with right hand twitching, treated with Ativan. No epilepsy risk factors are known.
+MEDICATIONS:
+INTRODUCTION: Digital video EEG is performed at the bedside in the unit using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and very active, poorly cooperative.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In the initial portions of the record, the child is probably drowsy, but motorically active.  The EEG demonstrates frontally predominant delta activity, which is on most occasions symmetric in the frontal regions, but is asymmetric with regard to the temporal region.  The activity clearly is maximum in the left temporal region compared to the right. In addition, there is a suspicious focus with a left mid-temporal phase reversal in what is otherwise a high amplitude record. As the patient becomes drowsier, again, the focal features are identified with higher amplitude, slower delta from the left hemisphere and in drowsiness this more clearly involves the frontocentral regions on the left.  As the child reaches stage I sleep with vertex waves, the asymmetries in the record are less prominent.  In stage II sleep, there are symmetric vertex waves, K complexes and spindles, but there are some brief portions of the record with more rhythmic, lower amplitude theta from the left temporal region.
+HR:  140 BPM.
+IMPRESSION: Abnormal EEG due to:
+Asymmetric delta activity identified in wakefulness and in the transition into drowsiness.
+Rare, suspicious left temporal sharp waves.
+CLINICAL CORRELATION: This study may be correlated with imaging to search for a partial or focal mechanism for seizures.
+
+
+
+

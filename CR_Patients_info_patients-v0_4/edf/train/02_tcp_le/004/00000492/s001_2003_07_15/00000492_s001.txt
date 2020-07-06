@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 54-year-old male who fell down the stairs and a history of epilepsy. ? Anoxia?
+MEDICATIONS: Depakote and Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record in a patient who is intubated.
+DESCRIPTION OF THE RECORD: The background is diffusely slow with frontally predominant poly spike and slow waves with a mixture of delta and theta.  There are high amplitude 5 Hz spike and slow wave activity in the frontal regions. The epileptiform activity is complex appearing as trains.  It is even picked up in the muscle monitor.  There is also some degree of variability in terms of maximum; some of the discharges are maximum in the left posterior region or the right hemisphere.  There is one focal epileptiform activity  at 1.5 Hz left occipital.  The epileptiform activity can be frontally predominant, synchronous, left hemispheric, left occipital, or right posterior with trains of epileptiform activity without clinical correlate.  Delta is seen in the right posterior region greater than the left.  At the end of the record, the EEG is more suppressed after the patient receives Ativan.
+HR:  108 BPM.
+IMPRESSION: Abnormal EEG due to:
+Severe background slowing with more delta on the left.
+Spike and slow waves.
+Bursts of epileptiform activity lasting about 20 seconds.
+CLINICAL CORRELATION: No clinical seizures were recorded.  This EEG supports a severe disorder of cerebral dysfunction or prominent epileptiform activity, which is both generalized and focal.  If there are concerns about subtle seizures, a repeat study would be recommended.
+
+
+
+

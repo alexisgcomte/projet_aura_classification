@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 43-year-old woman with complex partial seizures now seizure-free for many years.
+MEDICATIONS:
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a posterior dominant rhythm of 11 Hz, 30 to 50 V with excess background theta activity.  There is occasional, shifting, irregular theta and/or delta particularly in the temporal regions as well as a modest amount of generalized background theta.  Early in drowsiness, there is a prominent increase in background theta, as well as slowing of the posterior dominant rhythm.   Vertex waves are seen in stage I sleep.  Deeper stages of sleep are not sustained.  Hyperventilation produces an increase in the background theta.  Photic stimulation elicits brief driving at intermediate flash frequencies.
+HR:  96 BPM.
+IMPRESSION: Abnormal EEG due to:
+Excess background theta.
+Irregular theta and/or delta from the temporal regions.
+CLINICAL CORRELATION: The generalized theta may be due to the patient’s medications.  In this individual with lifelong complex or simple partial seizures, correlation with imaging may be helpful regarding the irregular temporal theta and/or delta.
+
+
+
+

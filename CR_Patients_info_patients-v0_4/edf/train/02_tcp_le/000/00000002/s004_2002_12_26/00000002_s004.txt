@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 55-year-old, right-handed woman with CNS vasculitis with focal complex partial status epilepticus.
+MEDICATIONS: Topiramate, Solumedrol, Valproate, insulin, others.
+INTRODUCTION: Ongoing continuous video EEG monitoring for a patient in the ICU with vasculitis and recurrent seizures. In this portion of the record, the patient is poorly responsive, but has brain stem signs.
+DESCRIPTION OF THE RECORD: The background EEG starts with a low voltage pattern.  In the initial hours of the record, which is at 1500 hours, the record is continuous but shows some intermittent evidence of attenuation.  There are brief bursts of fast activity which are maximum in the right hemisphere but are picked up in the bitemporal regions.  These last 10 to 12 seconds in duration and are seen at least once per minute.  The activity begins to slow and is waning by 2300 hours.  Over the course of the night, it continues to abate and there are long periods without this buzz of activity, which is beginning to shorten in duration to 8 seconds.  By 6:17 AM with the nurse at the bedside, stimulation of the patient clearly produces a change in the EEG.  An additional brief buzz is identified at 6:21 AM.
+HR:  90 BPM.
+IMPRESSION FOR THIS 24-HOUR SECTION: This section of the record shows a different ictal pattern in comparison to previous sections of the record.  Although there is no known change in medication for the patient at this time, whatever medications were administered seemed to have had an effect around 11:00 PM in terms of reduced seizures.
+
+
+
+
+

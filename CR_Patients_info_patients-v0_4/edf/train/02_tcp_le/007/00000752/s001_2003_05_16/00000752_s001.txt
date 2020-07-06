@@ -1,0 +1,19 @@
+CLINICAL HISTORY: This is a 59-year-old woman with hypertension, diabetes, afib, status-post cardiac arrest the previous day.
+
+MEDICATIONS: Lisinopril, Amiodarone, Digoxin, others.
+
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and comatose without any motor signs whatsoever. Stimulation of the patient is performed.
+
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and does demonstrate variability.  The primary frequencies in the background are a mixture of theta and delta and there are some portions of the record that are richer than others in theta and.   There are frequent periodic epileptiform discharges identified in the frontotemporal regions bilaterally.  These are associated with theta frequency activity.  There is a somewhat poorly defined but ictal pattern identified in the record.  The pattern is one in which there is a theta frequency pattern, which makes the transition to a slightly discontinuous pattern and then a pattern of periodic epileptiform activity.  The actual on and off set of the activity is somewhat difficult to define and the seizure duration is one to two minutes. There are no clinical signs or symptoms associated with this.  The paroxysmal nature of the activity with waxing and waning is best seen at slow paper speeds.  There are no clinical features identified during these discharges and there seems to be no change in the patient’s autonomic system. The patient is stimulated on one occasion during these discharges and there is no change in the background EEG.  Despite the difficulty with this pattern, there are at seven of these discharges in the recording, which is a 20-minute recording.
+
+HR:  84 BPM.
+
+IMPRESSION: Abnormal EEG due to:
+1. Post-anoxic patterns with discontinuity
+2. PLEDs,
+3. Seizures which evolve out of the PLEDs.
+
+CLINICAL CORRELATION: These seizures meet criteria for status epilepticus  Careful review of the history and exam is important. If these this pattern is post-anoxic in nature, prognosis is poor. These findings were discussed with the clinical team
+
+
+

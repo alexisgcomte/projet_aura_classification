@@ -1,0 +1,11 @@
+CLINICAL HISTORY:	Seven-year-old male with MR, tonic-clonic seizures characterized by eyes rolling, back in the head, stiffening, lasting 3 to 5 seconds, seizure free 2005. This is "a follow up EEG with no previous EEGs for comparison."
+MEDICATIONS: 	Concerta
+INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD: 	In wakefulness, there is a 6-7Hz
+60mV posterior dominant rhythm of amplitudes up to 50 microvolts. Features of drowsiness including anterior spread of the alpha rhythm and a little bit of hypersynchronous sign. Hyperventilation does not activate the record. Photic stimulation does not elicit driving. Heart rate 96 beats per minute.
+IMPRESSION: 	This EEG is mildly abnormal for a child of this age due to an alpha rhythm that is just below the range of normal.
+CLINICAL CORRELATION: 	Previous EEGs were not available for comparison today but no epileptiform features were seen.
+
+
+
+

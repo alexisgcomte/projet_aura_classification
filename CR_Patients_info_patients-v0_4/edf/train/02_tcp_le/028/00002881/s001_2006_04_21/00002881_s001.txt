@@ -1,0 +1,16 @@
+CLINICAL HISTORY: This is a 42-year-old woman with severe, chronic static encephalopathy with frequent seizures. Multiple different seizure types are noted with myoclonus and staring.
+MEDICATIONS: Depakote and Lamictal.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is slow with at best a theta frequency pattern.  There are frontally predominant generalized slow spike and wave discharges, as well as some rhythmic activity from the left frontal region.  The majority of the epileptiform discharges are present bilaterally, occasionally poly spike and wave, but occasionally seen independently from one hemisphere or the other.  There is variability in the record with some portions of the record showing more frontal delta and/or more spikes.  There are brief portions of the record with rhythmic alpha and theta frequency activity without clear clinical correlate.  There are also bursts of frontal delta, some of which have a poly spike or spike and wave complex, but some which occur without the poly spike activity.
+Photic stimulation does not activate the record.
+HR:  75 BPM.
+IMPRESSION: Abnormal EEG due to:
+Generalized slowing.
+Slow spike and wave and poly spike and wave activity.
+Bursts of frontal delta, sometimes left greater than right.
+Rare multiple focal spikes.
+CLINICAL CORRELATION: These features are compatible with a Lennox-Gastaut-type syndrome. There is a bit more focal pathology on the left compared to the right.
+
+
+
+

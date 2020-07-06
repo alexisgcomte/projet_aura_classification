@@ -1,0 +1,18 @@
+CLINICAL HISTORY: The patient is a 54-year-old male in the cardiology service status post code yesterday but the patient awoke and was doing well, became poorly responsive today. CT scan unremarkable. Possible hypoxic injury. History of renal failure, anemia and hepatitis-B.
+
+MEDICATIONS: Thiamine, folate, vancomycin, others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the intensive care unit using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, eyes open and somewhat responsive. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. There is a theta pattern. Superimposed on the theta pattern is a high amplitude bilateral periodic complex. The complex is clearly present bilaterally particularly in the frontotemporal regions but it is more prominent on the left. The epileptiform activity in this record is complex and not all of the discharges are identical. Some are a little more remarkable at the midline in the frontocentral regions and others a bit more on the left and some more clearly have a posterior morphology. The epileptiform activity is superimposed over what is primarily a theta frequency pattern. With the switch to high sensitivity of 10 to 15, the activity is more clearly posterior temporally predominant but generally speaking it is bilateral and generalized. There is a preponderance of the generalized discharges again more posteriorly predominant over the focal discharges. There are some sections of the record where the activity seems to build up and in doing so, there is also an increase in rhythmic 3 Hz to 5 Hz activity followed by brief attenuations. Those discharges are associated with eye blinking and are compatible with an ictal or seizure pattern. In addition to the observation of eye blinking, there is a little bit of movement in the right hand.
+
+Stimulation of the patient produces a gagging response but no real alerting. Ativan is administered and immediately attenuates the epileptiform activity. After the Ativan is given, there is more of a rhythmic 5Hz to 7Hz pattern with a subtle bit of discontinuity and a very subtle appearance of a sharp wave. Phenytoin is administered at the end of the EEG.
+
+Heart rate 114 beats per minute.
+IMPRESSION: Abnormal EEG due to:
+1. Electrographic status epilepticus, which resolved with treatment with Ativan.
+2. Background slowing.
+3. Multifocal sharp waves.
+
+CLINICAL CORRELATION: These findings should be correlated with imaging. Long term EEG monitoring was initiated to evaluate and treat any additional seizures.
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  61 year-old male status post left occipital stroke, status post cardiac arrest 12/22 with 30 minute arrest and complicated hospital stay.
+MEDICATIONS:  Keppra, Zosyn, Hydralazine, Heparin, Zosyn, Insulin, Solu Medrol, Nexium, Metoprolol, Rifaximin
+INTRODUCTION:   Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and responds to tactile stimuli by moving about.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The most prominent features are a posteriorly predominant periodic complex which appears maximum in the right rather than the left.  The periodic sharp activity in this record has variable fields and variable maximum, including 02, T6 and even F8 phase reversal. Other maxima for these periodic complexes include the left frontal region.  Stimulation
+of the patient produces an arousal, as described above.  There are independent,
+periodic sharp waves observed from either hemisphere, some of which are asynchronous and some of which are seen exclusively unilateral on the left or the right, although the right occipital seems to be the most prominent discharge in this record. The background includes smaller amounts of irregular theta and delta as well as intermittently discontinuous pattern.  Periods of suppression which are one second in duration typically occur after an occipital high amplitude periodic sharp wave.  Agitation including movement of the patient's head is not associated with ictal change.  On one occasion there is a brief build up of the right occipital sharp waves.
+HR: 	72  bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+1. 	Periodic complexes from multiple locations in both hemispheres.
+2. 	A brief buildup of right occipital sharp waves.
+3. 	Markedly abnormal background.
+4. 	Intermittently  discontinuous pattern.
+CLINICAL CORRELATION:  This EEG supports a very irritative process.   In addition, the discontinuity  and the markedly abnormal background  are worrisome features following cardiac arrest.  Additional evaluation for some clinical seizures as well as evaluation of the severity of this patient's anoxic encephalopathy is warranted.
+
+
+

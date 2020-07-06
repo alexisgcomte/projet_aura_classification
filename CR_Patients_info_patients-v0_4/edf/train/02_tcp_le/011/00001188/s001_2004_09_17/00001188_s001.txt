@@ -1,0 +1,18 @@
+CLINICAL HISTORY: This is a 72-year-old woman with left IVH, lumbar drain, seizure today characterized by foaming of the mouth, eyes rolling back, head rocking, irregular  respirations, and ventricular tachycardia requiring intubation and Ativan.
+
+MEDICATIONS: Zoloft, Ativan, and others.
+
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is a relatively immediate postictal study.
+
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, relatively featureless with slow, low voltage delta, smaller amounts of theta frequency activity, muscle, and a fair amount of beta. Stimulation of the patient produces a small amount of theta frequency activity.  Towards the close of the record, there is a small increase in background theta.  At the very close of the record, rare, high amplitude right frontal sharp waves are seen.  At the close of the record, occasional high amplitude right frontal sharp waves, as well as bursts of sharply contoured delta are identified.
+
+HR:  __ BPM. CHECK PRELIM SHEET
+
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with severe generalized slowing.
+2. High amplitude right frontal sharp waves and associated focal slowing, which crescendo at the end of the EEG.
+
+CLINICAL CORRELATION: This tracing supports a severe, diffuse disturbance of cerebral function affecting both gray and white matter.  The beta may be due to medications.  The presence of the right frontal sharp waves really just at the close of the record with at times an almost periodic nature suggests an acute, postictal pattern and an additional EEG recording may be useful in order to make sure that additional seizures do not recur.
+
+
+

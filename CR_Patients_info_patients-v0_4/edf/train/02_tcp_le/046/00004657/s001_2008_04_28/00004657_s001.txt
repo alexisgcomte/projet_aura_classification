@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   46 year-old right-handed male with childhood epilepsy, last seizure January 31, 2008. Generalized tonic-clonic seizures with loss of consciousness lasting 1-2 minutes. Post-ictal confusion. Seizures occur 4-6 times per year.
+MEDICATIONS:   Carbamazepine and Depakote.
+INTRODUCTION:   Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  Hyperventilation  and photic stimulation are performed.  This is an awake and sleep record. In wakefulness, there is a 10 Hertz, 50 microvolt alpha rhythm with a small amount of low-voltage, frontocentral beta activity. Hyperventilation  is performed early in the record, producing bursts of frontal slowing as well as an asymmetric HB response with a bit of focal slowing from the left. In addition, with hyperventilation, there seemed to be some underlying sharp waves as well as WICA activity. These are at T6 and T4. Following hyperventilation, in relaxed wakefulness there appears to be intermittent, shifting slowing in the temporal regions, right posterior temple more so than the left. Unfortunately,  there is also some head rocking activity in this area. Brief transitions to deeper stages with sleep include paroxysmal slowing. Photic stimulation does not elicit a driving response, but there is again suggestion of a right mid-temple  sharp wave in photic stimulation.
+HR: 	72 bpm
+IMPRESSION:  Abnormal EEG due to:
+1. 	Bursts of shifting slowing, primarily from the temporal regions.
+2.	Suspicious underlying right temple sharp waves.
+CLINICAL CORRELATION:   A repeat, more prolonged tracing in the lab capturing sleep would be helpful to more definitively characterize epileptiform activity.
+
+
+
+

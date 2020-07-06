@@ -1,0 +1,46 @@
+History:	UNKNOWN FEMALE CC OF SEVERE HEADACHE, CONFUSED.  CT. LARGE
+INTRACEREBRAL HEMORRHAGE.+ COCAINE
+Medications:	KEPPRA, INSULIN, METOPROLOL, MIDAZOLAM, DILANTIN
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 26 hours from 08/12/2015 to 08/13/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+There is right-to-left asymmetry with slower waveforms over the left.  The background over the right
+consists of polymorphic poorly modulated 7-8 Hz theta activity posteriorly, excess polymorphic theta
+and delta activity and poor AP gradient.  The background over the left lacks PDR and AP gradient.
+The background over the left consists of a mixture of polymorphic theta and delta activity with
+delta activity most pronounced posteriorly.  Additionally, frequent, left posterior quadrant spikes and
+polyspikes are captured.  At times they become rhythmic, with a repetition rate of ~ 1 Hz (example,
+~10:23 am).  Maximal scalp negativity occurs over T5, P3 and O1 leads.  Sleep spindles and K-
+complexes are captured.
+Multiple electrographic seizure are recorded beginning with rhythmic in the O1 region. They
+commence with rhythmic PLEDs plus at 1Hz and evolving into 3Hz activity as well as an increase in
+amplitude.  The discharges remain in the left occipital region with minimal spread. Seizure last
+from 1 to 4 minutes.  There was no clinical correlate associated to this EEG activity documented on
+video.  The seizures stopped after about 10 hours of recording. PLEDs could still be seen in the
+region but only intermittently with no evolution. However this discharges appear to have a larger
+During the last 10 hours only intermittent sharp waves in the posterior quadrant were seen.
+Hyperventilation and photic stimulation are not performed.  HR was 108
+Summary of Findings:
+Status epilepticus, electrographic, left posterior quadrant
+PLEDs (periodic lateralized epileptiform discharges), frequent, left posterior quadrant,  at one
+Focal slowing, polymorphic, continuous, left posterior quadrant
+Diffuse slowing, polymorphic, continuous
+Interpretation:
+This is a very abnormal awake and asleep hour portable EEG due to (1) electrographic status anterior field over the left hemisphere.
+epilepticus arising from the left occipital region and PLEDs (2) focal continuous moderate left
+hemispheric slowing that is especially pronounced over the posterior quadrant and (3) mild-to-
+moderate diffuse slowing;  The seizures and focal slowing are supportive of an acute epileptogenic
+structural lesion in that region. Diffuse slowing is indicative of mild to moderate diffuse cerebral
+
+
+
+

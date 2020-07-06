@@ -1,0 +1,23 @@
+History:		84 year old woman who presents with change in mental status, concerning for subclinical seizures.
+Medications:	Keppra and Dilantin, Ativan Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 17 hours from 05/02/2014 till 05/03/2014.  Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient. The background consists of a mixture of polymorphic theta and delta activity. Delta activity is more pronounced over the left. Ativan administration results in background attenuation, discontinuity and increase in the degree of delta activity. Diffuse, frontally maximal sharp waves with triphasic morphology are present. These waveforms demonstrate an anterior to posterior phase lag. No normal sleep architecture is present.
+Continuous left frontal complex spikes are present. Frequent focal seizures are captured. Early in the recording seizures are frontocentral. Later another seizure focus appears with seizures also emanating from left frontal - anterior temporal region. Even though patient is not well visualized on the video, twitch artifact is seen on EEG and EKG during most of the seizures.
+Seizures last 30 sec- 3 minutes. Last recorded seizure is at - 4:50 AM. This is associated with Ativan administration.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate early on and severe at the end Focal slowing, polymorphic, left hemispheric
+Seizure, frequent, left frontal, frontocentral and frontotemporal : 2 different foci Triphasic waves, intermittent
+Spikes, continuous, left frontal
+Interpretation:
+This is an ABNORMAL 17 hour continuous video EEG due to (1) diffuse slowing; (2) focal left hemispheric slowing; and (3) continuous left frontal epileptiform discharges and frequent left frontal
+region seizures. There is focal structural epileptogenic focus over the left anterior region. Diffuse slowing
+is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific, but in this case at least partially is related to the medication effect.  Triphasic waves are a nonspecific EEG finding that can be seen in hepatic encephalopathy, uremia and anoxia.
+
+
+

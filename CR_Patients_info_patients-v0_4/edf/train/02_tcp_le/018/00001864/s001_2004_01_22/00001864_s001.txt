@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 59-year-old woman with a history of a brain abscess and focal motor seizures today involving the left side of the body.
+MEDICATIONS: Decadron, Albuterol, and insulin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9.5 Hz, 30 to 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  The major abnormality in this record is a breach rhythm identified in the right frontocentral region with essentially continuous rhythmic 5 to 6 Hz theta activity.  Intermittently, as the patient becomes drowsy, there is some slowing of the theta activity and there is an occasional sharp wave identified in the right frontocentral region.  In deeper stages of sleep, there is additional arrhythmic delta activity in the right frontocentral region.
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+Focal slowing in the right frontocentral region in the setting of a breach rhythm.
+Occasional sharp waves at T4 greater than F4.
+CLINICAL CORRELATION: This tracing supports a structural abnormality affecting both gray and white matter.  The patient’s epileptiform activity is in the region of the previous abscess and congruent with her seizures.
+
+
+
+

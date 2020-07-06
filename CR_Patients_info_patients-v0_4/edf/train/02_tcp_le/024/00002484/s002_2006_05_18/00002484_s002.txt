@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 26-year-old woman with lupus cerebritis with multifocal CNS
+lesions and seizures. Recent hospitalization for Steven-Johnson's rash. MEDICATIONS: Keppra, Prednisone.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is extremely uncomfortable and complains that her scalp hurts and that her chest aches during the EEG.
+DESCRIPTION  OF  THE  RECORD:  The  background EEG  is  abnormal.    The  primary frequency in the background includes rhythmic theta activity. There is excess theta and there is also arrhythmic delta activity seen from either hemisphere.  On occasion, there is a 5 to 6 Hz posterior dominant rhythm, but this is disrupted in the right occipital region in comparison to the left. In addition, there is a bit more arrhythmic delta activity on the right compared to the left.   In this EEG with the patient awake at 10:06, after the patient complains of chest pain, while she is awake and interactive with the nurse, there is a train of right parietal sharp waves at 10:06:45. This isolated discharge is seen in a somewhat drowsy individual with purposeful movements. This is a very focal discharge at P4.   This continues with spread to T6-T4 at 10:07:28.  The technologist interacts with the patient and the patient is not speaking but nods and rubs her chest. The baseline heart rate in this EKG was 96 BPM.    The heart rate does not increase with the episode of chest pain, which precedes this ictal discharge.  The patient remains responsive throughout. The discharge gradually wanes and is over at 10:09:03 with essentially a 2 minute 20 second right parietooccipital electrographic discharge without definitive clinical correlate.
+HR.: 96BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Ictal discharge from the right parietooccipital region without clear clinical correlate.
+2.   Generalized background slowing.
+3.   Intrahemispheric asymmetry with more arrhythmic delta from the right than the left.
+CLINICAL  CORRELATION: This EEG is diagnostic of a localization-related mechanism for epilepsy. Two alternative ways of evaluating this patient during her event might be to check her vision and sensation, although of note, she was complaining of left-sided chest pain  preceding this, and that certainly would complicate the testing.
+
+
+
+

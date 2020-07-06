@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   65-year-old right-handed gentleman with new onset seizures characterized by transient blurry vision, seeing bright spots bilaterally for 15 seconds, followed by external weakness and then left arm paresthesias, but no tonic clonic activity.
+MEDICATIONS:   Hydralazine,  Aspirin, Ativan, Famotidine
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:   In wakefulness, background EEG is well organized with 10.5 hertz, 30-50 microvolt posterior dominant rhythm and a generous amount of low voltage, frontocentral beta. Features of drowsiness include slow-rolling eye movements.
+HR: 	74-96 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORR ELATION:  No focal nor epileptiform features were seen. Normal EEG does not exclude a diagnosis of epilepsy and if seizures are an important consideration, repeat study is advised.
+
+
+
+

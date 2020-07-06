@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 68-year-old woman with seizures characterized by.  blurry vision along with light-headedness.
+MEDICATIONS: Depakote- see extensive cardiac meds list.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10 Hz, 25 V posterior dominant rhythm and a small amount of frontocentral beta activity.  Occasionally, left temporal  sharp waves are  seen.  During hyperventilation, the patient had a seizure from the left temporal lobe lasting for about two minutes but without physical correlation. Two minutes during and after hyperventilation, the patient had ___ electric seizure activity, which lasted for about 40 seconds without clinical correlation.  This was nearly continuous from 2 Hz to 6 Hz sharp activity with slow activity or sharply contoured slow activity.  Sleep was not achieved during this record.  During photic stimulation, driving phenomenon was observed. Shortly after photic stimulation, the patient had a third electrical epileptiform discharge with left temporal sharp activity with focal slowing or sharply contoured slow activity.
+HR:  66 BPM.
+IMPRESSION: Abnormal EEG due to:
+Left temporal sharp
+Multiple left temporal lobe seizures activity and sharp and focal slowing provoked by hyperventilation, post-hyperventilation, and photic stimulation.
+CLINICAL CORRELATION:
+Diagnostic of a partial mechanism for epilepsy.  Compared to previous studies, there are fewer seizures and less frequent sharp waves.
+
+
+
+

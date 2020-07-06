@@ -1,0 +1,18 @@
+CLINICAL HISTORY: This is a 22-year-old male who presents with mental retardation, hydrocephalus, shunt revision, and previous history of seizure disorder. He also has schizencephaly.  Seizures occurred because he was off of medicine and became refractory.  He was given Ativan 20 mg yesterday and is now unresponsive.
+
+MEDICATIONS: Valproic acid and antibiotics.
+
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed due to the patient’s medical condition. The patient is intubated and unresponsive during the recording.
+
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with voltage delta, with generalized slowing and frequent multi-focal sharp waves, at T2, T3 and T5.  Also, a breach rhythm at T2 and T5 was identified.  On the video monitoring no visible seizure activity was seen.
+
+HR:  114 BPM.
+
+IMPRESSION: Abnormal EEG due to:
+1. Low voltage recording.
+2. Generalized slowing.
+3. Frequent multifocal sharp waves.
+
+CLINICAL CORRELATION: The patient is not in status epilepticus, but the recording suggests severe cerebral dysfunction possibly due to a toxic or metabolic disturbance or due to medication as this patient received Ativan 20 mg yesterday.  The multifocal sharp waves and the breach rhythm may result from the previous craniotomy or neurosurgical intervention. This is a similar EEG result when compared to a previous EEG done on May 1, 2003.
+
+

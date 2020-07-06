@@ -1,0 +1,17 @@
+CLINICAL HISTORY: This is a 48-year-old woman with refractory epilepsy.  Long-term EEG monitoring for status epilepticus.
+MEDICATIONS: Ativan, Phenobarbital.
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. The patient remains intubated, but she has spontaneous eye opening.  The EKG lead does not work.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage, but continuous pattern with generous beta activity and smaller amounts of theta.  There is no well-defined alpha rhythm.
+As the recording continues, the background is increasingly rich in theta frequency activity.  As the patient becomes more alert, there is a bit more rhythmic slowing from the right compared to the left.  As the recording continues, the patient is increasingly awake in the overnight record, and intermittent asymmetries are seen in the background.
+There are no electrographic seizures identified.
+SINGLE SEIZURE TIME 6:00 AM: The patient is on the video.  The seizure begins with the patient seemingly asleep at the bedside with the nurse.  She is lying on her right with her head turned to the right.  The seizure begins with rhythmic theta frequency activity of approximately 6 Hz seen at 6:00:55.  The activity is somewhat difficult to localize.  It is clearly present throughout both hemispheres, most intense in the right centrotemporal region.  It seems to undergo frequency evolution, ending at 6:01:36 without postictal changes.   There is another burst that follows this, again occurring without clinical correlate at 6:05:36 and the patient is awake afterwards.
+HR110 BPM.
+IMPRESSION/CLINICAL CORRELATION: This long-term EEG monitoring was remarkable for:
+Refractory status epilepticus with multiple seizures occurring even out of a severely suppressed background.
+Generalized background slowing.
+Single seizure on the last day of EEG monitoring when the patient is out of status epilepticus, compatible with refractory epilepsy.
+This EEG supports a severe underlying epileptic disorder with the reemergence of what seems to be subclinical seizures after the cessation of status epilepticus.
+
+
+
+

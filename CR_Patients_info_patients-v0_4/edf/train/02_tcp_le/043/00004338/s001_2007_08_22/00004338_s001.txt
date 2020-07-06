@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 	18-year-old with childhood seizures characterized by absence seizures, positive family history of epilepsy. Patient was taken off Depakote a year ago because she was seizure free and had an event over the weekend with loss of awareness, falling. She recalls being confused for one-half hour to an hour afterwards.
+MEDICATIONS: 	Depakote
+INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: 	In wakefulness, there is a 9 Hz posterior dominant rhythm, but the overall background is disorganized and irregular. In the awake background, there is some subtle asymmetry with a bit more arrhythmic delta activity observed from the right in comparison to the left. There is also an underlying sharp wave focus seen subtly in the background in the right posterior temporal/parietal region.
+Features of drowsiness including increase in background slowing. There is some rhythmic slowing observed in drowsiness. In addition, some of the focality is accentuated in drowsiness. Photic stimulation elicits bursts of rhythmic, high amplitude frontal delta as well as some occipitally predominant delta. Photic stimulation does elicit a bilateral driving response.
+HR: 84 bpm
+IMPRESSION: 	Abnormal EEG due to:
+1. Background disorganization and an irregular pattern.
+2. Subtle, underlying arrhythmic slowing from the right posterior quadrant with likely associated underlying sharp waves.
+CLINICAL CORRELATION: 	The background slowing and disorganization is nonspecific and supports a diffuse
+disturbance of cerebral function. The epileptiform features were subtle. They may be better identified by additional sleep recording.
+
+
+
+

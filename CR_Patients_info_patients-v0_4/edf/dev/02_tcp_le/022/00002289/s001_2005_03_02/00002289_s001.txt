@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 31-year-old woman with a history of childhood epilepsy who had a recent exacerbation and increased seizure frequency. Last seizure was a week ago.
+MEDICATIONS: Lamictal, Keppra, and Neurontin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and briefly asleep record.
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG is fairly well organized with a 10.5 Hz, 50 to 60 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity. Occasionally, initial subtle left temporal slowing is seen, which is evident more in  hyperventilation.   Post-hyperventilation, the left temporal slowing demonstrates more rhythmically.  The background seems to be generally "spiky" with a spiky appearance of vertex waves. During the course of the record, especially in drowsiness, there are occasional sharply contoured delta and a few sharp waves seen from the left temporal region, maximum at T5.  Stage II  sleep is achieved briefly and characterized by vertex waves, spindles, and POSTS. Photic stimulation elicits a symmetric driving response.
+HR.:  60 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Left temporal focal slowing.
+2.   Left temporal sharp waves and sharply contoured delta.
+CLINICAL CORRELATION:  This tracing supports a focal or localization-related mechanism for the patient's epilepsy.  Compared to previous records, there appears to be fewer epileptic features, however, this record's poor technical quality has several artifacts.
+
+
+
+

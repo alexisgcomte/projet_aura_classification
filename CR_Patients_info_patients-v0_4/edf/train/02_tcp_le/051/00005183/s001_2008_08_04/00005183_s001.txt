@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 	62 year-old woman with epilepsy for many years.  Last seizure May 2007.  Seizures occur without loss of consciousness, but are followed by drowsiness.
+MEDICATIONS:  Topamax, Neurontin, Carbamazepine.
+INTRODUCTION:   Digital video EEG is performed in lab using standard  10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:   In wakefulness, there is a 9 Hz, 30 microvolts, posterior dominant rhythm. There is a small degree of background disorganization and scant background theta in wakefulness.  Photic stimulation showed subtle driving response at intermediate flash frequencies.
+HR:	60 bpm
+IMPRESSION:  Very mildly abnormal EEG due to:
+1.     Mild excess theta and scant background disorganization.
+CLINICAL CORRELATION: 	These findings are nonspecific and can be due to this patient's medications.
+
+
+
+

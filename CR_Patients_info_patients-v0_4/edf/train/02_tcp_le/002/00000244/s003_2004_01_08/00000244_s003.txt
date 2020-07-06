@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 27-year-old female, HIV positive, with a history of seizures after clipping of an aneurysm.  Patient now reports that she has been seizure-free.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is noted to have a prominent right frontotemporal craniotomy deficit. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is reasonably well organized. There is a 10 Hz posterior dominant rhythm identified bilaterally.  There is a breach rhythm with higher amplitude activity from the right temporal and centrotemporal regions.  There is focal slowing in this same region with both a rhythmic delta activity and an accentuation of beta frequency activity in the right centrotemporal region with a generous field of spread.  Hyperventilation is performed early on in the record and accentuates the focal slowing.  Following hyperventilation, as the patient becomes drowsy, there are vertex waves.  The right centrotemporal focal slowing is also accentuated in sleep.  Features of stage II sleep include vertex waves, K complexes, and spindles.  There is a single right anterior temporal sharp wave in sleep.
+Photic stimulation elicits bilateral driving.
+HR:  72 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.	Focal slowing from the right centrotemporal region with a generous field of spread.
+CLINICAL CORRELATION: Only a single sharp wave was seen in this record.  Given the presence of a breach rhythm, this must be considered artifactual, but if there are ongoing concerns about frequent seizures, an additional EEG recording capturing more extended sleep may be helpful in identifying additional epileptiform activity.
+
+
+
+

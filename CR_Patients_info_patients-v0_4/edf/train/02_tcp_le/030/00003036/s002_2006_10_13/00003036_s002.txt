@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 38-year-old woman with epilepsy beginning May 2006 with a single seizure characterized by right-sided shaking of the body with loss of consciousness.
+MEDICATIONS: Carbamazepine, Lisinopril.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm.  There is a small amount of background disorganization particularly in the temporal regions, and the activity from the left temporal region is slightly higher than the right and there is a bit of subtle, underlying irregular slowing.  There is also bilateral temporal wicket identified.   Hyperventilation is performed early on in the record with good effort, producing an increase in the amplitude of the background.  As the patient becomes drowsy, there is a fair amount of alpha frequency remaining in the record including wicket activity, but there is a bit of subtle left temporal slowing.  Features of stage I sleep include vertex waves.   The sleep record continues to demonstrate a bit of asymmetry with higher amplitude spindles, again from the left, and a bit of subtle focal slowing from the left in stage II sleep.   Photic stimulation does not elicit a driving response.  The patient is drifting off into stage II sleep in photic stimulation.
+HR:  72 BPM.
+IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+Mild background disorganization.
+Subtle focal slowing from the left hemisphere with accentuation of the amplitude on the left and accentuation of the spindle activity.
+CLINICAL CORRELATION: These findings may be correlated with imaging.  This is this patient’s second EEG.  A previous study 5/22/06 did not identify epileptiform activity.  If further information is needed, a more prolonged record capturing sleep may be helpful to search for epileptiform activity.
+
+
+
+

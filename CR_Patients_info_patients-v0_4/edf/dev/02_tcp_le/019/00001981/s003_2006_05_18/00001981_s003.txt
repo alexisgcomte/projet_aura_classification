@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 57-year-old male with epilepsy, last seizure one week ago with confusion.
+MEDICATIONS: Tegretol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 40 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Central MU rhythm is identified, but testing is not performed to confirm this.  Hyperventilation is performed early on in the record, producing a small amount of theta.   This is followed by sleep with vertex waves, K complexes, and spindles.  In the transition to sleep, there is some very subtle asymmetries in the anteriotemporal region on the left.  In stage II sleep, there are rare, left temporal subtle sharp waves.  In addition, in one section of the stage II sleep record, there is somewhat more sustained mixed theta and delta lasting approximately seven seconds.  Photic stimulation elicits bilateral driving.
+HR:  72 BPM.
+IMPRESSION: Abnormal EEG due to:
+Very subtle focal slowing from the left anteriotemporal region.
+Rare, left anteriotemporal sharp waves in sleep.
+CLINICAL CORRELATION: These findings are similar to previous studies, although in previous studies the left anteriotemporal sharp waves have been more remarkable.
+
+
+
+

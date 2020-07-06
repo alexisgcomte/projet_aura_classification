@@ -1,0 +1,25 @@
+CLINICAL HISTORY: This is a 32-year-old male with chronic static encephalopathy.
+MEDICATIONS: Phenobarbital, Depakote.
+INTRODUCTION: Continuous video EEG monitoring was performed in room 447 because of intermittent seizures.  Seizures are unusual in their characteristics and the question was whether they were clonus or actual ictal events.  During the first time sample of 10/26-27/05, no clinical seizures were noted.
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG is remarkable for a low voltage, relatively featureless pattern.  The normal developmental miles stones of an awake adult are not identified, and the pattern is rich in beta with otherwise a somewhat featureless 3 to 4 Hz background.  Intermittently, as the patient moves about, there is an increase in background muscle.  There are portions of the record where he is resting quietly with a theta pattern and intermittent, asymptomatic increases in background beta.  At 17:43:26 there is a beta asymmetry with more beta from the left hemisphere than the right. There is a bifrontal spike and slow wave at 17:43:38.  At 17:43:46, there is some involuntary movements of the right leg, but they are brief and not clearly associated with this beta frequency activity.  There are occasional isolated spike and wave or sharp and slow wave complexes from the right frontocentral region.  At times, the intermittent bursts of beta are seen from either hemisphere.   In portions of the record, there is an asymmetry with a more sustained, featureless pattern from the right.
+HR:  110 BPM.
+Long-Term EEG Monitoring – October 27, 2005 to October 28, 2005
+INTRODUCTION: Continuous video EEG monitoring is performed in the Long-Term Monitoring Unit. The patient experienced a seizure at approximately 12 noon.
+DESCRIPTION OF EVENT: The patient is lying on his bed and moving about.  He demonstrates purposeful use of all extremities.  The first EEG change is at 12:05:56 and is characterized by the abrupt appearance of generalized fast beta frequency activity followed by a high amplitude mixture of alpha and beta frequency activity at 12:01:05.  The behavioral manifestations are tremulousness of the legs, not clonus, with almost a bicycling-like movement at 12:01:17.  The head turns slightly to the right and although it is a little difficult to determine, by the end of the seizure, the head is clearly turned to the right.  The left leg is off the side of the bed, and the right leg is on camera and tremulous.  Abrupt termination is seen at 12:01:39 with abrupt turn-off and then background slowing.  Despite the fast frequency of the activity, there is characteristic frequency evolution.
+Muscle and chew artifact is seen in the record that follows.
+The seizure was observed by more than one individual, but there doesn’t seem to be anyone in the room during the seizure.
+The interictal EEG shows generalized background slowing with primarily a theta frequency pattern.  There are occasional sharp waves identified in this relatively featureless background.  This can be seen at 12:10 and are sometimes bifrontal and sometimes maximum in the right hemisphere.
+HR: N/A
+Long-Term EEG Monitoring – October 28, 2005 – 6:00 AM to 11:08
+RANDOM WAKEFULNESS AND SLEEP: The background EEG remains diffusely slow with a rhythmic theta pattern.  There are occasional right hemispheric or right frontal spike and slow waves complexes.  These are never as prominent as seen in the hour following his seizure on the 27th.  There is also some rhythmic frontal 3 to 4 Hz activity identified bilaterally.
+HR: 96 BPM.
+IMPRESSION: Abnormal EEG to due:
+Markedly abnormal background with replacement of normal background with at times a low voltage, featureless pattern and at other times more of a theta frequency pattern.
+Right frontal sharp and slow wave complexes, as well as some which are maximum in the right central region.
+Occasional bifrontal sharp waves.
+A single seizure characterized by a burst of fast activity with clear-cut frequency evolution and somewhat unusual clinical behaviors.
+CLINICAL CORRELATION: This EEG is diagnostic of epilepsy.  The ictal pattern suggests more of a generalized pattern, but there are interictal focal spikes.  Correlation with imaging may be valuable.
+
+
+
+

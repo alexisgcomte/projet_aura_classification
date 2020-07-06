@@ -1,0 +1,30 @@
+CLINICAL HISTORY: 80 year old woman with epilepsy, confusion, and a seizure.
+
+
+MEDICATIONS: ASA, Aricept, Zocor, Vance, Acyclovir, Bactrim, Moxifloxacin, Pantoprazole, Insulin, Lovenox, Dexamethasone, Ceftriaxone, Keppra, Levothyroxine, Dopamine, Norepinephrine
+
+INTRODUCTION: Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. Seizure.and spike detection software are employed. The patient is increasingly responsive through the recording.
+
+DESCRIPTION OF THE RECORD: The initial sections of this EEG included a baseline with a complex partial seizure during the baseline.  That seizure occurred at 11:37.
+
+In the hours that followed, the background EEG makes a transition from a markedly low voltage, slow suppressed pattern with shifting asymmetries.  The activity is more suppressed on the right initially with more rhythmic theta on the left. There are some sharp waves, particularly left frontotemporal noted, but there may also be some at T2 which are  difficult to distinguish from EKG artifact. The record is intermittently discontinuous and when it is discontinuous, there are shifting asymmetries noted.
+
+By  18:37 the EKG starts to demonstrate an improvement, gradually becoming continuous with rhythmic theta, some delta, and generous beta.  Intermittent brief bursts of attenuation in  the background are noted.
+
+Over this 48-hour record, the pattern consistently improves and by 2200 hours, the patient is starting to have spontaneous eye opening. There is exit beta identified bilaterally. The background remains quite slow in both hemispheres with bursts of shifting s)owing by 2 a.m. on the morning of the 10th.
+
+By 4 a.m., however, there is eye opening bilaterally and the EEG in both hemispheres is starting to improve. It is relatively symmetric at 6 a.m.
+
+Over the ensuing day and a half of EEG recording, the right hemisphere seems to improve faster than the left with the appearance of alpha and beta frequency activity. The left hemisphere seems to be lacking some of the faster frequency activity and that is most prominent from 3 a.m. onwards with this more persistent asymmetry with the left hemisphere more suppressed than the right.   Stimulation of  the patient produces an alerting response from both hemispheres but that alerting response is more remarkable on the left.
+
+HR:	78 bpm with occasional PVCs.
+
+IMPRESSION/CLINICAL CORRELATION: This 48-hour video EEG monitoring is remarkable for:
+1.	A seizure, previously described.
+2. 	A postictal pattern with marked background slowing which improves over time.
+3. 	Two seizures appeared.
+a. 	The first of these occurred in  the baseline at 1036 a.m., a very complicated seizure  with rhythmic delta on the left followed by fast activity on the right.  This particular seizure ended on the right at approximately 10:37 as described but then seemed to wax and wane, and the seizure was really over in both hemispheres at 10:38:13. It was this initial seizure and the baseline was followed by marked background slowing.
+b. 	The second seizure that was recorded in the baseline and long-term monitor that followed occurred at 11 :36 and was much more complicated in terms of its localization. There was an asymmetry with rhythmic delta out of the left associated with more fast activity on the right which could have been normal activity and then a complex onset at 11:36-38 with bilateral activity. A more generalized pattern of epileptiform activity was seen with an abrupt cessation of activity on the right at 11:37:20 and then cessation out of that seizure on the left at 11:37:30 and marked background slowing. This EEG is diagnostic of a
+complex partial form of epilepsy
+
+

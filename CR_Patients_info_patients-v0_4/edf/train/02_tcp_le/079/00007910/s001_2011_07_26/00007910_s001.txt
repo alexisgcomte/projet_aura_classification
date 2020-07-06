@@ -1,0 +1,30 @@
+HISTORY:
+A 52-year-old with recurrent seizures characterized by loss of consciousness while sitting at work. Remote history of
+seizures 25 years ago.
+MEDICATIONS:
+None.
+INTRODUCTION:
+Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with one-channel EKG.
+Photic stimulation is performed.
+DESCRIPTION OF RECORD:
+The background EEG includes generous beta activity. There is a fast, 12Hz alpha rhythm. The background is
+intermittently interrupted by bursts of theta.
+There are also bursts of higher amplitude sharply contoured activity identified bilaterally. These bursts are bilateral,
+sharply contoured. They seem to start perhaps with some alpha frequency activity in the left frontocentral region and at
+the end of the burst, there seems to be a right posterior temporal or central temporal sharp wave. There is an additional
+burst that almost looks like it should have muscle artifact in it, but review of the video indicates that the patient 1s not
+moving. He is relaxed, comfortable and interactive. A third burst of bilateral activity also seems to have a left temporal
+sharp wave mixed in.
+IMPRESSION:
+This is an unusual and interesting EEG due to:
+1. A very unusual appearing photo paroxysmal response.
+2. A 13 Hz alpha rhythm.
+3. Intermittent paroxysmal theta.
+4. Intermittent paroxysmal bursts, which are not well localized.
+CLINICAL CORRELATION:
+These findings are suspicious for an underlying generalized mechanism for seizures. Consideration for a secondary
+generalized mechanism is appropriate,
+Though the photo-paroxysmal response is more characteristic of PGE.
+
+
+

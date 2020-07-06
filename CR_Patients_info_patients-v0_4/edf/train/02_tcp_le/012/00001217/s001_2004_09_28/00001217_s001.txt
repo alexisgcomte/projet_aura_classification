@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 46-year-old, left-handed woman with meningioma and simple partial seizures characterized by unilateral numbness and then right peri-facial twitching.
+MEDICATIONS: CBZ
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a breach rhythm with accentuation of amplitude in the left central and temporal regions.  There is intermittent, focal slowing seen in the same regions, as well as some sharply contoured activity.  Brief drowsiness is characterized by slow rolling eye movements, but deeper stages of sleep are not achieved.  Hyperventilation elicits some head rocking, but no significant slowing.  Photic stimulation elicits driving. During photic stimulation, the driving response is a bit more prominent at T5 and there is some higher amplitude sharply contoured activity in that region that includes both the alpha and some wicket.
+HR:  90 BPM.
+IMPRESSION: Abnormal EEG due to:
+Intermittent focal slowing seen from the right centrotemporal region and sometimes in the right posterior temporal region.
+CLINICAL CORRELATION: The patient’s breach rhythm accentuates the activity seen, particularly at T5.  Additional evaluation for this patient’s epileptic focus would warrant a sleep recording.
+
+
+
+

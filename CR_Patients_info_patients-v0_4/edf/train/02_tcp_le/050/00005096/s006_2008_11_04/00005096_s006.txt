@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 65 year old with recurrent status epilepticus left side weakness, confusion and incontinence.
+MEDICATIONS: Aspirin, Lovenox, Ativan, Phenobarbital, Thiamine.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: The. background EEG demonstrates a continuous pattern of mixed frequency generous beta activity and small amount of theta. There is focal delta in the right frontal central region with a right frontal spike or sharp wave. There is also some muscle artifact in the same region. Spontaneous arouses are associated with an increase in beta. There is also intermittent subtle discontinuity. Other features of arousal include eye movement. Stimulation of the patient clearly produces an arousal response with eye opening and increase in faster frequency activity. An episode of mouth twitching is observed. Unfortunately, it is not possible to have the level of detail on the video to see this on the video, but the mouth twitching does seem characterized by muscle artifact particularly on the right. The mouth twitching occurs after the EEG technician stimulated the patient.
+HR: 116 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Abnormal background at times suppressed but at times with arousals.
+2. Focal slowing from the right hemisphere.
+3. Right frontal sharps.
+CLINICAL CORRELATION: For this critically ill intubated patient with refractory status epilepticus, positive features include the clear evidence of arousal with stimulation. The focal twitching is not associated with a scalp EEG correlate, however, the focus may be small enough not to create a scalp EEG correlate.
+
+
+
