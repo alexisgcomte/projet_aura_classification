@@ -1,0 +1,9 @@
+https://medium.com/analytics-vidhya/fuzzy-matching-in-python-2def168dee4a
+https://medium.com/datadriveninvestor/rake-rapid-automatic-keyword-extraction-algorithm-f4ec17b2886c
+https://pypi.org/project/rake-nltk/
+
+    
+Next step:
+By word
+Extract the key words and test on it
+
